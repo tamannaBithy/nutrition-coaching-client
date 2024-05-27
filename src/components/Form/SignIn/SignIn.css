@@ -1,0 +1,83 @@
+.signIn_container {
+  background-color: var(--light-yellow--);
+}
+
+.signIn_container .SignIn_logo {
+  max-width: 200px;
+  width: 100%;
+}
+
+.form-control {
+  border: 1px solid var(--secondary--);
+  padding: 8px 12px;
+}
+
+.form-control:focus {
+  border-color: var(--primary-gray--);
+  box-shadow: none !important;
+}
+
+.forgot_link {
+  color: var(--secondary--);
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.common_btn {
+  background-color: var(--primary--) !important;
+  max-width: 165px;
+  width: 100%;
+  border: 0;
+  color: white;
+}
+
+.common_btn:hover {
+  background-color: var(--secondary--) !important;
+  transition: all 0.5s ease-in-out;
+  color: #fff;
+}
+
+.signUp_link {
+  color: var(--secondary--);
+  font-size: 15px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s;
+}
+.signUp_link:hover {
+  text-decoration: underline;
+}
+
+.agreement_txt {
+  color: var(--gray-light--);
+}
+
+.google_btn,
+.facebook_btn,
+.apple_btn {
+  background-color: var(--secondary--);
+  color: #ffffff;
+}
+
+.google_btn:hover,
+.facebook_btn:hover,
+.apple_btn:hover {
+  background-color: var(--primary--);
+  transition: all 0.5s ease-in-out;
+}
+
+.agreement_txt strong {
+  color: var(--secondary--);
+}
+
+/*  */
+.password_input_group {
+  position: relative;
+}
+
+.open_eye_icon {
+  position: absolute;
+  cursor: pointer !important;
+  bottom: 25%;
+  right: 13%;
+}

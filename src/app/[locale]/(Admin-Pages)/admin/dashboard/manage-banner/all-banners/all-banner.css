@@ -1,0 +1,93 @@
+.banner-form-container,
+.list_banner_container {
+  background-color: var(--dash-bg--);
+  padding: 15px 25px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.banner_form_title h2,
+.list_banner_title h2 {
+  color: var(--primary--);
+  font-weight: 700;
+  font-size: 32px;
+}
+
+form .banner_img_field .image_drop_zone {
+  border: 1px dashed var(--dark-green--);
+  margin-top: 5px;
+}
+
+form .banner_img_field.image_drop_zone p {
+  color: var(--gray-light--);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+form .banner_heading_fields label,
+form .banner_paragraph_fields label,
+form .form-check-label,
+form .banner_img_field label,
+form .show_per_page_section label {
+  color: var(--gray-light--);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+form .banner_heading_fields input,
+form .banner_paragraph_fields input {
+  border: 1px solid var(--dark-green--);
+  margin-top: 5px;
+}
+
+form .banner_heading_fields input::placeholder,
+form .banner_paragraph_fields input::placeholder {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--gray-light--);
+}
+
+form .add_banner_btn input {
+  background-color: var(--primary--);
+  color: #fff;
+  border: 0 !important;
+  outline: 0 !important;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+
+form .add_banner_btn input:hover {
+  background-color: var(--dark-green--);
+  color: #fff;
+  transition: all 0.5s ease-in-out;
+}
+
+form .form-control:focus {
+  box-shadow: none;
+  outline: 0;
+  border-color: var(--dark-green--);
+}
+
+form .form-check-input:checked {
+  border-color: var(--dark-green--) !important;
+  background-color: var(--primary--);
+  cursor: pointer;
+}
+
+form .form-check-input:focus {
+  box-shadow: none !important;
+  outline: 0 !important;
+  border-color: var(--dark-green--) !important;
+  cursor: pointer;
+}
+
+form .form-select {
+  border-color: var(--dark-green--);
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+form .form-select:focus {
+  box-shadow: none;
+  outline: 0;
+  border-color: var(--dark-green--);
+}

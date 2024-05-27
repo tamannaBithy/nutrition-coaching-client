@@ -1,0 +1,82 @@
+.no_cart_data_title {
+  color: var(--primary--);
+}
+
+.back_weekly_menu_btn,
+.back_our_plans_btn {
+  background-color: var(--primary--) !important;
+  max-width: 200px;
+  width: 100%;
+  cursor: pointer !important;
+}
+
+.back_weekly_menu_btn:hover,
+.back_our_plans_btn:hover {
+  background-color: var(--secondary--) !important;
+  transition: all 0.5s ease-in-out;
+}
+
+.form-control {
+  border: 1px solid #092635;
+  padding: 8px 12px;
+}
+
+.form-control:focus {
+  border-color: var(--primary-gray--);
+  box-shadow: none !important;
+}
+
+.weekly_cart_table_title h2,
+.offered_cart_table_title h2,
+.amount_table_section .amount_table_title h2 {
+  color: var(--primary--);
+  font-size: 34px;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+.weekly_meals_cat_table thead tr td,
+.offered_meals_cat_table thead tr td {
+  font-weight: 700;
+  color: var(--secondary--);
+  text-align: center;
+}
+
+.weekly_meals_cat_table tbody tr td,
+.offered_meals_cat_table tbody tr td {
+  font-weight: 500;
+  color: var(--primary-gray--);
+  text-align: center;
+}
+
+.weekly_meals_cat_table tbody tr td .weekly_cart_delete,
+.offered_meals_cat_table tbody tr td .offered_cart_delete {
+  border: 0 !important;
+  background: 0 !important;
+}
+
+.amount_table tbody tr td strong {
+  color: var(--secondary--);
+}
+
+.amount_table tbody tr td {
+  color: var(--primary-gray--);
+}
+
+.pro_checkout_btn,
+.cont_weekly_menu_btn,
+.cont_offered_menu_btn {
+  width: 220px;
+  height: 50px;
+  border: 1px solid var(--primary--);
+  background-color: var(--primary--);
+  border-radius: 5px;
+  color: var(--secondary-gray--);
+}
+
+.pro_checkout_btn:hover,
+.cont_weekly_menu_btn:hover,
+.cont_offered_menu_btn:hover {
+  transition: all 0.5s ease-in-out;
+  background-color: var(--secondary--);
+}

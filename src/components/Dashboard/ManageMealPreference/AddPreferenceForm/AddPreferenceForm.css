@@ -1,0 +1,87 @@
+form .image_upZone .image_drop_zone {
+  border: 1px dashed var(--dark-green--);
+  margin-top: 5px;
+}
+
+form .image_upZone .image_drop_zone p {
+  color: var(--gray-light--);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+form .form-check-label,
+form .image_upZone label,
+form .show_per_page_section p {
+  color: var(--gray-light--);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+form .preference_name input {
+  width: 100%;
+  padding: 5px 15px;
+  border: 1px solid var(--dark-green--);
+  outline: 0 !important;
+  margin-top: 5px;
+}
+
+form .preference_name label {
+  color: var(--gray-light--);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+form .preference_name input::placeholder {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--gray-light--);
+}
+
+form .create_preference input {
+  background-color: var(--primary--);
+  color: #fff;
+  border: 0 !important;
+  outline: 0 !important;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+
+form .create_preference input:hover {
+  background-color: var(--dark-green--);
+  color: #fff;
+  transition: all 0.5s ease-in-out;
+}
+
+form .form-check-input:checked {
+  border-color: var(--dark-green--) !important;
+  background-color: var(--primary--);
+  cursor: pointer;
+}
+
+form .form-check-input:focus {
+  box-shadow: none !important;
+  outline: 0 !important;
+  border-color: var(--dark-green--) !important;
+  cursor: pointer;
+}
+
+form .form-control:focus {
+  box-shadow: none;
+  outline: 0;
+  border-color: var(--dark-green--);
+}
+
+form .form-select {
+  border-color: var(--dark-green--);
+  cursor: pointer;
+}
+
+form .form-select:focus {
+  box-shadow: none;
+  outline: 0;
+  border-color: var(--dark-green--);
+}
+.ingredients_fields_area {
+  border: 1px solid var(--dark-green--);
+  margin-top: 5px;
+}

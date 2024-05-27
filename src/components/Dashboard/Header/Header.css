@@ -1,0 +1,26 @@
+.custom-cursor-icon:hover {
+  cursor: pointer;
+}
+
+.custom-cursor-icon {
+  background: transparent;
+  border-top: 1px solid #c1c1c1;
+  font-size: 16px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 5px;
+}
+.custom-cursor-icon svg {
+  margin-top: 3px;
+  font-size: 18px;
+}
+.btn-mark-read {
+  border: none;
+  background-color: var(--primary--);
+  color: white;
+  border-radius: 2px;
+  margin: 5px 0px;
+  padding: 5px 0px;
+}

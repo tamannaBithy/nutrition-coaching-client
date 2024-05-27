@@ -1,0 +1,18 @@
+.weakly_heading h2 {
+  color: var(--primary--);
+  font-size: 34px;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+.weekly_menu_card_title {
+  color: var(--primary--);
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.weekly_meals_image {
+  position: relative;
+  min-height: 350px;
+  width: 100%;
+}

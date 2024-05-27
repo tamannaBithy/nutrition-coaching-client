@@ -1,0 +1,163 @@
+.css-13cymwt-control {
+  margin-top: 5px;
+}
+
+form .input_fields .input_fields_area {
+  border: 1px solid var(--dark-green--);
+  margin-top: 5px;
+}
+
+form .input_fields .input_fields_area input::placeholder {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--gray-light--);
+}
+
+form .set_images_field .image_drop_zone {
+  border: 1px dashed var(--dark-green--);
+  margin-top: 5px;
+}
+
+form .set_images_field .image_drop_zone p {
+  color: var(--gray-light--);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+form .input_fields label,
+form .set_images_field,
+.form-check.form-switch label,
+form .show_per_page_section p {
+  color: var(--gray-light--);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+form .input_fields .g_btn {
+  padding: 7px;
+}
+
+form .form-control:focus {
+  box-shadow: none;
+  outline: 0;
+  border-color: var(--dark-green--);
+}
+
+form .rti--container {
+  margin-top: 5px;
+  padding: 6px 15px;
+  --rti-main: var(--dark-green--);
+  border-color: var(--dark-green--);
+}
+
+form .rti--container,
+form .rti--container .rti--input {
+  width: 100%;
+}
+/* Week picker css */
+.WeekPicker {
+  margin-left: 10px;
+}
+
+.rs-picker {
+  background: #fff;
+}
+.rs-calendar-body .rs-calendar-table-cell-week-number {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.rs-calendar-body
+  .rs-calendar-table-row:not(.rs-calendar-table-header-row):hover
+  .rs-calendar-table-cell-content {
+  background-color: rgba(204, 233, 255, 0.5);
+  background-color: var(--rs-listbox-option-hover-bg);
+  color: #1675e0;
+  color: var(--rs-listbox-option-hover-text);
+}
+
+.rs-calendar-body
+  .rs-calendar-table-row:not(.rs-calendar-table-header-row):has(
+    .rs-calendar-table-cell-selected
+  )
+  .rs-calendar-table-cell-content {
+  background-color: #3498ff;
+  background-color: var(--rs-bg-active);
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #fff;
+  color: var(--rs-calendar-date-selected-text);
+}
+
+.WeekPicker .weekInfos {
+  margin-top: 20px;
+}
+
+.WeekPicker .weekInfos > div {
+  margin-top: 10px;
+}
+
+.rs-picker-toggle-wrapper {
+  width: 100%;
+}
+
+.rs-input-group {
+  border: 1px solid var(--dark-green--);
+}
+
+.rs-input-group:not(.rs-input-group-disabled):hover {
+  border-color: var(--dark-green--);
+}
+
+.rs-input-group:focus-within {
+  outline: 0;
+  border-color: var(--dark-green--);
+}
+
+.rs-input-group:focus-within,
+.rs-input-group:not(.rs-input-group-disabled).rs-input-group-focus {
+  outline: 0;
+}
+
+form .form-check-input:checked {
+  border-color: var(--dark-green--) !important;
+  background-color: var(--primary--);
+  cursor: pointer;
+}
+
+form .form-check-input:focus {
+  box-shadow: none !important;
+  outline: 0 !important;
+  border-color: var(--dark-green--) !important;
+  cursor: pointer;
+}
+
+form .add_main_meal_btn input {
+  background-color: var(--primary--);
+  color: #fff;
+  border: 0 !important;
+  outline: 0 !important;
+  padding: 5px 15px;
+  border-radius: 5px;
+  max-width: 200px;
+  width: 100% !important;
+}
+
+form .add_main_meal_btn input:hover {
+  background-color: var(--dark-green--);
+  color: #fff;
+  transition: all 0.5s ease-in-out;
+}
+
+form .form-select {
+  border-color: var(--dark-green--);
+  cursor: pointer;
+}
+
+form .form-select:focus {
+  box-shadow: none;
+  outline: 0;
+  border-color: var(--dark-green--);
+}

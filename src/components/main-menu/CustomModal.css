@@ -1,0 +1,234 @@
+.custom_modal_container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(0 0 0 / 0.6);
+  backdrop-filter: blur(4px);
+  transition: all 0.5s ease-in;
+  overflow: auto;
+  animation: fadeIn 1000ms;
+}
+
+.custom_modal_container::-webkit-scrollbar {
+  display: none;
+}
+
+.custom_modal_dialog {
+  max-width: 80%;
+  display: flex;
+  align-items: center;
+  min-height: 800px;
+  margin: auto;
+}
+.custom_modal_dialog_content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  pointer-events: auto;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 0.3rem;
+  outline: 0;
+}
+
+.modal_image {
+  position: relative !important;
+  min-height: 500px;
+}
+
+.modal_image .badge_item {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: transparent;
+  background: var(--primary--);
+  padding: 5px 18px;
+  border-radius: 5px;
+}
+.modal_image .badge_item span {
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+}
+.custom_modal_header {
+  position: absolute;
+  top: 20px;
+  border: 0;
+  right: 20px;
+  z-index: 99;
+  background: #cccccc;
+  box-shadow: rgb(51, 160, 255) 0px 0px 0px 1px,
+    rgb(189, 224, 255) 0px 0px 0px 4px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.custom_modal_header button {
+  background: transparent;
+  border: none;
+  font-size: 21px;
+}
+.meal_title {
+  width: 364px;
+}
+.meal_title h5 {
+  font-size: 24px;
+  letter-spacing: 0.3px;
+  line-height: 32px;
+  font-weight: 600;
+  padding-top: 10px;
+}
+
+.popup_tag {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  padding-left: 0;
+  list-style: none;
+}
+.popup_tag li {
+  border: 1px solid var(--primary--);
+  background-color: var(--secondary-gray--);
+  padding: 7px 15px;
+  border-radius: 32px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--dark-green--);
+}
+.popup_starts {
+  border-top: 1px solid var(--primary--);
+  border-bottom: 1px solid var(--primary--);
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-top: 30px;
+}
+
+.popup_calories {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.pop_cal_img {
+  width: 90px;
+  text-align: center;
+}
+
+.pop_cal_img {
+  width: 90px;
+  text-align: center;
+}
+.pop_cal_img p {
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 1.8px;
+  line-height: 20px;
+  text-align: center;
+  color: var(--secondary--);
+}
+.popup_progress_round {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+.custom_width {
+  width: 85px;
+  height: 85px;
+}
+
+.pop_cal {
+  font-size: 60px;
+  color: var(--primary--);
+  text-align: center;
+  font-weight: 600;
+  line-height: 1;
+}
+.pop_cal p {
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 1.8px;
+  line-height: 20px;
+  text-align: center;
+  color: var(--secondary--);
+}
+.popup_more_button {
+  cursor: pointer;
+  background-color: #2d2d2d;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  padding: 15px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+}
+.popup_more_button span svg {
+  width: 30px;
+  height: 30px;
+}
+
+.modal_bottom_Ingredients {
+  background-color: #2d2d2d;
+  color: white;
+  animation: fadeIn 1000ms;
+}
+
+.ingredients h5 {
+  font-size: 18px;
+  font-weight: 600;
+}
+.ingredients p {
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.modal_image_nutrition_facts {
+  position: relative !important;
+  min-height: 600px;
+  max-width: 400px;
+}
+@media (max-width: 500px) {
+  .custom_modal_dialog {
+    max-width: 100% !important;
+  }
+  .popup_more_button {
+    position: relative;
+    width: 100%;
+  }
+  .custom_modal_header {
+    right: none;
+    left: 20px;
+  }
+  .modal_image {
+    position: relative !important;
+    min-height: 250px !important;
+  }
+}
+@media (max-width: 1024px) {
+  .custom_modal_dialog {
+    max-width: 90%;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,33 @@
+.type_meal_card {
+  background-color: #fff;
+  width: 100%;
+  height: 150px;
+  position: relative;
+}
+
+.meal_type_name h6 {
+  color: var(--dark-green--);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.type_meal_card .meal_type_settings {
+  position: absolute;
+  top: 4%;
+  right: 5%;
+  cursor: pointer;
+}
+
+.type_meal_card .meal_type_settings button {
+  border: 0 !important;
+  background-color: transparent !important;
+}
+
+.dropstart .dropdown-toggle::before {
+  content: none !important;
+}
+
+.dropdown-menu li .type_meal_edit_btn,
+.dropdown-menu li .type_meal_delete_btn {
+  color: var(--dark-green--);
+}

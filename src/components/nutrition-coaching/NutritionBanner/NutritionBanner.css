@@ -1,0 +1,24 @@
+.nutrition_hero_section {
+  background-image: url("/assets/nutrition-coaching/background_image.jpg");
+  width: 100%;
+  min-height: calc(100vh - 92px);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nutrition_hero_title h2 {
+  color: var(--primary--);
+  font-weight: 600;
+  line-height: 50px;
+}
+
+.nutrition_hero_txt p {
+  color: var(--primary-gray--);
+  font-size: 20px;
+  font-weight: 500;
+}

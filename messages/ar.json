@@ -1,0 +1,2073 @@
+{
+  "Navbar": {
+    "Home": "الرئيسية",
+    "WeeklyMenu": "القائمة الأسبوعية",
+    "OurPlans": "خططنا",
+    "OfferedMenu": "القائمة المقدمة",
+    "Calculators": "الحاسبات",
+    "NutritionCoaching": "تدريب التغذية",
+    "Blogs": "المدونات",
+    "customizedMeals": "وجبات مخصصة",
+    "Dashboard": "لوحة التحكم",
+    "Logout": "تسجيل الخروج",
+    "Login": "تسجيل الدخول"
+  },
+  "LocaleSwitcher": {
+    "title": "اللغة",
+    "lang": "English"
+  },
+  "BannerBtn": {
+    "label": "استكشاف الوجبات الأسبوعية"
+  },
+  "HowItWorks": {
+    "title": "كيف يعمل الأمر",
+    "cards": {
+      "cardOne": {
+        "title": "اختر وجباتك",
+        "paragraph": "قائمة جديدة تحتوي على أكثر من 30 خيارًا مصممًا من قبل أخصائي تغذية كل أسبوع."
+      },
+      "cardTwo": {
+        "title": "طهي مثالي",
+        "paragraph": "يقوم طهاتنا الفاخرين بالتحضير، حتى تتمكن من الاستمتاع بوقتك."
+      },
+      "cardThree": {
+        "title": "تسخين، تناول واستمتع",
+        "paragraph": "بدون تحضير. بدون فوضى. تصل وجباتنا جاهزة للتسخين والتناول في دقائق."
+      }
+    }
+  },
+  "FreshNutritiousMeals": {
+    "title": "وجبات غذائية طازجة ومغذية",
+    "nutritiousMeals": {
+      "listOne": {
+        "item_title": "وجبات طازجة، غير مجمدة أبدًا",
+        "paragraph": "نستخدم فقط المكونات العالية الجودة من شبكة شركائنا الموثوق بهم. جميع الوجبات محضرة من قبل الطهاة وموافق عليها من قبل أخصائي التغذية."
+      },
+      "listTwo": {
+        "item_title": "وجبات مصممة من قبل الطهاة",
+        "paragraph": "نستخدم فقط المكونات العالية الجودة من شبكة شركائنا الموثوق بهم. جميع الوجبات محضرة من قبل الطهاة وموافق عليها من قبل أخصائي التغذية."
+      },
+      "listThree": {
+        "item_title": "مصممة من قبل أخصائيي التغذية",
+        "paragraph": "نستخدم فقط المكونات العالية الجودة من شبكة شركائنا الموثوق بهم. جميع الوجبات محضرة من قبل الطهاة وموافق عليها من قبل أخصائي التغذية."
+      }
+    }
+  },
+  "ExploreTheMenu": {
+    "title": "استكشف القائمة",
+    "paragraph": "تصفح الوجبات الشهية الـ 35 المعروضة في قائمة هذا الأسبوع."
+  },
+  "DeliveryServicePlate": {
+    "title": "خدمة توصيل الوجبات الجاهزة رقم واحد في العراق",
+    "paragraph": "اختر من قائمة كاملة تحتوي على أكثر من 35 وجبة أسبوعية وأكثر من 55 خيار إضافي، بما في ذلك الوجبات الخفيفة والعصائر الطبيعية وغيرها."
+  },
+  "Footer": {
+    "col1": {
+      "paragraph": "اختر من قائمة كاملة تحتوي على أكثر من 35 وجبة أسبوعية وأكثر من 55 إضافة، بما في ذلك الوجبات الخفيفة والعصائر الطبيعية والمزيد."
+    },
+    "col2": {
+      "title": "خدماتنا",
+      "links": {
+        "weeklyMenu": "القائمة الأسبوعية",
+        "ourPlans": "خططنا",
+        "offeredMenu": "القائمة المقدمة",
+        "nutritionCoaching": "تدريب التغذية",
+        "Blogs": "المدونات"
+      }
+    },
+    "col3": {
+      "title": "الروابط",
+      "links": {
+        "PrivacyPolicy": "سياسة الخصوصية",
+        "Terms&Conditions": "البنود والشروط",
+        "Accessibility": "إمكانية الوصول"
+      }
+    },
+    "col4": {
+      "title": "مركز المساعدة",
+      "links": {
+        "Help&FAQ": "المساعدة والأسئلة الشائعة"
+      }
+    },
+    "col5": {
+      "title": "تواصل معنا"
+    },
+    "Copyright": "حقوق النشر © 2024 جميع الحقوق محفوظة"
+  },
+  "ExploreWeeklyMenu": {
+    "title": "استكشاف قائمتنا الأسبوعية المرنة",
+    "notFound": "لم يتم العثور على وجبات"
+  },
+  "OurPlans": {
+    "plansHeading": "أنشئ صندوقك الأول",
+    "headingDescription": "لا توجد التزامات، إلا تجاه نفسك. يمكنك إيقاف، إلغاء أو تغيير خطتك في أي وقت.",
+    "leftHeading": "1. اختر تفضيلاتك",
+    "leftDescription": "ستساعد تفضيلاتكنا في عرض الوجبات الأكثر صلة أولاً. ستظل لديك وصول إلى جميع الوجبات كل أسبوع.",
+    "leftOption": "يرجى تحديد خيار واحد على الأقل.",
+    "rightHeading": "2. اختر الوجبات لكل يوم",
+    "rightDescription": "الوجبات لكل يوم",
+    "rightHeadingOne": "3. حدد مدة الخطة بالأيام",
+    "rightDescriptionTwo": "مدة الخطة",
+    "plansBtn": "اختر خطة الوجبة"
+  },
+  "OfferedMenus": {
+    "pageTitle": "القوائم المعروضة",
+    "placeholder": "البحث بواسطة اسم الحزمة",
+    "notfound": "لم يتم العثور على بيانات البحث",
+    "readMore": "اقرأ المزيد",
+    "price": "السعر",
+    "addToCart": "أضف إلى السلة",
+    "total": "الإجمالي",
+    "meals": "الوجبات",
+    "protein": "البروتين",
+    "carbs": "الكربوهيدرات",
+    "fat": "الدهون",
+    "calories": "السعرات الحرارية",
+    "premiumProtein": "بروتين ممتاز",
+    "ingredients": "المكونات",
+    "ingredientsAndMore": "المكونات وأكثر",
+    "btnText": "اقرأ المزيد",
+    "eatLikeAChampion": "تناول الطعام مثل البطل",
+    "sideBarCanvas": {
+      "title1": "وجبة رئيسية",
+      "title2": "وجبة معروضة",
+      "title3": "تخصيص الوجبة",
+      "grandTotal": "المجموع الكلي",
+      "goToCart": "الانتقال إلى السلة",
+      "items": "العناصر",
+      "tableHead": {
+        "columns": {
+          "one": {
+            "label": "الصورة"
+          },
+          "two": {
+            "label": "اسم الوجبة"
+          },
+          "three": {
+            "label": "السعر"
+          },
+          "four": {
+            "label": "الكمية"
+          },
+          "five": {
+            "label": "المجموع الفرعي"
+          },
+          "six": {
+            "label": "الإجراءات"
+          }
+        }
+      }
+    }
+  },
+  "MainMealsMenu": {
+    "pageTitle": "القائمة الرئيسية",
+    "menu": "القائمة",
+    "filtersText": "الفلاتر",
+    "notFound": "لم يتم العثور على وجبات",
+    "goToOurPlanBtn": "الانتقال إلى خططنا",
+    "btnText": "تحميل المزيد",
+    "btnText2": "عرض المزيد أقل",
+    "addToCart": "أضف إلى السلة",
+    "readMore": "اقرأ المزيد",
+    "protein": "البروتين",
+    "fat": "الدهون",
+    "carbs": "الكربوهيدرات",
+    "placeholder": "البحث بواسطة كلمة مفتاحية (اسم الوجبة والتفضيلات)",
+    "calories": "السعرات الحرارية",
+    "premiumProtein": "بروتين ممتاز",
+    "ingredients": "المكونات",
+    "ingredientsAndMore": "المكونات وأكثر",
+    "filters": {
+      "filterByPreferences": "تصفية حسب التفضيلات",
+      "filterByTags": "تصفية حسب العلامات",
+      "filterByMealType": "تصفية حسب نوع الوجبة"
+    },
+    "caution": {
+      "title": "تحذير",
+      "mealsPerDay": "الوجبات في اليوم",
+      "planDuration": "مدة الخطة",
+      "mainMenuCartItems": "عناصر السلة في القائمة الرئيسية",
+      "days": "أيام"
+    },
+    "sideBarCanvas": {
+      "title1": "وجبة رئيسية",
+      "title2": "وجبة معروضة",
+      "title3": "تخصيص الوجبة",
+      "grandTotal": "المجموع الكلي",
+      "goToCart": "الانتقال إلى السلة",
+      "items": "العناصر",
+      "tableHead": {
+        "columns": {
+          "one": {
+            "label": "الصورة"
+          },
+          "two": {
+            "label": "اسم الوجبة"
+          },
+          "three": {
+            "label": "السعر"
+          },
+          "four": {
+            "label": "الكمية"
+          },
+          "five": {
+            "label": "المجموع الفرعي"
+          },
+          "six": {
+            "label": "الإجراءات"
+          }
+        }
+      }
+    }
+  },
+  "Calculators": {
+    "next": "التالي",
+    "back": "رجوع",
+    "result": "نتيجتك",
+    "submit": "إرسال",
+    "errorMsg": {
+      "error1": "يرجى اختيار الجنس وإدخال العمر قبل المتابعة.",
+      "error2": "يرجى إدخال الوزن والطول قبل المتابعة.",
+      "error3": "يرجى اختيار مستوى النشاط قبل المتابعة.",
+      "error4": "يرجى اختيار هدف النظام الغذائي قبل المتابعة.",
+      "error5": "يرجى اختيار نوع الجسم قبل المتابعة.",
+      "error6": "يجب أن يكون نسبة الدهون أكبر من أو تساوي 5"
+    },
+    "macroClc": {
+      "pageTitle": "آلة حاسبة الماكرو",
+      "paragraphTxt": "في غضون دقائق قليلة يمكنك حساب العدد الدقيق للكربوهيدرات والدهون والبروتين التي يجب عليك تناولها يوميًا. سواء كنت تسعى لفقدان الوزن أو بناء العضلات ، يمكن أن يساعدك العثور على الأطعمة التي تناسب ماكروهاتك في تحقيق أهداف لياقتك بشكل أسرع!",
+      "inputs": {
+        "gender": {
+          "title": "اختر جنسك",
+          "label": "رجل",
+          "label2": "امرأة",
+          "age": "العمر"
+        },
+        "weightHeight": {
+          "title": "اختر وزنك وطولك",
+          "label": "الوزن",
+          "label2": "الطول",
+          "placeholder1": "أدخل وزنك (كجم)",
+          "placeholder2": "أدخل طولك (سم)"
+        },
+        "alf": {
+          "title": "ما هو عامل نشاطك؟",
+          "label": {
+            "title": "ALF1",
+            "text": "وظيفة مكتبية - قليلة أو لا توجد ممارسة"
+          },
+          "label2": {
+            "title": "ALF2",
+            "text": "ممارسة خفيفة - 5+ ساعات في الأسبوع"
+          },
+          "label3": {
+            "title": "ALF3",
+            "text": "ممارسة معتدلة - 8+ ساعات في الأسبوع"
+          },
+          "label4": {
+            "title": "ALF4",
+            "text": "ممارسة يومية نشطة - 11+ ساعة في الأسبوع"
+          },
+          "label5": {
+            "title": "ALF5",
+            "text": "ممارسة شديدة نشاطًا - 11+ ساعة في الأسبوع مع الهواء الطلق"
+          },
+          "label6": {
+            "title": "ALF5",
+            "text": "نشاط إضافي - 12+ ساعة في الأسبوع مع الهواء الطلق ووظيفة جسدية"
+          }
+        },
+        "dietGoal": {
+          "title": "ما هو هدفك الغذائي؟",
+          "inputs": {
+            "label1": "بناء العضلات",
+            "label2": "الحفاظ على العضلات",
+            "label3": "فقدان الدهون"
+          }
+        },
+        "bodyType": {
+          "title": "ما هو نوع جسمك؟",
+          "inputs": {
+            "label1": "إيكتومورف",
+            "label2": "ميزومورف",
+            "label3": "أندرومورف"
+          }
+        },
+        "fatPercentage": {
+          "title": "اختر نسبة الدهون الخاصة بك:",
+          "inputs": {
+            "label1": "نسبة الدهون"
+          }
+        }
+      }
+    },
+    "ketoMacroClc": {
+      "pageTitle": "حاسبة النظام الغذائي الكيتوني",
+      "paragraphTxt": "في غضون دقائق قليلة يمكنك حساب العدد الدقيق من الكربوهيدرات والدهون والبروتين التي يجب أن تتناولها يوميًا لتحقيق حالة الكيتوز وتحقيق أهدافك على نظام غذائي كيتو.",
+      "inputs": {
+        "gender": {
+          "title": "اختر جنسك",
+          "label": "رجل",
+          "label2": "امرأة",
+          "age": "العمر"
+        },
+        "weightHeight": {
+          "title": "اختر وزنك وطولك",
+          "label": "الوزن",
+          "label2": "الطول",
+          "placeholder1": "أدخل وزنك (كجم)",
+          "placeholder2": "أدخل طولك (سم)"
+        },
+        "alf": {
+          "title": "ما هو معامل نشاطك",
+          "label": {
+            "title": "ALF1",
+            "text": "وظيفة مكتبية - قليل أو لا تمارس التمارين"
+          },
+          "label2": {
+            "title": "ALF2",
+            "text": "تمرين خفيف - 5+ ساعات في الأسبوع"
+          },
+          "label3": {
+            "title": "ALF3",
+            "text": "تمرين معتدل - 8+ ساعات في الأسبوع"
+          },
+          "label4": {
+            "title": "ALF4",
+            "text": "تمرين يومي نشط - 11+ ساعات في الأسبوع"
+          },
+          "label5": {
+            "title": "ALF5",
+            "text": "تمرين شديد النشاط - 11+ ساعة في الأسبوع مع الهواء"
+          },
+          "label6": {
+            "title": "ALF5",
+            "text": "نشاط إضافي - 12+ ساعة في الأسبوع مع الهواء ووظيفة بدنية"
+          }
+        },
+        "dietGoal": {
+          "title": "ما هو هدفك الغذائي؟",
+          "inputs": {
+            "label1": "الحفاظ على الوزن والعضلات",
+            "label2": "فقدان الدهون"
+          }
+        },
+        "fatPercentage": {
+          "title": "اختر نسبة الدهون الخاصة بك:",
+          "inputs": {
+            "label1": "نسبة الدهون"
+          }
+        }
+      }
+    }
+  },
+  "CustomizedMealsRequest": {
+    "title": "طلب وجبة مخصصة",
+    "form": {
+      "inputs": {
+        "one": {
+          "label": "اختر نوع الوجبة"
+        },
+        "two": {
+          "label": "البروتين",
+          "placeholder": "أدخل البروتين"
+        },
+        "three": {
+          "label": "الدهون",
+          "placeholder": "أدخل الدهون"
+        },
+        "four": {
+          "label": "الكربوهيدرات",
+          "placeholder": "أدخل الكربوهيدرات"
+        }
+      }
+    }
+  },
+  "NutritionCoaching": {
+    "btnTxt": "احجز الآن",
+    "next": "التالي",
+    "prev": "السابق",
+    "bannerTitle": "هل تحتاج إلى نصائح تغذية؟",
+    "paragraphTxt": "تحدث مع أخصائي تغذية مسجل اليوم مجانًا!",
+    "title1": "اختيار الموعد",
+    "title2": "جلسة تغذية توجيهية أولية مجانية",
+    "minutes": "دقائق",
+    "paragraphTxt1": "سواء كنت تبحث عن وضع أهداف متعلقة بالتغذية أو تحتاج إلى مساعدة في اختيار أفضل وجبات Factor بالنسبة لك، فإن فريقنا من أخصائيي التغذية المسجلين هنا للمساعدة!",
+    "paragraphTxt2": "في وقت الجلسة التوجيهية، سيتصل بك أخصائي التغذية عبر الهاتف أو الاجتماع عبر الإنترنت. يرجى التأكد من أن إعدادات البريد العشوائي لهاتفك تسمح بهذا الاتصال.",
+    "paragraphTxt3": "يرجى ملاحظة أن هذه الخدمة متاحة فقط للعملاء في إيران.",
+    "sessionBooking": {
+      "title": "حجز جلسة مع المدرب",
+      "note": "ملاحظة للمدرب",
+      "placeholder": "أدخل ملاحظة للمدرب",
+      "btn": "احجز الآن"
+    }
+  },
+  "Blogs": {
+    "blogsHero": {
+      "title": "اكتشف مدونة وجبات جيجا للحمية",
+      "text": "تناول اللذائح الغنية بالعناصر الغذائية"
+    },
+    "blogsCard": {
+      "placeholder": "البحث في المدونات",
+      "btnText": "إرسال",
+      "notFound": "لم يتم العثور على المدونة",
+      "nextTxt": "التالي",
+      "prevTxt": "السابق"
+    }
+  },
+  "Cart": {
+    "noItem": "لا توجد عناصر في هذه العربة!!",
+    "MainMealTables": {
+      "tableTitle": "الوجبات الرئيسية",
+      "tableHead": {
+        "columns": {
+          "one": {
+            "label": "#"
+          },
+          "two": {
+            "label": "الصورة"
+          },
+          "three": {
+            "label": "اسم الوجبة"
+          },
+          "four": {
+            "label": "الكمية"
+          },
+          "five": {
+            "label": "السعر"
+          },
+          "six": {
+            "label": "الإجمالي الفرعي"
+          },
+          "seven": {
+            "label": "العملية"
+          }
+        }
+      }
+    },
+    "OfferedMealsCartTable": {
+      "tableTitle": "الوجبات المعروضة",
+      "tableHead": {
+        "columns": {
+          "one": {
+            "label": "#"
+          },
+          "two": {
+            "label": "الصورة"
+          },
+          "three": {
+            "label": "اسم الوجبة"
+          },
+          "four": {
+            "label": "الكمية"
+          },
+          "five": {
+            "label": "السعر"
+          },
+          "six": {
+            "label": "الإجمالي الفرعي"
+          },
+          "seven": {
+            "label": "العملية"
+          }
+        }
+      }
+    },
+    "summary": {
+      "title": "الملخص",
+      "priceSummary": {
+        "subTotal": "الإجمالي الفرعي",
+        "Discount": "الخصم",
+        "Grandtotal": "المجموع الكلي"
+      }
+    },
+    "buttons": {
+      "backBtns": {
+        "one": "العودة إلى قائمة الطعام الأسبوعية",
+        "two": "العودة إلى قائمة الطعام المعروضة"
+      },
+      "proceed": "المتابعة إلى السداد",
+      "weeklyMenu": "متابعة القائمة الأسبوعية",
+      "mainMenu": "متابعة القائمة الرئيسية",
+      "divider": "أو",
+      "offeredMenu": "متابعة القائمة المعروضة"
+    }
+  },
+  "Login": {
+    "backBtn": "رجوع",
+    "signInBtn": "تسجيل الدخول",
+    "inputs": {
+      "placeholderOne": "البريد الإلكتروني أو رقم الهاتف",
+      "placeholderTwo": "أدخل كلمة المرور الخاصة بك"
+    },
+    "links": {
+      "one": "نسيت كلمة المرور؟",
+      "two": "لا تملك حساب؟ إنشاء حساب"
+    },
+    "socialBtn": {
+      "one": "المتابعة مع Google",
+      "two": "المتابعة مع Facebook"
+    },
+    "tramsAndCondition": {
+      "one": "من خلال المتابعة، أنت توافق على",
+      "two": "اتفاقية المستخدم الخاصة بنا",
+      "three": "و",
+      "four": "سياسة الخصوصية"
+    }
+  },
+  "Register": {
+    "backBtn": "العودة",
+    "signUpBtn": "التسجيل",
+    "inputs": {
+      "placeholderOne": "أدخل رقم هاتفك",
+      "placeholderTwo": "أدخل بريدك الإلكتروني",
+      "placeholderThree": "أدخل كلمة المرور الخاصة بك",
+      "placeholderFour": "تأكيد كلمة المرور"
+    },
+    "links": {
+      "one": "هل لديك حساب بالفعل؟ الرجاء تسجيل الدخول"
+    },
+    "socialBtn": {
+      "one": "المتابعة مع جوجل",
+      "two": "المتابعة مع فيسبوك"
+    }
+  },
+  "ResetPassword": {
+    "backBtn": "العودة",
+    "title": "إعادة تعيين كلمة المرور",
+    "steps": {
+      "one": {
+        "title": "الخطوة 1",
+        "description": "أدخل رقم هاتفك"
+      },
+      "two": {
+        "title": "الخطوة 2",
+        "description": "اختر للحصول على رمز التحقق"
+      },
+      "three": {
+        "title": "الخطوة 3",
+        "description": "تحقق من رمز التحقق"
+      },
+      "four": {
+        "title": "الخطوة 4",
+        "description": "أدخل كلمة المرور الجديدة"
+      }
+    },
+    "formSteps": {
+      "sendBtn": "إرسال",
+      "backBtn": "العودة",
+      "resendOtp": "إعادة إرسال رمز التحقق",
+      "one": {
+        "title": "أدخل هاتفك، وسنرسل رمز التحقق لإعادة تعيين كلمة المرور الخاصة بك.",
+        "inputPlaceholder": "أدخل رقم هاتفك"
+      },
+      "two": {
+        "title": "اختر طريقة الحصول على رمز التحقق",
+        "inputs": {
+          "one": "الهاتف",
+          "two": "WhatsApp"
+        }
+      },
+      "three": {
+        "title": "أدخل رمز التحقق للتحقق",
+        "timerTitle": "الوقت المتبقي",
+        "resend": {
+          "title": "لم تستلم الرمز؟"
+        }
+      },
+      "four": {
+        "title": "أدخل كلمة المرور الجديدة وتأكيد كلمة المرور",
+        "inputPlaceholderOne": "أدخل كلمة المرور الجديدة",
+        "inputPlaceholderTwo": "تأكيد كلمة المرور"
+      }
+    }
+  },
+  "Checkout": {
+    "button": "تقديم",
+    "title": "تفاصيل الفواتير",
+    "form": {
+      "label": {
+        "one": "عنوان الشحن",
+        "placeholderOne": "أدخل ملاحظاتك الخاصة",
+        "two": "ملاحظات الطلب",
+        "placeholderTwo": "أدخل ملاحظاتك الخاصة"
+      }
+    },
+    "paymentMethods": {
+      "title": "طلبك",
+      "methods": {
+        "one": {
+          "title": "الدفع عند الاستلام",
+          "paragraph": "الدفع نقدًا عند التسليم"
+        },
+        "two": {
+          "title": "التحويل البنكي عبر الإنترنت",
+          "paragraph": "الدفع عبر منصات الخدمات المصرفية عبر الإنترنت"
+        },
+        "three": {
+          "title": "الدفع المتنقل",
+          "paragraph": "الدفع باستخدام الأجهزة المحمولة، غالبًا من خلال المحافظ الرقمية أو التطبيقات"
+        }
+      },
+      "button": "المتابعة لتقديم الطلب"
+    }
+  },
+  "Dashboard": {
+    "Header": {
+      "notifications": {
+        "title": "الإشعارات",
+        "markAsReadAll": "وضع علامة على الكل كمقروء",
+        "markAsRead": "وضع علامة على القراءة",
+        "loadMore": "تحميل المزيد"
+      },
+      "profileToggle": {
+        "signInAs": "تم تسجيل الدخول باسم",
+        "profile": "الملف الشخصي",
+        "logout": "تسجيل الخروج"
+      }
+    },
+    "Profile": {
+      "title": "معلومات الملف الشخصي",
+      "updateBtnText": "تحديث المعلومات",
+      "contactDetails": {
+        "title": "تفاصيل الاتصال",
+        "inputs": {
+          "number": {
+            "label": "الرقم",
+            "placeHolder": "أدخل الرقم"
+          },
+          "email": {
+            "label": "البريد الإلكتروني",
+            "placeHolder": "أدخل البريد الإلكتروني"
+          }
+        },
+        "verificationStatus": "حالة التحقق",
+        "verifyBtnText": "التحقق الآن",
+        "inputText": "لا يمكنك تغيير رقم هاتفك"
+      },
+      "updatedErrors": {
+        "district": "المنطقة مطلوبة",
+        "name": "الاسم مطلوب",
+        "gender": "الجنس مطلوب",
+        "date_of_birth": "تاريخ الميلاد مطلوب",
+        "province": "المحافظة مطلوبة"
+      },
+      "resetPassword": {
+        "title": "إعادة تعيين كلمة المرور",
+        "updateBtn": "تحديث كلمة المرور",
+        "resetBtn": "إعادة تعيين",
+        "inputs": {
+          "one": {
+            "label": "كلمة المرور القديمة",
+            "placeholder": "أدخل كلمة المرور القديمة الخاصة بك"
+          },
+          "two": {
+            "label": "كلمة المرور الجديدة",
+            "placeholder": "أدخل كلمة المرور الجديدة الخاصة بك"
+          },
+          "three": {
+            "label": "تأكيد كلمة المرور الجديدة",
+            "placeholder": "تأكيد كلمة المرور الجديدة"
+          }
+        },
+        "waringMsgs": {
+          "one": "يجب أن تتطابق كلمة المرور الجديدة وتأكيد كلمة المرور الجديدة",
+          "two": "تمت مطابقة كلمة المرور الجديدة وتأكيد كلمة المرور"
+        }
+      },
+      "personalDetails": {
+        "title": "التفاصيل الشخصية",
+        "inputs": {
+          "name": {
+            "label": "الاسم",
+            "placeHolder": "أدخل الاسم"
+          },
+          "fatherName": {
+            "label": "اسم الأب",
+            "placeHolder": "أدخل اسم الأب"
+          },
+          "grandfatherName": {
+            "label": "اسم الجد",
+            "placeHolder": "أدخل اسم الجد"
+          },
+          "dateOfBirth": {
+            "label": "تاريخ الميلاد",
+            "placeHolder": "أدخل تاريخ الميلاد"
+          },
+          "gender": {
+            "label": "الجنس",
+            "label1": "ذكر",
+            "label2": "أنثى"
+          },
+          "province": {
+            "label": "المحافظة",
+            "placeHolder": "أدخل المحافظة"
+          },
+          "district": {
+            "label": "المنطقة",
+            "placeHolder": "أدخل المنطقة"
+          },
+          "locality": {
+            "label": "المنطقة",
+            "placeHolder": "أدخل المنطقة"
+          },
+          "neighborhood": {
+            "label": "الحي",
+            "placeHolder": "أدخل الحي"
+          },
+          "alley": {
+            "label": "الزقاق",
+            "placeHolder": "أدخل الزقاق"
+          },
+          "houseNumber": {
+            "label": "رقم المنزل",
+            "placeHolder": "أدخل رقم المنزل"
+          }
+        },
+        "verificationStatus": "حالة التحقق",
+        "verifyBtnText": "التحقق الآن"
+      },
+      "verificationStatus": {
+        "one": "تم التحقق",
+        "two": "لم يتم التحقق"
+      }
+    },
+    "MyOrders": {
+      "title": "طلباتي",
+      "showPerPage": "عرض في الصفحة",
+      "ordersForm": "نموذج الطلبات",
+      "ordersEnd": "نموذج الطلبات",
+      "notFound": "لا توجد بيانات",
+      "prevBtn": "السابق",
+      "nextBtn": "التالي",
+      "paymentStatus": {
+        "one": "تم الدفع",
+        "two": "لم يتم الدفع"
+      },
+      "orderStatus": {
+        "one": "قيد الانتظار",
+        "two": "مؤكد",
+        "three": "مرفوض"
+      },
+      "deliveryStatus": {
+        "one": "قيد الانتظار",
+        "two": "تم الشحن",
+        "three": "تم التوصيل"
+      },
+      "table": {
+        "tableHead": {
+          "one": "رقم الطلب",
+          "two": "حالة الدفع",
+          "three": "حالة الطلب",
+          "four": "حالة التوصيل",
+          "five": "تاريخ تقديم الطلب"
+        }
+      }
+    },
+    "ManageAllUser": {
+      "title": "إدارة المستخدمين",
+      "showPerPage": "عرض في الصفحة",
+      "actionAlerts": {
+        "disableUser": {
+          "title": "هل أنت متأكد؟",
+          "text": "هل تريد تعطيل حساب المستخدم؟",
+          "confirmButtonText": "نعم، قم بتعطيل الحساب!",
+          "cancelButtonText": "إلغاء",
+          "result": "تم التعطيل!"
+        },
+        "enableUser": {
+          "title": "هل أنت متأكد؟",
+          "text": "هل تريد تمكين حساب المستخدم؟",
+          "confirmButtonText": "نعم، قم بتمكين الحساب!",
+          "cancelButtonText": "إلغاء",
+          "result": "تم التمكين!"
+        }
+      },
+      "showPerPageOptions": {
+        "perPageOne": "20 في الصفحة",
+        "perPageTwo": "30 في الصفحة",
+        "perPageThree": "50 في الصفحة",
+        "perPageFour": "100 في الصفحة"
+      },
+      "search": {
+        "title": "البحث",
+        "placeholder": "أدخل كلمة البحث"
+      },
+      "tableHead": {
+        "one": "الاسم",
+        "two": "الدور",
+        "three": "الجنس",
+        "four": "الهاتف",
+        "five": "البريد الإلكتروني",
+        "six": "المحافظة",
+        "seven": "المنطقة",
+        "eight": "التحقق",
+        "nine": "الإجراء"
+      },
+      "pagination": {
+        "prev": "السابق",
+        "next": "التالي"
+      }
+    },
+    "ManageWeeklyMeals": {
+      "AddWeeklyMeals": {
+        "pageTitle": "إضافة وجبة أسبوعية",
+        "btnTxt": "إضافة الوجبة",
+        "alertMsg": "يرجى اختيار صورة واحدة بالضبط",
+        "inputs": {
+          "languagePreference": "تفضيل اللغة",
+          "selectCategory": {
+            "label": "اختر الفئة",
+            "placeholder": "اختر فئة الوجبة"
+          },
+          "setMealImages": {
+            "label": "تعيين صور الوجبة",
+            "placeholder": {
+              "one": "اسحب الصورة هنا (jpg ، jpeg ، png ، gif و bmp فقط)",
+              "two": "لا يمكنك إضافة أكثر من صورة واحدة هنا (jpg ، jpeg ، png ، gif و bmp فقط)",
+              "three": "اسحب وأسقط بعض الصور هنا ، أو انقر لتحديد الصور (jpg ، jpeg ، png ، gif و bmp فقط)"
+            },
+            "previewImages": "معاينة الصور"
+          },
+          "mealName": {
+            "label": "اسم الوجبة",
+            "placeholder": "أدخل اسم الوجبة"
+          },
+          "mealBadge": {
+            "label": "شارة الوجبة",
+            "placeholder": "أدخل شارة الوجبة (على سبيل المثال ، صحية ، غنية بالبروتين وما إلى ذلك)"
+          },
+          "mealTags": {
+            "label": "وسوم الوجبة",
+            "placeholder": "أدخل الوسوم"
+          },
+          "proteinAmount": {
+            "label": "كمية البروتين",
+            "placeholder": "أدخل كمية البروتين بالأرقام (على سبيل المثال ، 30)"
+          },
+          "fatAmount": {
+            "label": "كمية الدهون",
+            "placeholder": "أدخل كمية الدهون بالأرقام (على سبيل المثال ، 30)"
+          },
+          "carbsAmount": {
+            "label": "كمية الكربوهيدرات",
+            "placeholder": "أدخل كمية الكربوهيدرات بالأرقام (على سبيل المثال ، 30)"
+          },
+          "caloriesAmount": {
+            "label": "كمية السعرات الحرارية",
+            "placeholder": "السعرات الحرارية"
+          },
+          "nutritionFactsImage": {
+            "label": "صورة حقائق التغذية",
+            "placeholder": {
+              "one": "اسحب الصورة هنا (jpg ، jpeg ، png ، gif و bmp فقط)",
+              "two": "اسحب وأسقط صورة هنا ، أو انقر لتحديد صورة (jpg ، jpeg ، png ، gif و bmp فقط)"
+            },
+            "previewImage": "معاينة الصورة"
+          },
+          "ingredients": {
+            "label": "المكونات",
+            "placeholder": "أدخل مكونات الوجبات"
+          },
+          "heatingInstruction": {
+            "label": "تعليمات التسخين",
+            "placeholder": "أدخل تعليمات التسخين للوجبات"
+          },
+          "enterMealAvailability": {
+            "label": "إدخال توافر الوجبة",
+            "placeholder": "اختيار أسبوع التوافر",
+            "available": "ستكون هذه الوجبة متاحة من",
+            "unavailable": "ستكون هذه الوجبة غير متاحة من"
+          },
+          "visibleToUser": {
+            "label": "مرئي للمستخدم"
+          }
+        }
+      },
+      "RunningWeeklyMeals": {
+        "pageTitle": "الوجبات الأسبوعية الجارية",
+        "notFound": "لا توجد وجبات أسبوعية جارية",
+        "actionAlerts": {
+          "deleteRunningMeal": {
+            "title": "هل أنت متأكد؟",
+            "text": "لن تتمكن من التراجع عن هذا!",
+            "confirmButtonText": "نعم، احذفها!",
+            "cancelButtonText": "إلغاء",
+            "result": "تم الحذف!"
+          }
+        },
+        "inputs": {
+          "languagePreference": "تفضيل اللغة",
+          "selectPreference": {
+            "label": "حدد التفضيل",
+            "placeholder": "حدد التفضيل"
+          }
+        },
+        "showPerPage": {
+          "title": "عرض في الصفحة",
+          "options": {
+            "perPageOne": "20 في الصفحة",
+            "perPageTwo": "30 في الصفحة",
+            "perPageThree": "50 في الصفحة",
+            "perPageFour": "100 في الصفحة"
+          }
+        },
+        "search": {
+          "title": "بحث",
+          "placeholder": "ابحث باسم الوجبة"
+        },
+        "tableHead": {
+          "labelOne": "صورة",
+          "labelTwo": "اسم الوجبة",
+          "labelThree": "الفئة",
+          "labelFour": "متاحة من",
+          "labelFive": "غير متاحة من",
+          "labelSix": "الإجراءات"
+        },
+        "pagination": {
+          "prev": "السابق",
+          "next": "التالي"
+        }
+      },
+      "UpcomingWeeklyMeals": {
+        "pageTitle": "الوجبات الأسبوعية القادمة",
+        "notFound": "لا توجد وجبات أسبوعية قادمة",
+        "actionAlerts": {
+          "AvailableFrom": {
+            "title": "عفوًا...!",
+            "text": "لا يمكن أن يكون تاريخ البدء متاحًا قبل يوم الاثنين في الأسبوع القادم."
+          },
+          "UnavailableFrom": {
+            "title": "عفوًا...!",
+            "text": "لا يمكن أن يكون تاريخ البدء غير متاحًا قبل يوم الاثنين في الأسبوع القادم."
+          }
+        },
+        "DeleteUpcomingMeal": {
+          "title": "هل أنت متأكد؟",
+          "text": "لن تتمكن من التراجع عن هذا!",
+          "confirmButtonText": "نعم، احذفها!",
+          "cancelButtonText": "إلغاء",
+          "result": "تم الحذف!"
+        },
+        "inputs": {
+          "languagePreference": "تفضيل اللغة",
+          "selectPreference": {
+            "label": "حدد التفضيل",
+            "placeholder": "حدد التفضيل"
+          },
+          "datesFilter": {
+            "available": {
+              "title": "متاحة من"
+            },
+            "unavailable": {
+              "title": "غير متاحة من"
+            }
+          }
+        },
+        "showPerPage": {
+          "title": "عرض في الصفحة",
+          "options": {
+            "perPageOne": "20 في الصفحة",
+            "perPageTwo": "30 في الصفحة",
+            "perPageThree": "50 في الصفحة",
+            "perPageFour": "100 في الصفحة"
+          }
+        },
+        "search": {
+          "title": "بحث",
+          "placeholder": "ابحث باسم الوجبة"
+        },
+        "tableHead": {
+          "labelOne": "صورة",
+          "labelTwo": "اسم الوجبة",
+          "labelThree": "الفئة",
+          "labelFour": "متاحة من",
+          "labelFive": "غير متاحة من",
+          "labelSix": "الإجراءات"
+        },
+        "pagination": {
+          "prev": "السابق",
+          "next": "التالي"
+        }
+      },
+      "ExpiredWeeklyMeals": {
+        "pageTitle": "الوجبات الأسبوعية المنتهية",
+        "notFound": "لا توجد وجبات أسبوعية منتهية",
+        "actionAlerts": {
+          "UnavailableFrom": {
+            "title": "عفوًا...!",
+            "text": "لا يمكن أن يكون تاريخ البدء متاحًا قبل يوم الاثنين في الأسبوع الحالي أو أي تاريخ مستقبلي."
+          },
+          "UnavailableEnd": {
+            "title": "عفوًا...!",
+            "text": "لا يمكن أن يكون تاريخ الانتهاء غير متاح قبل يوم الاثنين في الأسبوع الحالي أو أي تاريخ مستقبلي."
+          },
+          "DeleteExpiredMeal": {
+            "title": "هل أنت متأكد؟",
+            "text": "لن تتمكن من التراجع عن هذا!",
+            "confirmButtonText": "نعم، احذفها!",
+            "cancelButtonText": "إلغاء",
+            "result": "تم الحذف!"
+          }
+        },
+        "inputs": {
+          "languagePreference": "تفضيل اللغة",
+          "selectPreference": {
+            "label": "حدد التفضيل",
+            "placeholder": "حدد التفضيل"
+          },
+          "datesFilter": {
+            "available": {
+              "title": "متاحة من"
+            },
+            "unavailable": {
+              "title": "غير متاحة من"
+            }
+          }
+        },
+        "showPerPage": {
+          "title": "عرض في الصفحة",
+          "options": {
+            "perPageOne": "20 في الصفحة",
+            "perPageTwo": "30 في الصفحة",
+            "perPageThree": "50 في الصفحة",
+            "perPageFour": "100 في الصفحة"
+          }
+        },
+        "search": {
+          "title": "بحث",
+          "placeholder": "ابحث باسم الوجبة"
+        },
+        "tableHead": {
+          "labelOne": "صورة",
+          "labelTwo": "اسم الوجبة",
+          "labelThree": "الفئة",
+          "labelFour": "متاحة من",
+          "labelFive": "غير متاحة من",
+          "labelSix": "الإجراءات"
+        },
+        "pagination": {
+          "prev": "السابق",
+          "next": "التالي"
+        }
+      }
+    },
+    "ManageMainMeals": {
+      "AddMainMeals": {
+        "pageTitle": "إضافة وجبة رئيسية",
+        "btnTxt": "إضافة الوجبة",
+        "alert": {
+          "one": "الرجاء اختيار صورة واحدة فقط",
+          "two": "الرجاء اختيار صورة واحدة فقط للقيم الغذائية"
+        },
+        "inputs": {
+          "languagePreference": "تفضيل اللغة",
+          "selectPreference": {
+            "label": "حدد التفضيل",
+            "placeholder": "حدد التفضيل"
+          },
+          "typeOfMeals": {
+            "label": "نوع الوجبات",
+            "placeholder": "حدد نوع الوجبة"
+          },
+          "setMealImages": {
+            "label": "تعيين صور الوجبات",
+            "placeholder": {
+              "one": "اسحب الصور هنا. (jpg، jpeg، png، gif و bmp فقط)",
+              "two": "لا يمكنك إضافة أكثر من صورة واحدة هنا. (jpg، jpeg، png، gif و bmp فقط)",
+              "three": "اسحب وأسقط بعض الصور هنا، أو انقر لتحديد الصور. (jpg، jpeg، png، gif و bmp فقط)"
+            },
+            "previewImages": "عرض الصور"
+          },
+          "mealName": {
+            "label": "اسم الوجبة",
+            "placeholder": "أدخل اسم الوجبة"
+          },
+          "mealBadge": {
+            "label": "شارة الوجبة",
+            "placeholder": "أدخل شارة الوجبة (مثلا، صحي، غني بالبروتين وما إلى ذلك)"
+          },
+          "mealTags": {
+            "label": "علامات الوجبة",
+            "placeholder": "أدخل العلامات"
+          },
+          "proteinAmount": {
+            "label": "كمية البروتين",
+            "placeholder": "أدخل كمية البروتين بالأرقام (مثلا، 30)"
+          },
+          "fatAmount": {
+            "label": "كمية الدهون",
+            "placeholder": "أدخل كمية الدهون بالأرقام (مثلا، 30)"
+          },
+          "carbsAmount": {
+            "label": "كمية الكربوهيدرات",
+            "placeholder": "أدخل كمية الكربوهيدرات بالأرقام (مثلا، 30)"
+          },
+          "caloriesAmount": {
+            "label": "كمية السعرات الحرارية",
+            "placeholder": "السعرات الحرارية"
+          },
+          "nutritionFactsImage": {
+            "label": "صورة القيم الغذائية",
+            "placeholder": {
+              "one": "اسحب الصور هنا. (jpg، jpeg، png، gif و bmp فقط)",
+              "two": "اسحب وأسقط صورة هنا، أو انقر لتحديد صورة. (jpg، jpeg، png، gif و bmp فقط)"
+            },
+            "previewImage": "عرض الصورة"
+          },
+          "ingredients": {
+            "label": "المكونات",
+            "placeholder": "أدخل مكونات الوجبة"
+          },
+          "heatingInstruction": {
+            "label": "تعليمات التسخين",
+            "placeholder": "أدخل تعليمات التسخين للوجبة"
+          },
+          "oldPrice": {
+            "label": "السعر القديم",
+            "placeholder": "أدخل السعر القديم للمنتج (اختياري)"
+          },
+          "regularPrice": {
+            "label": "السعر العادي",
+            "placeholder": "أدخل السعر العادي"
+          },
+          "visibleToUser": {
+            "label": "مرئي للمستخدم"
+          }
+        }
+      },
+      "AllMainMeals": {
+        "pageTitle": "جميع الوجبات الرئيسية",
+        "notFound": "الوجبات غير موجودة",
+        "tableInputs": {
+          "languagePreference": "تفضيل اللغة"
+        },
+        "showPerPage": {
+          "title": "عرض في الصفحة",
+          "options": {
+            "perPageOne": "20 في الصفحة",
+            "perPageTwo": "30 في الصفحة",
+            "perPageThree": "50 في الصفحة",
+            "perPageFour": "100 في الصفحة"
+          }
+        },
+        "search": {
+          "title": "البحث",
+          "placeholder": "البحث باسم الوجبة"
+        },
+        "table": {
+          "tableHead": {
+            "labelOne": "الصورة",
+            "labelTwo": "اسم الوجبة",
+            "labelThree": "التفضيل",
+            "labelFour": "نوع الوجبة",
+            "labelFive": "الإجراءات"
+          }
+        },
+        "alert": {
+          "one": "الرجاء اختيار صورة واحدة فقط",
+          "two": "الرجاء اختيار صورة واحدة فقط للقيم الغذائية"
+        },
+        "deleteMealAlert": {
+          "title": "هل أنت متأكد؟",
+          "text": "لن تتمكن من التراجع عن ذلك!",
+          "confirmButtonText": "نعم، قم بالحذف!",
+          "cancelButtonText": "إلغاء"
+        },
+        "inputs": {
+          "editMainMealsTitle": "تحرير الوجبات الرئيسية",
+          "languagePreference": "تفضيل اللغة",
+          "selectPreference": {
+            "label": "حدد التفضيل",
+            "placeholder": "حدد التفضيل"
+          },
+          "typeOfMeals": {
+            "label": "نوع الوجبات",
+            "placeholder": "حدد نوع الوجبة"
+          },
+          "setMealImages": {
+            "label": "تعيين صور الوجبات",
+            "placeholder": {
+              "one": "اسحب الصور هنا. (jpg، jpeg، png، gif و bmp فقط)",
+              "two": "لا يمكنك إضافة أكثر من صورة واحدة هنا. (jpg، jpeg، png، gif و bmp فقط)",
+              "three": "اسحب وأسقط بعض الصور هنا، أو انقر لتحديد الصور. (jpg، jpeg، png، gif و bmp فقط)"
+            },
+            "previewImages": "عرض الصور"
+          },
+          "mealName": {
+            "label": "اسم الوجبة",
+            "placeholder": "أدخل اسم الوجبة"
+          },
+          "mealBadge": {
+            "label": "شارة الوجبة",
+            "placeholder": "أدخل شارة الوجبة (مثلا، صحي، غني بالبروتين وما إلى ذلك)"
+          },
+          "mealTags": {
+            "label": "علامات الوجبة",
+            "placeholder": "أدخل العلامات"
+          },
+          "proteinAmount": {
+            "label": "كمية البروتين",
+            "placeholder": "أدخل كمية البروتين بالأرقام (مثلا، 30)"
+          },
+          "fatAmount": {
+            "label": "كمية الدهون",
+            "placeholder": "أدخل كمية الدهون بالأرقام (مثلا، 30)"
+          },
+          "carbsAmount": {
+            "label": "كمية الكربوهيدرات",
+            "placeholder": "أدخل كمية الكربوهيدرات بالأرقام (مثلا، 30)"
+          },
+          "caloriesAmount": {
+            "label": "كمية السعرات الحرارية",
+            "placeholder": "السعرات الحرارية"
+          },
+          "nutritionFactsImage": {
+            "label": "صورة القيم الغذائية",
+            "placeholder": {
+              "one": "اسحب الصور هنا. (jpg، jpeg، png، gif و bmp فقط)",
+              "two": "اسحب وأسقط صورة هنا، أو انقر لتحديد صورة. (jpg، jpeg، png، gif و bmp فقط)"
+            },
+            "previewImage": "عرض الصورة"
+          },
+          "ingredients": {
+            "label": "المكونات",
+            "placeholder": "أدخل مكونات الوجبة"
+          },
+          "heatingInstruction": {
+            "label": "تعليمات التسخين",
+            "placeholder": "أدخل تعليمات التسخين للوجبة"
+          },
+          "enterMealAvailability": {
+            "label": "أدخل توافر الوجبة",
+            "placeholder": "اختر الأسبوع المتاح",
+            "available": "سيتوفر هذا الوجبة من",
+            "unavailable": "لن يتوفر هذا الوجبة من"
+          },
+          "oldPrice": {
+            "label": "السعر القديم",
+            "placeholder": "أدخل السعر القديم للمنتج (اختياري)"
+          },
+          "regularPrice": {
+            "label": "السعر العادي",
+            "placeholder": "أدخل السعر العادي"
+          },
+          "visibleToUser": {
+            "label": "مرئي للمستخدم"
+          },
+          "updateBtn": "تحديث"
+        },
+        "pagination": {
+          "prev": "السابق",
+          "next": "التالي"
+        }
+      }
+    },
+    "ManageOfferedMeals": {
+      "AddOfferedMeals": {
+        "pageTitle": "إضافة حزمة وجبة معروضة",
+        "pageTitle2": "إضافة وجبة إلى الحزمة",
+        "btnTxt1": "إضافة الوجبة",
+        "btnTxt2": "تقديم",
+        "removeBtn": "إزالة",
+        "tabBtn": {
+          "one": "إضافة حزمة وجبة معروضة",
+          "two": "إضافة وجبة إلى الحزمة"
+        },
+        "alert": {
+          "one": "يرجى تحديد صورة واحدة فقط لحزمة الوجبات المعروضة",
+          "two": "يرجى تحديد صورة واحدة بالضبط",
+          "three": "يرجى تحديد صورة واحدة فقط للقيم الغذائية"
+        },
+        "inputs": {
+          "languagePreference": "تفضيل اللغة",
+          "packageImages": {
+            "label": "صور الحزمة",
+            "placeholder": {
+              "one": "حدد الصورة هنا ...(jpg, jpeg, png, gif و bmp فقط)",
+              "two": "اسحب وأفلت صورة هنا، أو انقر لتحديد صورة.(jpg, jpeg, png, gif و bmp فقط)"
+            },
+            "previewImage": "صورة معاينة"
+          },
+          "packageName": {
+            "label": "اسم الحزمة",
+            "placeholder": "أدخل اسم الحزمة"
+          },
+          "tags": {
+            "label": "العلامات",
+            "placeholder": "أدخل العلامات"
+          },
+          "price": {
+            "label": "السعر",
+            "placeholder": "أدخل السعر"
+          },
+          "visibleToUser": {
+            "label": "مرئي للمستخدم"
+          },
+          "image": {
+            "label": "صورة",
+            "placeholder": {
+              "one": "أضف الصورة هنا ...(jpg, jpeg, png, gif و bmp فقط)",
+              "two": "اسحب وأفلت صورة هنا، أو انقر لتحديد صورة.(jpg, jpeg, png, gif و bmp فقط)"
+            },
+            "previewImage": "صورة معاينة"
+          },
+          "nutritionFactsImage": {
+            "label": "صورة القيم الغذائية",
+            "placeholder": {
+              "one": "اسحب وأفلت الصورة هنا ...(jpg, jpeg, png, gif و bmp فقط)",
+              "two": "اسحب وأفلت الصورة هنا، أو انقر لتحديد صورة.(jpg, jpeg, png, gif و bmp فقط)"
+            },
+            "previewImage": "صورة معاينة"
+          },
+          "selectMealPackage": {
+            "label": "اختر حزمة الوجبة",
+            "placeholder": "حدد حزمة الوجبة"
+          },
+          "mealName": {
+            "label": "اسم الوجبة",
+            "placeholder": "أدخل اسم الوجبة"
+          },
+          "proteinAmount": {
+            "label": "كمية البروتين",
+            "placeholder": "أدخل كمية البروتين بالرقم (على سبيل المثال، 30)"
+          },
+          "fatAmount": {
+            "label": "كمية الدهون",
+            "placeholder": "أدخل كمية الدهون بالرقم (على سبيل المثال، 30)"
+          },
+          "carbsAmount": {
+            "label": "كمية الكربوهيدرات",
+            "placeholder": "أدخل كمية الكربوهيدرات بالرقم (على سبيل المثال، 30)"
+          },
+          "caloriesAmount": {
+            "label": "كمية السعرات الحرارية",
+            "placeholder": "السعرات الحرارية"
+          },
+          "ingredients": {
+            "label": "المكونات",
+            "placeholder": "أدخل مكونات الوجبة"
+          },
+          "heatingInstruction": {
+            "label": "تعليمات التسخين",
+            "placeholder": "أدخل تعليمات التسخين للوجبة"
+          },
+          "offeredMeals": "الوجبات المعروضة"
+        }
+      },
+      "AllOfferedMeals": {
+        "pageTitle": "إدارة الوجبات المعروضة",
+        "notFound": "لا توجد وجبات",
+        "languagePreference": "تفضيل اللغة",
+        "deleteAlertMsg": {
+          "title": "هل أنت متأكد؟",
+          "text": "لن تتمكن من التراجع عن هذا! ولكن يمكنك إعادة إضافته.",
+          "confirmButtonText": "نعم، قم بالحذف!",
+          "cancelButtonText": "إلغاء",
+          "result": "تمت الإزالة!"
+        },
+        "showPerPage": {
+          "title": "عرض في كل صفحة",
+          "options": {
+            "perPageOne": "20 لكل صفحة",
+            "perPageTwo": "30 لكل صفحة",
+            "perPageThree": "50 لكل صفحة",
+            "perPageFour": "100 لكل صفحة"
+          }
+        },
+        "search": {
+          "title": "البحث",
+          "placeholder": "البحث بواسطة اسم الوجبة"
+        },
+        "table": {
+          "tableHead": {
+            "labelOne": "الصورة",
+            "labelTwo": "اسم الحزمة",
+            "labelThree": "الفئة",
+            "labelFour": "الإجراءات"
+          }
+        },
+        "pagination": {
+          "prev": "السابق",
+          "next": "التالي"
+        }
+      }
+    },
+    "ManageCustomizedMeals": {
+      "AddCustomizedMeals": {
+        "pageTitle": "إضافة وجبات مخصصة",
+        "alert": "يرجى اختيار صورة واحدة فقط",
+        "btn": "إضافة الوجبة",
+        "inputs": {
+          "languagePreference": "تفضيل اللغة",
+          "image": {
+            "label": "الصورة",
+            "placeholder": {
+              "one": "اسحب الصورة هنا",
+              "two": "لا يمكنك إضافة أكثر من صورة واحدة هنا",
+              "three": "اسحب وأسقط بعض الصور هنا أو انقر لتحديد الصورة"
+            },
+            "previewImages": "معاينة الصور"
+          },
+          "mealTags": {
+            "label": "علامات الوجبة",
+            "placeholder": "أدخل علامات الوجبة"
+          },
+          "mealName": {
+            "label": "اسم الوجبة",
+            "placeholder": "أدخل اسم الوجبة"
+          },
+          "selectDiet": {
+            "label": "اختر النظام الغذائي",
+            "options": {
+              "one": "نظام كيتو",
+              "two": "نظام نظيف"
+            }
+          },
+          "protein": {
+            "label": "البروتين",
+            "placeholder": "أدخل البروتين (الرقم)"
+          },
+          "fadd": {
+            "label": "الدهون",
+            "placeholder": "أدخل الدهون (الرقم)"
+          },
+          "carbs": {
+            "label": "الكربوهيدرات",
+            "placeholder": "أدخل الكربوهيدرات (الرقم)"
+          },
+          "prp": {
+            "label": "بروتين الرياضيات",
+            "placeholder": "أدخل بروتين الرياضيات (الرقم)"
+          },
+          "prc": {
+            "label": "بروتين الكربوهيدرات",
+            "placeholder": "أدخل بروتين الكربوهيدرات (الرقم)"
+          },
+          "prf": {
+            "label": "بروتين الدهون",
+            "placeholder": "أدخل بروتين الدهون (الرقم)"
+          },
+          "mf": {
+            "label": "الدهون المشبعة",
+            "placeholder": "أدخل الدهون المشبعة (الرقم)"
+          },
+          "sf": {
+            "label": "الدهون غير المشبعة",
+            "placeholder": "أدخل الدهون غير المشبعة (الرقم)"
+          },
+          "of": {
+            "label": "دهون أخرى",
+            "placeholder": "أدخل الدهون الأخرى (الرقم)"
+          },
+          "fmf": {
+            "label": "الدهون المتعددة غير المشبعة",
+            "placeholder": "أدخل الدهون المتعددة غير المشبعة (الرقم)"
+          },
+          "ingredients": {
+            "label": "المكونات",
+            "placeholder": "أدخل المكونات"
+          },
+          "heatingInstruction": {
+            "label": "تعليمات التسخين",
+            "placeholder": "أدخل تعليمات التسخين"
+          },
+          "visibleToUser": "مرئي للمستخدم"
+        }
+      },
+      "AllCustomizedMeals": {
+        "pageTitle": "إضافة وجبات مخصصة",
+        "notFound": "الوجبات غير موجودة",
+        "inputs": {
+          "languagePreference": "تفضيل اللغة",
+          "deleteAlertMsg": {
+            "title": "هل أنت متأكد؟",
+            "text": "لن تتمكن من التراجع عن هذا!",
+            "confirmButtonText": "نعم، احذفها!",
+            "cancelButtonText": "إلغاء",
+            "result": "تم الحذف!"
+          },
+          "showPerPage": {
+            "title": "عرض في الصفحة",
+            "options": {
+              "perPageOne": "20 في الصفحة",
+              "perPageTwo": "30 في الصفحة",
+              "perPageThree": "50 في الصفحة",
+              "perPageFour": "100 في الصفحة"
+            }
+          },
+          "search": {
+            "title": "البحث",
+            "placeholder": "البحث باسم الوجبة"
+          },
+          "table": {
+            "tableHead": {
+              "labelOne": "الصورة",
+              "labelTwo": "اسم الوجبة",
+              "labelThree": "نوع النظام الغذائي",
+              "labelFour": "الإجراءات"
+            }
+          },
+          "pagination": {
+            "prev": "السابق",
+            "next": "التالي"
+          }
+        }
+      },
+      "CustomizedMealsRequest": {
+        "title": "طلب وجبة مخصصة",
+        "tableHead": {
+          "labelOne": "رقم الطلب",
+          "labelTwo": "اسم العميل",
+          "labelThree": "رقم الهاتف للعميل",
+          "labelFour": "البريد الإلكتروني للعميل",
+          "labelFive": "عدد الوجبات في اليوم",
+          "labelSix": "مدة تكرار الوجبة",
+          "labelSeven": "الإجراء"
+        },
+        "notFound": "لا توجد بيانات"
+      }
+    },
+    "ManageMealPreference": {
+      "pageTitle": "إدارة تفضيلات الوجبات",
+      "btnTxt": "إرسال",
+      "editBtnTxt": "تعديل",
+      "notFound": "لا توجد تفضيلات",
+      "deleteBtnTxt": "حذف",
+      "alertMsg": {
+        "one": "الرجاء اختيار صورة واحدة فقط لصورة الوجبة المفضلة",
+        "two": "تم إنشاء تفضيل الوجبة بنجاح",
+        "three": "حدث خطأ ما!",
+        "four": "هل أنت متأكد؟",
+        "five": "هل تريد إزالة الوجبة المفضلة؟",
+        "six": "نعم، قم بإزالة الوجبة المفضلة!",
+        "seven": "إلغاء",
+        "eight": "تم الحذف!"
+      },
+      "inputs": {
+        "languagePreference": "تفضيل اللغة",
+        "preferenceName": {
+          "label": "اسم التفضيل",
+          "placeholder": "أدخل التفضيل"
+        },
+        "preferenceDescription": {
+          "label": "الوصف",
+          "placeholder": "أدخل وصف التفضيل"
+        },
+        "image": {
+          "label": "صورة التفضيل",
+          "placeholder": {
+            "one": "أفلت الصورة هنا ...(jpg، jpeg، png، gif و bmp فقط)",
+            "two": "اسحب وأفلت صورة هنا، أو انقر لتحديد صورة. (jpg، jpeg، png، gif و bmp فقط)"
+          },
+          "previewImage": "معاينة الصورة"
+        },
+        "visibleToUser": {
+          "label": "مرئي للمستخدم"
+        },
+        "editPreferenceMeals": {
+          "title": "تعديل تفضيلات الوجبات",
+          "btnTxt": "إرسال",
+          "alertMsg": "الرجاء اختيار صورة واحدة بالضبط",
+          "preferenceName": {
+            "label": "اسم التفضيل",
+            "placeholder": "أدخل التفضيل"
+          },
+          "preferenceDescription": {
+            "label": "الوصف",
+            "placeholder": "أدخل وصف التفضيل"
+          },
+          "image": {
+            "label": "صورة التفضيل",
+            "placeholder": {
+              "one": "أفلت الصورة هنا ...(jpg، jpeg، png، gif و bmp فقط)",
+              "two": "اسحب وأفلت صورة هنا، أو انقر لتحديد صورة. (jpg، jpeg، png، gif و bmp فقط)"
+            },
+            "previewImage": "معاينة الصورة"
+          },
+          "visibleToUser": {
+            "label": "مرئي للمستخدم"
+          }
+        }
+      }
+    },
+    "ManageMealsPerDay": {
+      "pageTitle": "إدارة الوجبات في اليوم",
+      "editTitle": "تعديل الوجبة في اليوم",
+      "btnTxt": "إرسال",
+      "editBtnTxt": "تعديل",
+      "deleteBtnTxt": "حذف",
+      "inputs": {
+        "mealsPerDay": {
+          "label": "عدد الوجبات في اليوم",
+          "placeholder": "أدخل عدد الوجبات في اليوم"
+        },
+        "visibleToUser": "مرئي للمستخدم"
+      }
+    },
+    "ManageMealType": {
+      "pageTitle": "إدارة نوع الوجبة",
+      "editTitle": "تعديل نوع الوجبة",
+      "btnTxt": "إنشاء",
+      "editBtnTxt": "تعديل",
+      "deleteBtnTxt": "حذف",
+      "updateBtnTxt": "تحديث",
+      "alertMsg": {
+        "title": "هل أنت متأكد؟",
+        "text": "هل تريد إزالة نوع الوجبة؟",
+        "confirmButtonText": "نعم، احذف!",
+        "cancelButtonText": "إلغاء",
+        "result": "تم الحذف!"
+      },
+      "inputs": {
+        "languagePreference": "تفضيل اللغة",
+        "typeOfMeal": {
+          "label": "نوع الوجبة",
+          "placeholder": "أدخل فطور، غداء، عشاء، مشروبات، حلوى، إلخ"
+        }
+      }
+    },
+    "ManageOrders": {
+      "notFound": "لم يتم العثور على بيانات",
+      "tabs": {
+        "name1": "الطلبات العادية",
+        "name2": "طلبات تخصيص الوجبات"
+      },
+      "alertMsg": {
+        "PaymentStatusChange": {
+          "title": "هل أنت متأكد؟",
+          "text": "هل تريد تغيير حالة الدفع؟ لا يمكن تغيير حالة الدفع بعد التحديث",
+          "confirmButtonText": "نعم، قم بتغيير حالة الدفع",
+          "cancelButtonText": "إلغاء",
+          "result": {
+            "one": "تم التمكين!",
+            "two": "خطأ!"
+          }
+        },
+        "OrderStatusChange": {
+          "title": "نجاح!"
+        },
+        "DeliveryStatusChange": {
+          "titleOne": "نجاح!",
+          "titleTwo": "خطأ!"
+        }
+      },
+      "titleOfCustomizedMeal": "طلبات تخصيص الوجبات",
+      "showPerPage": {
+        "title": "عرض لكل صفحة",
+        "options": {
+          "perPageOne": "20 لكل صفحة",
+          "perPageTwo": "30 لكل صفحة",
+          "perPageThree": "50 لكل صفحة",
+          "perPageFour": "100 لكل صفحة"
+        }
+      },
+      "search": {
+        "title": "بحث",
+        "placeholder": "أدخل معرف الطلب للبحث"
+      },
+      "ordersDate": {
+        "from": {
+          "title": "تاريخ الطلبات من"
+        },
+        "to": {
+          "title": "تاريخ انتهاء الطلبات"
+        }
+      },
+      "tableHead": {
+        "labelOne": "معرف الطلب",
+        "labelTwo": "اسم العميل",
+        "labelThree": "البريد الإلكتروني للعميل",
+        "labelFour": "عنوان التسليم",
+        "labelFive": "حالة الدفع",
+        "labelSix": "حالة الطلب",
+        "labelSeven": "حالة التسليم",
+        "labelEight": "طريقة الدفع",
+        "labelNine": "تم الطلب في"
+      },
+      "order_status": {
+        "one": "قيد الانتظار",
+        "two": "تأكيد",
+        "three": "مرفوض"
+      },
+      "delivery_status": {
+        "one": "قيد الانتظار",
+        "two": "تم الشحن",
+        "three": "تم التسليم"
+      },
+      "pagination": {
+        "prev": "السابق",
+        "next": "التالي"
+      }
+    },
+    "ManageDiscounts": {
+      "title": "إدارة الخصومات",
+      "tabs": {
+        "tab1": "خصم القوائم الرئيسية",
+        "tab2": "تخصيص خصم الطلب",
+        "tab3": "خصم القوائم المعروضة",
+        "tab4": "خصم في المجموع"
+      },
+      "inputs": {
+        "discountStatus": {
+          "label": "حالة الخصم النشطة",
+          "label2": "حدد حالة الخصم",
+          "active": "نشط",
+          "inactive": "غير نشط"
+        },
+        "discountCategory": {
+          "label": "فئة الخصم",
+          "label2": "حدد الفئة",
+          "options": {
+            "one": "القائمة الرئيسية",
+            "two": "تخصيص الطلب",
+            "three": "العروض",
+            "four": "الطلب الكلي"
+          }
+        },
+        "selectCategory": {
+          "label": "حدد الفئة",
+          "options": {
+            "one": "القائمة الرئيسية",
+            "two": "تخصيص الطلب",
+            "three": "العروض",
+            "four": "الطلب الكلي"
+          }
+        },
+        "percentage": {
+          "label": "نسبة الخصم",
+          "placeholder": "أدخل نسبة الخصم"
+        },
+        "maxPrice": {
+          "label": "الحد الأقصى للسعر",
+          "placeholder": "أدخل الحد الأقصى للسعر"
+        },
+        "minPrice": {
+          "label": "الحد الأدنى للسعر",
+          "placeholder": "أدخل الحد الأدنى للسعر"
+        },
+        "buttonText": "إنشاء"
+      },
+      "card": {
+        "percentageAmount": "النسبة المئوية",
+        "minimumPrice": "السعر الأدنى",
+        "maximumPrice": "السعر الأقصى",
+        "activeStatus": "حالة النشاط",
+        "buttonsGroup": {
+          "editButton": "تحرير",
+          "deleteButton": "حذف"
+        }
+      },
+      "buttonUpdateText": "تحديث",
+      "modal": {
+        "title": "تحرير نطاق الخصم"
+      },
+      "swal": {
+        "title": "هل أنت متأكد؟",
+        "text": "هل ترغب في إزالة النطاق؟",
+        "confirmButtonText": "نعم، ازالة!",
+        "removed": "تمت الإزالة",
+        "cancelButtonText": "إلغاء"
+      }
+    },
+    "ManageCoach": {
+      "addCoach": {
+        "pageTitle": "إضافة مدرب",
+        "inputs": {
+          "languagePreference": "تفضيلات اللغة",
+          "coachImage": {
+            "label": "صورة المدرب",
+            "dropPlaceholder": "اسحب الصورة هنا ...(jpg، jpeg، png، gif، و bmp فقط)",
+            "dragPlaceHolder": "اسحب وأسقط صورة هنا، أو انقر لتحديد صورة.(jpg، jpeg، png، gif، و bmp فقط)",
+            "previewImage": "معاينة الصورة"
+          },
+          "name": {
+            "label": "اسم المدرب",
+            "placeHolder": "أدخل اسم المدرب"
+          },
+          "qualification": {
+            "label": "مؤهلات المدرب",
+            "placeHolder": "أدخل مؤهلات المدرب"
+          },
+          "details": {
+            "label": "تفاصيل المدرب",
+            "placeHolder": "أدخل تفاصيل المدرب"
+          },
+          "visible": {
+            "label": "مرئي للمستخدم"
+          },
+          "buttonText": "إضافة المدرب"
+        }
+      },
+      "listCoach": {
+        "pageTitle": "قائمة جميع المدربين",
+        "languagePreference": "تفضيلات اللغة",
+        "showPerPage": {
+          "title": "عرض في الصفحة",
+          "options": {
+            "perPageOne": "20 في الصفحة",
+            "perPageTwo": "30 في الصفحة",
+            "perPageThree": "50 في الصفحة",
+            "perPageFour": "100 في الصفحة"
+          }
+        },
+        "search": {
+          "title": "البحث",
+          "placeholder": "أدخل كلمة البحث"
+        },
+        "tableHead": {
+          "labelOne": "الصورة",
+          "labelTwo": "الاسم",
+          "labelThree": "المؤهلات",
+          "labelFour": "التفاصيل",
+          "labelFive": "الإجراء"
+        },
+        "pagination": {
+          "prev": "السابق",
+          "next": "التالي"
+        },
+        "notFound": "لم يتم العثور على بيانات"
+      },
+      "updateCoach": {
+        "pageTitle": "تحديث المدرب",
+        "inputs": {
+          "languagePreference": "تفضيلات اللغة",
+          "updateImage": {
+            "label": "صورة المدرب",
+            "dropPlaceholder": "اسحب الصورة هنا ...(jpg، jpeg، png، gif، و bmp فقط)",
+            "dragPlaceHolder": "اسحب وأسقط صورة هنا، أو انقر لتحديد صورة.(jpg، jpeg، png، gif، و bmp فقط)",
+            "previewImage": "معاينة الصورة"
+          },
+          "updateName": {
+            "label": "اسم المدرب",
+            "placeHolder": "أدخل اسم المدرب"
+          },
+          "updateQualification": {
+            "label": "مؤهلات المدرب",
+            "placeHolder": "أدخل مؤهلات المدرب"
+          },
+          "updateDetails": {
+            "label": "تفاصيل المدرب",
+            "placeHolder": "أدخل تفاصيل المدرب"
+          },
+          "visible": {
+            "label": "مرئي للمستخدم"
+          },
+          "buttonText": "تحديث المدرب"
+        }
+      }
+    },
+    "ManageBlogs": {
+      "addBlog": {
+        "pageTitle": "إضافة مدونة",
+        "languagePreference": "تفضيل اللغة",
+        "inputs": {
+          "blogImage": {
+            "label": "صورة المدونة",
+            "dropPlaceholder": "أفلت الصورة هنا ... (jpg، jpeg، png، gif و bmp فقط)",
+            "dragPlaceHolder": "اسحب وأفلت صورة هنا، أو انقر لتحديد صورة. (jpg، jpeg، png، gif و bmp فقط)",
+            "previewImage": "معاينة الصورة"
+          },
+          "blogTitle": {
+            "label": "عنوان المدونة",
+            "placeHolder": "أدخل عنوان المدونة"
+          },
+          "blogDescription": {
+            "label": "وصف المدونة",
+            "placeHolder": "أدخل وصف المدونة"
+          },
+          "blogTags": {
+            "label": "وسوم المدونة",
+            "placeHolder": "أدخل وسوم المدونة"
+          },
+          "buttonText": "إضافة المدونة"
+        }
+      },
+      "allBlogs": {
+        "pageTitle": "قائمة المدونات",
+        "languagePreference": "تفضيل اللغة",
+        "showPerPage": {
+          "title": "عرض لكل صفحة",
+          "options": {
+            "perPageOne": "20 لكل صفحة",
+            "perPageTwo": "30 لكل صفحة",
+            "perPageThree": "50 لكل صفحة",
+            "perPageFour": "100 لكل صفحة"
+          }
+        },
+        "search": {
+          "title": "بحث",
+          "placeholder": "أدخل كلمة البحث"
+        },
+        "tableHead": {
+          "labelOne": "الصورة",
+          "labelTwo": "العنوان",
+          "labelThree": "الوصف",
+          "labelFour": "الوسوم",
+          "labelFive": "الإجراء"
+        },
+        "pagination": {
+          "prev": "السابق",
+          "next": "التالي"
+        },
+        "notFound": "لا توجد بيانات"
+      },
+      "updateBlog": {
+        "title": "تحديث المدونة",
+        "btnText": "تحديث المدونة"
+      }
+    },
+    "ManageNotification": {
+      "pageTitle": "إضافة إشعار دفع",
+      "inputs": {
+        "languagePreference": "تفضيل اللغة",
+        "notificationName": {
+          "label": "اسم الإشعار",
+          "placeHolder": "أدخل اسم الإشعار"
+        },
+        "notificationDescription": {
+          "label": "وصف الإشعار",
+          "placeHolder": "أدخل وصف الإشعار"
+        },
+        "buttonText": "إضافة الإشعار"
+      }
+    },
+    "ManageBanner": {
+      "editBannerTitle": "تعديل البانر",
+      "update": "تحديث",
+      "addBanner": {
+        "pageTitle": "إضافة بانر",
+        "inputs": {
+          "languagePreference": "تفضيل اللغة",
+          "heading": {
+            "label": "عنوان البانر",
+            "placeholder": "أدخل عنوان البانر"
+          },
+          "paragraph": {
+            "label": "فقرة البانر",
+            "placeholder": "أدخل فقرة البانر"
+          },
+          "image": {
+            "label": "صورة البانر",
+            "dropPlaceholder": "أفلت الصورة هنا ... (jpg، jpeg، png، gif، و bmp فقط)",
+            "dragPlaceholder": "اسحب وأفلت الصورة هنا، أو انقر لتحديد صورة (jpg، jpeg، png، gif، و bmp فقط)",
+            "previewImage": "معاينة الصورة"
+          },
+          "visible": {
+            "label": "مرئي للمستخدم"
+          },
+          "buttonText": "إرسال"
+        }
+      },
+      "listBanner": {
+        "pageTitle": "إدارة البانر",
+        "languagePreference": "تفضيل اللغة",
+        "showPerPage": {
+          "title": "إظهار في الصفحة",
+          "options": {
+            "perPageOne": "20 في الصفحة",
+            "perPageTwo": "30 في الصفحة",
+            "perPageThree": "50 في الصفحة",
+            "perPageFour": "100 في الصفحة"
+          }
+        },
+        "search": {
+          "title": "البحث",
+          "placeholder": "أدخل كلمة البحث"
+        },
+        "tableHead": {
+          "labelOne": "الصورة",
+          "labelTwo": "العنوان",
+          "labelThree": "الإجراء"
+        },
+        "pagination": {
+          "prev": "السابق",
+          "next": "التالي"
+        },
+        "notFound": "لا توجد بيانات"
+      },
+      "swal": {
+        "title": "هل أنت متأكد؟",
+        "text": "لن تتمكن من التراجع عن هذا! ولكن يمكنك إعادته.",
+        "confirmButtonText": "نعم، احذفه!",
+        "removed": "تمت الإزالة",
+        "cancelButtonText": "إلغاء",
+        "text2": "تمت إزالة البانر الخاص بك."
+      }
+    },
+    "ManageSession": {
+      "title": "إدارة الجلسة",
+      "languagePreference": "تفضيل اللغة",
+      "showPerPage": {
+        "title": "إظهار في الصفحة",
+        "options": {
+          "perPageOne": "20 في الصفحة",
+          "perPageTwo": "30 في الصفحة",
+          "perPageThree": "50 في الصفحة",
+          "perPageFour": "100 في الصفحة"
+        }
+      },
+      "search": {
+        "title": "البحث",
+        "placeholder": "أدخل كلمة البحث"
+      },
+      "tableHead": {
+        "labelOne": "اسم المدرب",
+        "labelTwo": "ملاحظة",
+        "labelThree": "الحالة"
+      },
+      "notFound": "لا توجد بيانات"
+    },
+    "ManageFAQ": {
+      "pageTitle": "إضافة الأسئلة الشائعة",
+      "pageTitle2": "إدارة جميع الأسئلة الشائعة",
+      "pageTitle3": "تحديث الأسئلة الشائعة",
+      "title": "العنوان",
+      "placeHolder": "أدخل العنوان",
+      "languagePreference": "تفضيل اللغة",
+      "description": "الوصف",
+      "tableHead": {
+        "labelOne": "العنوان",
+        "labelTwo": "الوصف",
+        "labelThree": "الإجراءات"
+      },
+      "notFound": "البيانات غير موجودة",
+      "btnText": "إضافة",
+      "btnText2": "تحديث"
+    },
+    "ManagePrivacyPolicy": {
+      "pageTitle": "إضافة سياسة الخصوصية",
+      "languagePreference": "تفضيل اللغة",
+      "description": "الوصف",
+      "btnText": "إرسال"
+    },
+    "ManageTramsAndCondition": {
+      "pageTitle": "إضافة الشروط والأحكام",
+      "languagePreference": "تفضيل اللغة",
+      "description": "الوصف",
+      "btnText": "إرسال",
+      "btnText2": "تحديث"
+    }
+  },
+  "FAQ": {
+    "title": "الأسئلة الشائعة"
+  },
+  "TramsAndCondition": {
+    "title": "الشروط والأحكام"
+  },
+  "PrivacyPolicy": {
+    "title": "سياسة الخصوصية"
+  },
+  "NotFound": {
+    "title": "الصفحة غير موجودة",
+    "text": "لا يمكن العثور على الصفحة التي تبحث عنها",
+    "homeBtnText": "العودة إلى الصفحة الرئيسية",
+    "backBtnText": "الصفحة السابقة"
+  },
+  "AccessDeniedPage": {
+    "heading": "تم رفض الوصول",
+    "description": "ليس لديك المستوى المطلوب من الوصول لعرض هذه الصفحة",
+    "homeBtnText": "العودة إلى الصفحة الرئيسية",
+    "backBtnText": "الصفحة السابقة"
+  }
+}

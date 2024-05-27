@@ -1,0 +1,56 @@
+.checkout_form_container .left_column_title h2,
+.checkout_form_container .right_column_title h2 {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 24px;
+  color: var(--primary--);
+}
+
+.payment_section {
+  border: 1px solid var(--secondary-gray--);
+  margin-top: 30px;
+  background-color: var(--secondary-gray--);
+}
+
+.form-control {
+  border: 1px solid #092635;
+  padding: 8px 12px;
+}
+
+.form-control:focus {
+  border-color: var(--primary-gray--);
+  box-shadow: none !important;
+}
+
+.payment_method_txt {
+  padding-left: 30px;
+  font-size: 15px;
+  color: var(--gray-light--);
+}
+
+.place_order_btn {
+  background-color: var(--primary--) !important;
+  max-width: 250px;
+  width: 100%;
+}
+
+.place_order_btn:hover {
+  background-color: var(--secondary--) !important;
+  transition: all 0.5s ease-in-out;
+}
+
+.confirm-btn {
+  background-color: var(--primary--) !important;
+  border: 0 !important;
+  outline: 0 !important;
+}
+
+.cancel-btn {
+  background-color: var(--secondary--) !important;
+  border: 0 !important;
+  outline: 0 !important;
+}
+
+div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm:focus {
+  box-shadow: none !important;
+}

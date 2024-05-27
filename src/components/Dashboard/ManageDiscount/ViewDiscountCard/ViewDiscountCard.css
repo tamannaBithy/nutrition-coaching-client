@@ -1,0 +1,42 @@
+.discount_card {
+  background-color: #fff;
+  width: 100%;
+  height: 150px;
+  position: relative;
+}
+
+.discount_percentage_number h6,
+.discount_minimum_price h6 {
+  color: var(--dark-green--);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.discount_card .discount_settings {
+  position: absolute;
+  top: 4%;
+  right: 5%;
+  cursor: pointer;
+}
+
+.discount_card .discount_settings button {
+  border: 0 !important;
+  background-color: transparent !important;
+}
+
+.dropstart .dropdown-toggle::before {
+  content: none !important;
+}
+
+.dropdown-menu li .discount_edit_btn,
+.dropdown-menu li .discount_delete_btn {
+  color: var(--dark-green--);
+}
+.dropdown-menu li {
+  color: var(--dark-green--);
+  font-size: 18px;
+  text-align: start;
+  width: 100%;
+  margin: 5px 0px;
+  transition: all 0.3s;
+}

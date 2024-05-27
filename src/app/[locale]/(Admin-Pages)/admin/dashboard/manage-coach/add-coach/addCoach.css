@@ -1,0 +1,11 @@
+.add-coach-container {
+  background-color: var(--dash-bg--);
+  padding: 15px 25px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.add_coach_title h2 {
+  color: var(--primary--);
+  font-weight: 700;
+  font-size: 32px;
+}

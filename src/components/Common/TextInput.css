@@ -1,0 +1,10 @@
+input::placeholder {
+  color: var(--gray-light--) !important;
+  font-size: medium;
+}
+
+input {
+  padding: 10px;
+  max-width: 350px;
+  width: 100%;
+}

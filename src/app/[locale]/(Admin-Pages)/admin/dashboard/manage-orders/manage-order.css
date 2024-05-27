@@ -1,0 +1,513 @@
+.show_per_page_section p,
+.search_area_section p {
+  color: var(--dark-green--);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.form-select:focus {
+  box-shadow: none;
+  border-color: var(--primary--);
+}
+
+.form-select {
+  cursor: pointer;
+  color: var(--primary-gray--);
+  border: 1px solid var(--dark-green--) !important;
+}
+
+form .form-control:focus {
+  box-shadow: none;
+  border-color: var(--primary--);
+}
+
+form .from-control {
+  margin-right: 4px;
+  text-align: right;
+  border-radius: 5px;
+}
+
+form input::placeholder {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--gray-light--);
+}
+
+form .search_btn {
+  background-color: var(--primary--);
+  color: #fff;
+  border: 0 !important;
+  outline: 0 !important;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+.refetch_btn {
+  background-color: var(--primary--);
+  color: #fff;
+  border: 0 !important;
+  outline: 0 !important;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+
+form .search_btn:hover {
+  background-color: var(--dark-green--);
+  color: #fff;
+  transition: all 0.5s ease-in-out;
+}
+
+table thead tr td {
+  color: var(--secondary--);
+  font-size: 22px;
+  font-weight: 700;
+}
+
+table tbody tr td {
+  /* direction: rtl; */
+  color: var(--gray-light--);
+  font-size: 15px;
+  font-weight: 500;
+}
+table thead tr th {
+  /* direction: rtl; */
+  color: var(--gray-light--);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.pagination .prev_btn {
+  margin-right: 3px !important;
+}
+
+.pagination .next_btn {
+  margin-left: 3px !important;
+}
+
+.pagination .next_btn .page-link,
+.pagination .prev_btn .page-link {
+  border-color: var(--primary--);
+  background-color: var(--primary--);
+  color: #ffffff !important;
+  border-radius: 5px !important;
+  width: 100px !important;
+  height: 38px;
+}
+
+.pagination .next_btn .page-link:hover,
+.pagination .prev_btn .page-link:hover {
+  border-color: var(--dark-green--);
+  background-color: var(--dark-green--);
+  transition: all 0.5s ease-in-out;
+}
+
+.pagination .next_btn .page-link:focus,
+.pagination .prev_btn .page-link:focus,
+.pagination .page-item .page-link:focus {
+  box-shadow: none !important;
+}
+
+.pagination .next_btn.disabled .page-link,
+.pagination .prev_btn.disabled .page-link {
+  border-color: var(--primary--);
+  background-color: var(--light-green--);
+  color: #ffffff;
+}
+
+.pagination .page-item .page-link {
+  margin: 0px 4px;
+  border-radius: 50%;
+  width: 35px;
+  height: 38px;
+  color: var(--dark-green--);
+  border-color: var(--primary--);
+  text-align: center;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: var(--dark-green--);
+  color: #ffffff;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background-color: var(--primary--) !important;
+}
+
+.nav-link,
+.nav-link:hover {
+  color: var(--dark-green--);
+}
+
+.table_id:hover {
+  text-decoration: underline;
+}
+
+/* modal css */
+.modal_dialog_orders {
+  max-width: 70%;
+  width: 100%;
+  margin: auto;
+}
+form .update_blog_btn input {
+  background-color: var(--primary--);
+  color: #fff;
+  border: 0 !important;
+  outline: 0 !important;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+@media (max-width: 500px) {
+  .modal_dialog_orders {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: auto;
+  }
+}
+
+.modal-title {
+  color: var(--primary--);
+}
+
+.invoice_header {
+  width: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.customer_details p {
+  margin: 0;
+}
+.customer_info .title h3,
+.table_title {
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--dark-green--);
+}
+
+.signature {
+  border-top: 1.5px solid #000;
+}
+
+.btn-print {
+  background: var(--primary--);
+  color: white;
+  padding: 10px 35px;
+  border: none;
+  border-radius: 6px;
+}
+
+.customized-meal-form-main {
+  background-color: var(--dash-bg--);
+  padding: 15px 25px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.customized-meal-form-main .title h2 {
+  color: var(--primary--);
+  font-weight: 700;
+  font-size: 32px;
+  margin-bottom: 40px;
+}
+.delete_btn {
+  border: 0;
+  outline: none;
+  padding: 5px 10px;
+  color: rgb(239, 29, 29);
+  text-align: center;
+  background: transparent;
+  font-size: 20px;
+}
+
+.customized-meal-form-main .update-btn {
+  background-color: var(--primary--);
+  border: none;
+  color: white;
+  border-radius: 6px;
+  padding: 5px 15px;
+  margin-top: 6px;
+}
+
+.css-13cymwt-control {
+  margin-top: 5px;
+}
+
+form .input_fields .input_fields_area {
+  border: 1px solid var(--dark-green--);
+  margin-top: 5px;
+}
+
+form .input_fields .input_fields_area input::placeholder {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--gray-light--);
+}
+
+form .set_images_field .image_drop_zone {
+  border: 1px dashed var(--dark-green--);
+  margin-top: 5px;
+}
+
+form .set_images_field .image_drop_zone p {
+  color: var(--gray-light--);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+form .input_fields label,
+form .set_images_field,
+.form-check.form-switch label,
+form .show_per_page_section p {
+  color: var(--gray-light--);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+form .input_fields .g_btn {
+  padding: 7px;
+}
+
+form .form-control:focus {
+  box-shadow: none;
+  outline: 0;
+  border-color: var(--dark-green--);
+}
+
+form .rti--container {
+  padding: 6px 15px;
+  --rti-main: var(--dark-green--);
+  border-color: var(--dark-green--);
+}
+
+form .rti--container,
+form .rti--container .rti--input {
+  width: 100%;
+}
+/* Week picker css */
+.WeekPicker {
+  margin-left: 10px;
+}
+
+.rs-picker {
+  background: #fff;
+}
+.rs-calendar-body .rs-calendar-table-cell-week-number {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.rs-calendar-body
+  .rs-calendar-table-row:not(.rs-calendar-table-header-row):hover
+  .rs-calendar-table-cell-content {
+  background-color: rgba(204, 233, 255, 0.5);
+  background-color: var(--rs-listbox-option-hover-bg);
+  color: #1675e0;
+  color: var(--rs-listbox-option-hover-text);
+}
+
+.rs-calendar-body
+  .rs-calendar-table-row:not(.rs-calendar-table-header-row):has(
+    .rs-calendar-table-cell-selected
+  )
+  .rs-calendar-table-cell-content {
+  background-color: #3498ff;
+  background-color: var(--rs-bg-active);
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #fff;
+  color: var(--rs-calendar-date-selected-text);
+}
+
+.WeekPicker .weekInfos {
+  margin-top: 20px;
+}
+
+.WeekPicker .weekInfos > div {
+  margin-top: 10px;
+}
+
+.rs-picker-toggle-wrapper {
+  width: 100%;
+}
+
+.rs-input-group {
+  border: 1px solid var(--dark-green--);
+}
+
+.rs-input-group:not(.rs-input-group-disabled):hover {
+  border-color: var(--dark-green--);
+}
+
+.rs-input-group:focus-within {
+  outline: 0;
+  border-color: var(--dark-green--);
+}
+
+.rs-input-group:focus-within,
+.rs-input-group:not(.rs-input-group-disabled).rs-input-group-focus {
+  outline: 0;
+}
+
+form .form-check-input:checked {
+  border-color: var(--dark-green--) !important;
+  background-color: var(--primary--);
+  cursor: pointer;
+}
+
+form .form-check-input:focus {
+  box-shadow: none !important;
+  outline: 0 !important;
+  border-color: var(--dark-green--) !important;
+  cursor: pointer;
+}
+
+form .add_main_meal_btn input {
+  background-color: var(--primary--);
+  color: #fff;
+  border: 0 !important;
+  outline: 0 !important;
+  padding: 5px 15px;
+  border-radius: 5px;
+  max-width: 200px;
+  width: 100% !important;
+}
+
+form .add_main_meal_btn input:hover {
+  background-color: var(--dark-green--);
+  color: #fff;
+  transition: all 0.5s ease-in-out;
+}
+
+form .form-select {
+  border-color: var(--dark-green--);
+  cursor: pointer;
+}
+
+form .form-select:focus {
+  box-shadow: none;
+  outline: 0;
+  border-color: var(--dark-green--);
+}
+
+@media (max-width: 425px) {
+  .customized-meal-form-main .title h2 {
+    font-size: 24px;
+  }
+}
+
+.show_per_page_section p,
+.search_area_section p {
+  color: var(--dark-green--);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.form-select:focus {
+  box-shadow: none;
+  border-color: var(--primary--);
+}
+
+.form-select {
+  cursor: pointer;
+  color: var(--primary-gray--);
+  border: 1px solid var(--dark-green--) !important;
+}
+
+form .form-control:focus {
+  box-shadow: none;
+  border-color: var(--primary--);
+}
+
+form .from-control {
+  margin-right: 4px;
+  text-align: right;
+  border-radius: 5px;
+}
+
+form input::placeholder {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--gray-light--);
+}
+
+form .search_btn {
+  background-color: var(--primary--);
+  color: #fff;
+  border: 0 !important;
+  outline: 0 !important;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+
+form .search_btn:hover {
+  background-color: var(--dark-green--);
+  color: #fff;
+  transition: all 0.5s ease-in-out;
+}
+
+table thead tr td {
+  color: var(--secondary--);
+  font-size: 22px;
+  font-weight: 700;
+}
+
+table tbody tr td {
+  /* direction: rtl; */
+  color: var(--gray-light--);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.pagination .prev_btn {
+  margin-right: 3px !important;
+}
+
+.pagination .next_btn {
+  margin-left: 3px !important;
+}
+
+.pagination .next_btn .page-link,
+.pagination .prev_btn .page-link {
+  border-color: var(--primary--);
+  background-color: var(--primary--);
+  color: #ffffff !important;
+  border-radius: 5px !important;
+  width: 100px !important;
+  height: 38px;
+}
+
+.pagination .next_btn .page-link:hover,
+.pagination .prev_btn .page-link:hover {
+  border-color: var(--dark-green--);
+  background-color: var(--dark-green--);
+  transition: all 0.5s ease-in-out;
+}
+
+.pagination .next_btn .page-link:focus,
+.pagination .prev_btn .page-link:focus,
+.pagination .page-item .page-link:focus {
+  box-shadow: none !important;
+}
+
+.pagination .next_btn.disabled .page-link,
+.pagination .prev_btn.disabled .page-link {
+  border-color: var(--primary--);
+  background-color: var(--light-green--);
+  color: #ffffff;
+}
+
+.pagination .page-item .page-link {
+  margin: 0px 4px;
+  border-radius: 50%;
+  width: 35px;
+  height: 38px;
+  color: var(--dark-green--);
+  border-color: var(--primary--);
+  text-align: center;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: var(--dark-green--);
+  color: #ffffff;
+}

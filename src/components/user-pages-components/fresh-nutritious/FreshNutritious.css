@@ -1,0 +1,59 @@
+.freshNutritious-section {
+  margin-bottom: 100px;
+  background: #f1f1ea;
+  padding: 50px 0px;
+}
+
+.freshNutritious-section .heading {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.freshNutritious-section .heading h2 {
+  color: var(--primary--);
+  font-size: 34px;
+  font-weight: 600;
+  margin-bottom: 40px;
+  width: fit-content;
+  margin-bottom: 40px;
+}
+.freshNutritious-section .heading h2::before {
+  content: "";
+  width: 12%;
+  height: 5px;
+  background: #2a5631;
+  position: absolute;
+  bottom: 30px;
+  left: 45%;
+  border-radius: 4px;
+}
+
+.freshNutritious-section .freshNutritious_container .single_item {
+  display: flex;
+  align-items: center;
+  column-gap: 30px;
+}
+.freshNutritious-section .freshNutritious_container .single_item .icons {
+  width: 60px;
+  height: 60px;
+  border: 2px solid var(--primary--);
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.freshNutritious-section .freshNutritious_container .single_item .icons svg {
+  color: var(--primary--);
+  font-size: 20px;
+}
+.freshNutritious-section .freshNutritious_container .single_item .item_left h3 {
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--secondary--);
+}
+.freshNutritious-section .freshNutritious_container .single_item .item_left p {
+  margin: 0 !important;
+  font-size: 15px;
+  color: var(--gray-light--);
+}

@@ -1,0 +1,20 @@
+.manage-meal-type-container {
+  background-color: var(--dash-bg--);
+  padding: 15px 25px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.manage_meal_type_title {
+  color: var(--primary--);
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.meal_type_divider {
+  border-right: 1px solid var(--light-pink--);
+  height: auto;
+  width: 1px;
+  margin-right: 50px !important;
+  padding-right: 0px !important;
+  padding-left: 0 !important;
+}

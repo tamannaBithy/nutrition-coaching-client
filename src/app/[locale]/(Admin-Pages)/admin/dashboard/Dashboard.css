@@ -1,0 +1,565 @@
+.dashboard-main {
+  position: relative;
+}
+/* begin: sidebar css */
+.dashboard-main .app-side-bar {
+  position: fixed;
+  bottom: 0;
+  top: 0;
+  z-index: 60;
+  min-height: 100vh;
+  width: 18rem;
+  padding: 0rem 1rem;
+  transition: all 0.3s;
+  overflow-y: auto;
+}
+.dashboard-main .app-side-bar .logo {
+  width: 180px;
+  margin: auto;
+  padding-top: 20px;
+}
+/* .dashboard-main .app-side-bar .logo img {
+  height: auto;
+} */
+.cross_icon {
+  position: absolute;
+  right: 15px;
+  top: 5px;
+  display: block;
+}
+.cross_icon button {
+  border: none;
+  outline: none;
+  background: rgb(243 244 246);
+  color: #2f2f2f;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  font-size: 600;
+  border-radius: 50px;
+  transition: all 0.3s;
+}
+.cross_icon button:hover {
+  background: rgb(198, 199, 203);
+}
+.dashboard-main .app-side-bar .sidebar-content {
+  margin-top: 20px;
+  display: flex;
+  /* align-items: center; */
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+.dashboard-main .app-side-bar .sidebar-content .single-item {
+  cursor: pointer;
+}
+.dashboard-main .app-side-bar .sidebar-content .single-item a {
+  text-decoration: none;
+  color: #2f2f2f;
+}
+.dashboard-main .app-side-bar .sidebar-content .single-item .menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 8px;
+  background: #efefef;
+  padding: 0.26rem;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+.dashboard-main .app-side-bar .sidebar-content .single-item .menu:hover {
+  background-color: #f5f3ff;
+}
+.menuActive_bg {
+  background-color: #f5f3ff !important;
+}
+.dashboard-main .app-side-bar .sidebar-content .single-item .menu-arrow {
+  font-size: 14px;
+  margin-right: 8px;
+}
+.dashboard-main .app-side-bar .sidebar-content .single-item .rotate {
+  rotate: 90deg;
+}
+.dashboard-main .app-side-bar .sidebar-content .single-item .rotate-lang {
+  rotate: -90deg !important;
+}
+.dashboard-main .app-side-bar .sidebar-content .single-item .menu h4 {
+  font-size: 15px;
+  margin-bottom: 0;
+  font-weight: 500;
+  line-height: 22px;
+}
+.dashboard-main
+  .app-side-bar
+  .sidebar-content
+  .single-item
+  .menu
+  .side-bar-icon {
+  height: 2.25rem;
+  width: 2.25rem;
+  display: flex;
+  min-width: max-content;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  color: var(--primary--);
+}
+.dashboard-main
+  .app-side-bar
+  .sidebar-content
+  .single-item
+  .menu
+  .side-bar-icon
+  svg {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+.dashboard-main .app-side-bar .sidebar-content .single-item .menu .active {
+  background-color: var(--primary--);
+  color: white;
+}
+
+.dashboard-main .app-side-bar .sidebar-content .single-item .sub-menu {
+  height: 0px;
+  overflow: hidden;
+  margin-top: 5px;
+  transition: 0.3s;
+}
+.dashboard-main .app-side-bar .sidebar-content .single-item .submenu-height {
+  height: auto;
+}
+.dashboard-main .app-side-bar .sidebar-content .single-item .sub-menu .item {
+  font-size: 15px;
+  transition: all 0.3s;
+  padding-left: 3rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-radius: 6px;
+  transition: all 0.3s;
+}
+.active-item {
+  background-color: #f5f3ff;
+  color: var(--primary--);
+}
+.dashboard-main
+  .app-side-bar
+  .sidebar-content
+  .single-item
+  .sub-menu
+  .item:hover {
+  background-color: #f5f3ff;
+}
+
+/* end: sidebar css */
+
+/* begin: header css */
+.dashboard-main .main-wrapper header {
+  background-color: #ffffff;
+  position: sticky;
+  top: 0px;
+  z-index: 50;
+  display: flex;
+  height: 4rem;
+  width: 100%;
+  align-items: center;
+}
+.dashboard-main .main-wrapper header .toggle-button {
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.dashboard-main .main-wrapper header .profile {
+  position: relative;
+}
+.dashboard-main .main-wrapper .profile .profile-toggler {
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid;
+  border-radius: 30px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.dashboard-main .main-wrapper .profile .profile-toggler img {
+  border-radius: 30px;
+  object-fit: contain;
+}
+.dashboard-main .main-wrapper .profile .profileDropdown-content {
+  width: 14rem;
+  background: white;
+  border: 1px solid #efefef;
+  border-radius: 6px;
+  position: absolute;
+  visibility: visible;
+  left: -172px;
+  top: 54px;
+  display: none;
+}
+.dashboard-main .main-wrapper .profile .profileDropdown-content .email {
+  padding: 16px 14px;
+}
+.dashboard-main
+  .main-wrapper
+  .profile
+  .profileDropdown-content
+  .profile-item
+  hr {
+  padding-top: -11px !important;
+  margin: 0 !important;
+}
+.dashboard-main .main-wrapper .profile .profileDropdown-content .email p {
+  margin: 0 !important;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+.dashboard-main
+  .main-wrapper
+  .profile
+  .profileDropdown-content
+  .profile-item
+  .user-profile {
+  padding: 6px 14px;
+  transition: all 0.3s;
+}
+.dashboard-main
+  .main-wrapper
+  .profile
+  .profileDropdown-content
+  .profile-item
+  .user-profile:hover {
+  background: rgb(243 244 246);
+}
+.dashboard-main
+  .main-wrapper
+  .profile
+  .profileDropdown-content
+  .profile-item
+  .user-profile
+  a {
+  text-decoration: none;
+  color: rgb(100 116 139);
+}
+.dashboard-main
+  .main-wrapper
+  .profile
+  .profileDropdown-content
+  .profile-item
+  .item-text {
+  font-size: 16px;
+}
+.dashboard-main
+  .main-wrapper
+  .profile
+  .profileDropdown-content
+  .profile-item
+  .icon
+  svg {
+  width: 18px;
+  height: 18px;
+}
+.dashboard-main
+  .main-wrapper
+  .profile
+  .profileDropdown-content
+  .profile-item
+  .setting
+  svg {
+  width: 22px;
+  height: 22px;
+}
+.dashboard-main
+  .main-wrapper
+  .profile
+  .profileDropdown-content
+  .profile-item
+  .sing-out {
+  display: flex;
+  align-items: center;
+  column-gap: 5px;
+  padding: 6px 14px;
+}
+
+.dashboard-main
+  .main-wrapper
+  .profile
+  .profileDropdown-content
+  .profile-item
+  .sing-out {
+  color: rgb(100 116 139);
+  transition: all 0.3s;
+}
+.dashboard-main
+  .main-wrapper
+  .profile
+  .profileDropdown-content
+  .profile-item
+  .sing-out
+  button {
+  color: rgb(100 116 139);
+  background: transparent;
+  border: none;
+}
+.show {
+  display: block !important;
+}
+.dashboard-main
+  .main-wrapper
+  .profile
+  .profileDropdown-content
+  .profile-item
+  .sing-out:hover {
+  background: rgb(243 244 246);
+}
+.animate-fade-in-up {
+  animation: fade-in-up 0.25s ease-in-out;
+}
+.animate-fade-in-left {
+  animation: fade-in-left 0.3s ease-in-out;
+}
+
+.dashboard-main .main-wrapper header .notification {
+  position: relative;
+}
+.dashboard-main .main-wrapper header .notification .icon .badge {
+  position: absolute;
+  right: -4px;
+  top: -5px;
+  max-width: 16px;
+  width: 16px;
+  height: 16px;
+  background-color: rgb(244 63 94);
+  color: white;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+}
+.dashboard-main .main-wrapper header .notification .icon svg {
+  width: 24px;
+  height: 24px;
+  color: rgb(100 116 139);
+  cursor: pointer;
+}
+
+.dashboard-main .main-wrapper header .notification .notification-content {
+  width: 17.5rem;
+  height: 376px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #efefef;
+  border-radius: 6px;
+  position: absolute;
+  visibility: visible;
+  left: -272px;
+  top: 44px;
+  display: none;
+}
+.dashboard-main
+  .main-wrapper
+  header
+  .notification
+  .notification-content
+  .notification-header {
+  padding: 14px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.dashboard-main
+  .main-wrapper
+  header
+  .notification
+  .notification-content
+  .notification-header
+  button {
+  border: none;
+  background: transparent;
+  color: rgb(71 85 105);
+  font-size: 0.75rem;
+  line-height: 1rem;
+  transition: all 0.3s;
+}
+.dashboard-main
+  .main-wrapper
+  header
+  .notification
+  .notification-content
+  .notification-header
+  button:hover {
+  color: #8b5cf6;
+  font-weight: 500;
+}
+.dashboard-main
+  .main-wrapper
+  header
+  .notification
+  .notification-content
+  .notification-header
+  h6 {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin-bottom: 0;
+  color: rgb(30 41 59);
+  font-weight: 600;
+}
+.dashboard-main .main-wrapper header .notification .notification-content hr {
+  margin: 0 !important;
+}
+.dashboard-main
+  .main-wrapper
+  header
+  .notification
+  .notification-content
+  .notification-item {
+  display: flex;
+  column-gap: 16px;
+  padding: 12px 16px;
+}
+.dashboard-main
+  .main-wrapper
+  header
+  .notification
+  .notification-content
+  .notification-item
+  .order-icon {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(59 130 246);
+  color: rgb(219 234 254);
+  border-radius: 50px;
+}
+.dashboard-main
+  .main-wrapper
+  header
+  .notification
+  .notification-content
+  .notification-item
+  .order-icon
+  svg {
+  width: 20px;
+  height: 20px;
+}
+.dashboard-main
+  .main-wrapper
+  header
+  .notification
+  .notification-content
+  .notification-item
+  h6 {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  margin-bottom: 0;
+  color: rgb(82, 83, 86);
+}
+.dashboard-main
+  .main-wrapper
+  header
+  .notification
+  .notification-content
+  .notification-item
+  span {
+  font-size: 0.75rem;
+  line-height: 1rem;
+  color: rgb(148 163 184);
+}
+/* end: header css */
+
+.dashboard-main .main-wrapper {
+  display: flex;
+  flex: 1 1 0%;
+  flex-direction: column;
+  transition-property: margin;
+  transition-duration: 0.3s;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@media (min-width: 1024px) {
+  .dashboard-main .main-wrapper {
+    margin-left: 18rem;
+  }
+  .dashboard-main .main-wrapper-lang {
+    margin-right: 18rem;
+    margin-left: 0 !important;
+  }
+  .cross_icon {
+    position: absolute;
+    right: 15px;
+    display: none;
+  }
+}
+@keyframes fade-in-up {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+}
+@keyframes fade-in-left {
+  0% {
+    opacity: 0;
+    transform: translateX(-100px);
+  }
+}
+
+.app-side-bar::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+.app-side-bar::-webkit-scrollbar-track {
+  background: unset;
+}
+
+/* Handle */
+.app-side-bar::-webkit-scrollbar-thumb {
+  background: #bcc0c4;
+  border-radius: 25px;
+  display: none;
+  transition: 0.3s;
+  height: 20px;
+}
+.app-side-bar:hover::-webkit-scrollbar-thumb {
+  display: block;
+}
+
+.notification-content::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+.notification-content::-webkit-scrollbar-track {
+  background: unset;
+}
+
+/* Handle */
+.notification-content::-webkit-scrollbar-thumb {
+  background: #bcc0c4;
+  border-radius: 25px;
+  display: none;
+  transition: 0.3s;
+  height: 20px;
+}
+.notification-content:hover::-webkit-scrollbar-thumb {
+  display: block;
+}
+
+@media (max-width: 686px) {
+  .main-content {
+    padding: 0px !important;
+  }
+}
+
+@media (max-width: 500px) {
+  .dashboard-main .main-wrapper header .notification .notification-content {
+    left: -204px;
+  }
+}

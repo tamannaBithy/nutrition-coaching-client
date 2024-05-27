@@ -1,0 +1,104 @@
+.cartSticky .middleStickyBtn {
+  opacity: 0.8;
+  cursor: pointer;
+  position: fixed;
+  width: 80px;
+  height: 80px;
+  background: #8dc143;
+  color: white;
+  right: 0;
+  top: calc(120px + 30%);
+  box-shadow: 0 0 16px -1px rgb(0 0 0 / 52%);
+  transition: 0.1s ease-in-out;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  row-gap: 10px;
+  border: 0;
+}
+.cartSticky .middleStickyBtn svg {
+  font-size: 24px;
+}
+.cartSticky .btn-close {
+  top: 0;
+  background: transparent;
+  box-shadow: none;
+}
+.cartSticky .btn-close svg {
+  font-size: 22px;
+}
+.cartSticky .offcanvas {
+  max-width: 660px !important;
+  width: 100% !important;
+}
+.cartSticky .offcanvas .card-body {
+  max-width: 200px !important;
+  margin-left: auto;
+}
+
+.table_container .title h4 {
+  font-weight: 700;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+.table_container .delete_btn {
+  border: none;
+  background: none;
+}
+.table_container .delete_btn svg {
+  font-size: 18px !important;
+  color: brown;
+}
+
+.table_container table tr {
+  font-size: 14px;
+}
+
+.popup_footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+  position: absolute;
+  bottom: 0;
+  /* margin: 30px 0px; */
+  width: 100%;
+}
+.popup_footer button {
+  border: none;
+  background-color: var(--primary--);
+  padding: 10px 25px;
+  border-radius: 6px;
+  color: white;
+}
+.main-menu-canvas-body {
+  /* margin: 60px 0px !important; */
+}
+.quantity-btn {
+  column-gap: 10px;
+  justify-content: center;
+}
+.quantity-btn button {
+  border: none;
+  width: 25px;
+  height: 25px;
+  background: rgb(221, 221, 221);
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s;
+}
+.quantity-btn button:hover {
+  transform: scale(1.2);
+}
+
+@media (max-width: 500px) {
+  .cartSticky .middleStickyBtn {
+    width: 100%;
+    top: auto;
+    bottom: 0;
+  }
+}

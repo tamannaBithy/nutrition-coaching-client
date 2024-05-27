@@ -1,0 +1,52 @@
+form .type_of_meal input {
+  width: 100%;
+  padding: 5px 15px;
+  border: 1px solid var(--dark-green--);
+  outline: 0 !important;
+  margin-top: 5px;
+}
+
+form .type_of_meal input::placeholder {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--gray-light--);
+}
+
+form .type_of_meal label,
+form .show_per_page_section p {
+  color: var(--gray-light--);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+form .create_meal_type input {
+  background-color: var(--primary--);
+  color: #fff;
+  border: 0 !important;
+  outline: 0 !important;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+
+form .create_meal_type input:hover {
+  background-color: var(--dark-green--);
+  color: #fff;
+  transition: all 0.5s ease-in-out;
+}
+
+form .form-control:focus {
+  box-shadow: none;
+  outline: 0;
+  border-color: var(--dark-green--);
+}
+
+form .form-select {
+  border-color: var(--dark-green--);
+  cursor: pointer;
+}
+
+form .form-select:focus {
+  box-shadow: none;
+  outline: 0;
+  border-color: var(--dark-green--);
+}

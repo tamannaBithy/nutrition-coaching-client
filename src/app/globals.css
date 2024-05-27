@@ -1,0 +1,230 @@
+:root {
+  --primary--: #8dc143;
+  --dark-green--: #2a5631;
+  --secondary--: #092635;
+  --primary-gray--: #303c2d;
+  --secondary-gray--: #f1f1ea;
+  --light-pink--: #ded6c3bf;
+  --gray-light--: #747474;
+  --light-yellow--: #ece3ce;
+  --light-green--: #acdaa7;
+  --dark--: #000000;
+  --dash-bg--: #f5f3ff;
+}
+html {
+  font-family: var(--font-poppins--) !important;
+}
+body {
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.padding-top {
+  padding-top: 76px;
+}
+
+.table_image {
+  position: relative !important;
+  width: 100px;
+  height: 100px;
+}
+
+.not-found-main {
+  padding: 80px 16px;
+  max-width: 960px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.not-found-main .content svg {
+  position: absolute;
+  top: -74px;
+  right: 0px;
+  left: 0px;
+  z-index: 0;
+  opacity: 0.5;
+  font-size: 200px;
+}
+.not-found-main .content .item {
+  padding-top: 50px;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+.not-found-main .content .item h1 {
+  font-size: 50px;
+  color: #092635;
+  text-align: center;
+  font-weight: bold;
+}
+.not-found-main .content .item p {
+  margin: 20px 0px !important;
+  font-size: 15px;
+}
+.common-btn-l-e {
+  background: var(--primary--);
+  border-radius: 30px;
+  font-size: 16px;
+  color: white;
+  border: none;
+  padding: 10px 25px;
+  transition: all 0.3s;
+  text-decoration: none;
+}
+.common-btn-l-e:hover {
+  background: #558c5e;
+}
+.error-page-main {
+  max-width: 600px;
+  width: 100%;
+  margin: 0px auto;
+  text-align: center;
+}
+.error-page-main img {
+  object-fit: cover;
+}
+.error-page-main h2 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.root-loader {
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  /* display: none; <- Crashes Chrome on hover */
+  -webkit-appearance: none;
+  margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+input[type="number"] {
+  -moz-appearance: textfield; /* Firefox */
+}
+
+.access-denied svg {
+  font-size: 50px !important;
+  font-weight: 800 !important;
+}
+
+.notFound_meals {
+  width: 100%;
+  position: absolute !important;
+  left: 50%;
+  right: 50%;
+  transform: translate(-50%, -50%);
+}
+.notFound_meals_arabic {
+  width: 100%;
+  position: absolute !important;
+}
+
+.offcanvas-body::-webkit-scrollbar {
+  width: 10px;
+}
+.offcanvas-body::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+.offcanvas-body::-webkit-scrollbar-thumb {
+  background: var(--dark-green--);
+  border-radius: 10px;
+}
+.offcanvas-body::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.ProseMirror {
+  padding: 10px;
+  background: transparent;
+  border-radius: 0 0 5px 5px;
+  min-height: 100px;
+}
+
+.ProseMirror > * + * {
+  margin-top: 0.75em;
+}
+
+.ProseMirror ul {
+  padding: 0 1rem;
+  list-style: disc !important;
+}
+.ProseMirror ol {
+  padding: 0 2rem;
+  list-style: decimal !important;
+}
+
+.ProseMirror h1,
+.ProseMirror h2,
+.ProseMirror h3,
+.ProseMirror h4,
+.ProseMirror h5,
+.ProseMirror h6 {
+  line-height: 1.1;
+}
+
+.ProseMirror code {
+  background-color: rgba(#616161, 0.1);
+  color: #616161;
+}
+
+.ProseMirror pre {
+  background: #0d0d0d;
+  color: #fff;
+  font-family: "JetBrainsMono", monospace;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+}
+.ProseMirror code {
+  color: inherit;
+  padding: 0;
+  background: none;
+  font-size: 0.8rem;
+}
+
+.ProseMirror blockquote {
+  padding-left: 1rem;
+  border-left: 3px solid #999999;
+}
+
+.ProseMirror hr {
+  border: none;
+  border-top: 3px solid #999999;
+  margin: 2rem 0;
+}
+
+.heading3 {
+  font-size: 15px;
+}
+
+@media (max-width: 1199px) {
+  .padding-top {
+    padding-top: 70px;
+  }
+}
+@media (max-width: 500px) {
+  .notFound_meals h4 {
+    font-size: 16px;
+  }
+  .notFound_meals_arabic h4 {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 1004px) {
+  .notFound_meals_arabic {
+    margin-top: 1rem !important;
+  }
+}

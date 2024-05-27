@@ -1,0 +1,21 @@
+.add-offered-meal-container {
+  background-color: var(--dash-bg--);
+  padding: 15px 25px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.add_offered_meal_title h2 {
+  color: var(--primary--);
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background-color: var(--primary--) !important;
+}
+
+.nav-link,
+.nav-link:hover {
+  color: var(--dark-green--);
+}

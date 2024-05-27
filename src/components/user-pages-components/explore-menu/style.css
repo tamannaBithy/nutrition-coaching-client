@@ -1,0 +1,88 @@
+.explore_menu_header {
+  text-align: center;
+}
+.explore_menu_header h2 {
+  color: var(--primary--);
+  font-size: 34px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.explore_menu_header p {
+  color: #4b4d4c;
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+.explore_card::after {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  background: rgb(42, 86, 49);
+  background: linear-gradient(
+    0deg,
+    rgba(42, 86, 49, 0.8911939775910365) 0%,
+    rgba(42, 86, 49, 0.6446953781512605) 35%,
+    rgba(42, 86, 49, 0) 100%
+  );
+  left: 0;
+}
+.explore_overlay_title {
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  padding: 0 15px;
+}
+.explore_overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  bottom: 10px;
+  z-index: 999;
+}
+.explore_img {
+  color: transparent;
+  width: 100%;
+  min-height: 350px;
+  object-fit: cover;
+}
+.slick-slide {
+    padding: 3px;
+}
+.slick-prev {
+    left: -30px;
+    background: #2a5631;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    z-index: 999;
+}
+.slick-next:hover, .slick-next:focus{
+    background: #2a5631 !important;
+}
+.slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {
+    background: #2a5631 !important;
+}
+.slick-next {
+    right: -35px;
+    background: #2a5631;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    z-index: 999;
+}
+@media (max-width: 575.98px) { 
+    .slick-prev {
+        left: 0px;
+       
+    }
+    .slick-next {
+        right: 0px;
+        
+    }
+}

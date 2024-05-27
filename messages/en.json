@@ -1,0 +1,2080 @@
+{
+  "Navbar": {
+    "Home": "Home",
+    "WeeklyMenu": "Weekly Menu",
+    "OurPlans": "Our Plans",
+    "OfferedMenu": "Offered Menu",
+    "Calculators": "Calculators",
+    "NutritionCoaching": "Nutrition Coaching",
+    "Blogs": "Blogs",
+    "customizedMeals": "Customized Meal",
+    "Dashboard": "Dashboard",
+    "Logout": "Logout",
+    "Login": "Login"
+  },
+  "LocaleSwitcher": {
+    "title": "Lang",
+    "lang": "عربي"
+  },
+  "BannerBtn": {
+    "label": "Explore Weekly Meals"
+  },
+  "HowItWorks": {
+    "title": "How It Works",
+    "cards": {
+      "cardOne": {
+        "title": "Pick Your Meals",
+        "paragraph": "A new menu of 30+ dietitian-designed options every week."
+      },
+      "cardTwo": {
+        "title": "Cooked to Perfection",
+        "paragraph": "Our gourmet chefs do the prep, so you can do you."
+      },
+      "cardThree": {
+        "title": "Heat, Eat & Enjoy",
+        "paragraph": "No prep. No mess. Our meals arrive ready to heat and eat in minutes."
+      }
+    }
+  },
+  "FreshNutritiousMeals": {
+    "title": "Fresh Nutritious Meals",
+    "nutritiousMeals": {
+      "listOne": {
+        "item_title": "Fresh, Never-Frozen Meals",
+        "paragraph": "We only use premium ingredients from our network of trusted partners. All meals are Chef-prepared and Dietitian-approved."
+      },
+      "listTwo": {
+        "item_title": "Chef-Crafted Meals",
+        "paragraph": "We only use premium ingredients from our network of trusted partners. All meals are Chef-prepared and Dietitian-approved."
+      },
+      "listThree": {
+        "item_title": "Designed by Dietitians",
+        "paragraph": "We only use premium ingredients from our network of trusted partners. All meals are Chef-prepared and Dietitian-approved."
+      }
+    }
+  },
+  "ExploreTheMenu": {
+    "title": "Explore the Menu",
+    "paragraph": "Browse the 35 gourmet meals featured on this week’s menu."
+  },
+  "DeliveryServicePlate": {
+    "title": "Iraq's #1 Ready-to-Eat Meal Delivery Service",
+    "paragraph": "Choose from a full menu of 35+ weekly meals and 55+ add-ons, including snacks, smoothies, and more."
+  },
+  "Footer": {
+    "col1": {
+      "paragraph": "Choose from a full menu of 35+ weekly meals and 55+ add-ons, including snacks, smoothies, and more."
+    },
+    "col2": {
+      "title": "Our Services",
+      "links": {
+        "weeklyMenu": "Weekly Menu",
+        "ourPlans": "Our Plans",
+        "offeredMenu": "Offered Menu",
+        "nutritionCoaching": "Nutrition Coaching",
+        "Blogs": "Blogs"
+      }
+    },
+    "col3": {
+      "title": "Links",
+      "links": {
+        "PrivacyPolicy": "Privacy Policy",
+        "Terms&Conditions": "Terms & Conditions",
+        "Accessibility": "Accessibility"
+      }
+    },
+    "col4": {
+      "title": "Help Center",
+      "links": {
+        "Help&FAQ": "Help & FAQ"
+      }
+    },
+    "col5": {
+      "title": "Contact Us"
+    },
+    "Copyright": "Copyright © 2024, All Rights Reserved"
+  },
+  "ExploreWeeklyMenu": {
+    "title": "Explore our Flexible Weekly Menu",
+    "notFound": "No meals found"
+  },
+  "OurPlans": {
+    "plansHeading": "Create Your First Box",
+    "headingDescription": "No commitments, except to yourself. You can pause, cancel or change your plan at any time.",
+    "leftHeading": "1. Choose your preferences",
+    "leftDescription": "Your preferences will help us show you the most relevant meals first. You will still have access to all the meals each week.",
+    "leftOption": "Please select at least 1 option.",
+    "rightHeading": "2. Select meals per day",
+    "rightDescription": "Meals per day",
+    "rightHeadingOne": "3. Select Plan Duration Days",
+    "rightDescriptionTwo": " Plan Duration",
+    "plansBtn": "Select Meal Plan"
+  },
+  "OfferedMenus": {
+    "pageTitle": "Offered Menus",
+    "placeholder": "Search by package name",
+    "notfound": "No search data found",
+    "readMore": "Read More",
+    "price": "Price",
+    "addToCart": "Add To Cart",
+    "total": "Totals",
+    "meals": "Meals",
+    "protein": "Protein",
+    "carbs": "Carbs",
+    "fat": "Fat",
+    "calories": "Calories",
+    "premiumProtein": "Premium Protein",
+    "ingredients": "Ingredients",
+    "ingredientsAndMore": "INGREDIENTS & MORE",
+    "btnText": "Read More",
+    "eatLikeAChampion": "EAT LIKE A CHAMPION",
+    "sideBarCanvas": {
+      "title1": "Main meal",
+      "title2": "Offered meal",
+      "title3": "Customize meal",
+      "grandTotal": "Grand Total",
+      "goToCart": "Go to cart",
+      "items": "Items",
+      "tableHead": {
+        "columns": {
+          "one": {
+            "label": "Image"
+          },
+          "two": {
+            "label": "Meal Name"
+          },
+          "three": {
+            "label": "Price"
+          },
+          "four": {
+            "label": "Quantity"
+          },
+          "five": {
+            "label": "Sub Total"
+          },
+          "six": {
+            "label": "Actions"
+          }
+        }
+      }
+    }
+  },
+  "MainMealsMenu": {
+    "pageTitle": "Main Menu",
+    "menu": "Menu",
+    "filtersText": "Filters",
+    "notFound": "No meals found",
+    "goToOurPlanBtn": "Go To Our Plans",
+    "btnText": "Load More",
+    "btnText2": "Show More Less",
+    "addToCart": "Add To Cart",
+    "readMore": "Read More",
+    "protein": "PROTEIN",
+    "fat": "Fat",
+    "carbs": "Carbs",
+    "placeholder": "Search by keyword (Meal Name & Preferences)",
+    "calories": "Calories",
+    "premiumProtein": "Premium Protein",
+    "ingredients": "Ingredients",
+    "ingredientsAndMore": "INGREDIENTS & MORE",
+    "filters": {
+      "filterByPreferences": "Filter By Preferences",
+      "filterByTags": "Filter By Tags",
+      "filterByMealType": "Filter By Meal Type"
+    },
+    "caution": {
+      "title": "Caution",
+      "mealsPerDay": "Meals Per Day",
+      "planDuration": "Plan Duration",
+      "mainMenuCartItems": "Main Menu Cart Items",
+      "days": "days"
+    },
+    "sideBarCanvas": {
+      "title1": "Main meal",
+      "title2": "Offered meal",
+      "title3": "Customize meal",
+      "grandTotal": "Grand Total",
+      "goToCart": "Go to cart",
+      "items": "Items",
+      "tableHead": {
+        "columns": {
+          "one": {
+            "label": "Image"
+          },
+          "two": {
+            "label": "Meal Name"
+          },
+          "three": {
+            "label": "Price"
+          },
+          "four": {
+            "label": "Quantity"
+          },
+          "five": {
+            "label": "Sub Total"
+          },
+          "six": {
+            "label": "Actions"
+          }
+        }
+      }
+    }
+  },
+  "Calculators": {
+    "next": "Next",
+    "back": "Back",
+    "submit": "Submit",
+    "result": "Your Result",
+    "errorMsg": {
+      "error1": "Please select gender and enter age before proceeding.",
+      "error2": "Please enter weight and height before proceeding.",
+      "error3": "Please select ALF before proceeding.",
+      "error4": "Please select diet goal before proceeding.",
+      "error5": "Please select body type before proceeding.",
+      "error6": "Fat percentage must be greater than or equal to 5"
+    },
+    "macroClc": {
+      "pageTitle": "MACRO CALCULATOR",
+      "paragraphTxt": "In just a few minutes you can calculate the exact number of carbs, fat, and protein you should eat each day. Whether you are looking to lose weight or build muscle, finding foods that fit your macros can help you achieve your fitness goals faster!",
+      "inputs": {
+        "gender": {
+          "title": "Select your gender",
+          "label": "Man",
+          "label2": "Woman",
+          "age": "Age"
+        },
+        "weightHeight": {
+          "title": "Select your weight & height",
+          "label": "Weight",
+          "label2": "Height",
+          "placeholder1": "Enter your weight(kg)",
+          "placeholder2": "Enter your height(cm)"
+        },
+        "alf": {
+          "title": "What's your activity level factor",
+          "label": {
+            "title": "ALF1",
+            "text": "sedentary desk job – little or no exercise"
+          },
+          "label2": {
+            "title": "ALF2",
+            "text": "light exercise – 5+ hour/week"
+          },
+          "label3": {
+            "title": "ALF3",
+            "text": "moderate exercise – 8+ hour/week"
+          },
+          "label4": {
+            "title": "ALF4",
+            "text": "active daily exercise – 11+ hour/week"
+          },
+          "label5": {
+            "title": "ALF5",
+            "text": "very active intense exercise – 11+ hour/week with cardio"
+          },
+          "label6": {
+            "title": "ALF5",
+            "text": "extra active – 12+ hour/week with cardio and physical job "
+          }
+        },
+        "dietGoal": {
+          "title": "What's your Diet goal?",
+          "inputs": {
+            "label1": "Gain Muscles",
+            "label2": "Maintain Muscles",
+            "label3": "Loss Fat"
+          }
+        },
+        "bodyType": {
+          "title": "What's your Body type?",
+          "inputs": {
+            "label1": "Ectomorph",
+            "label2": "Mesomorph",
+            "label3": "Andromorph"
+          }
+        },
+        "fatPercentage": {
+          "title": "Select your Fat Percentage:",
+          "inputs": {
+            "label1": "Fat Percentage"
+          }
+        }
+      }
+    },
+    "ketoMacroClc": {
+      "pageTitle": "KETO MACRO CALCULATOR",
+      "paragraphTxt": "In just a few minutes you can calculate the exact number of carbs, fat, and protein you should eat each day to achieve ketosis and reach your goals on a keto diet.",
+      "inputs": {
+        "gender": {
+          "title": "Select your gender",
+          "label": "Man",
+          "label2": "Woman",
+          "age": "Age"
+        },
+        "weightHeight": {
+          "title": "Select your weight & height",
+          "label": "Weight",
+          "label2": "Height",
+          "placeholder1": "Enter your weight(kg)",
+          "placeholder2": "Enter your height(cm)"
+        },
+        "alf": {
+          "title": "What's your activity level factor",
+          "label": {
+            "title": "ALF1",
+            "text": "sedentary desk job – little or no exercise"
+          },
+          "label2": {
+            "title": "ALF2",
+            "text": "light exercise – 5+ hour/week"
+          },
+          "label3": {
+            "title": "ALF3",
+            "text": "moderate exercise – 8+ hour/week"
+          },
+          "label4": {
+            "title": "ALF4",
+            "text": "active daily exercise – 11+ hour/week"
+          },
+          "label5": {
+            "title": "ALF5",
+            "text": "very active intense exercise – 11+ hour/week with cardio"
+          },
+          "label6": {
+            "title": "ALF5",
+            "text": "extra active – 12+ hour/week with cardio and physical job "
+          }
+        },
+        "dietGoal": {
+          "title": "What's your Diet goal?",
+          "inputs": {
+            "label1": "Maintain Weight & Muscles",
+            "label2": "Loss Fat"
+          }
+        },
+        "fatPercentage": {
+          "title": "Select your Fat Percentage:",
+          "inputs": {
+            "label1": "Fat Percentage"
+          }
+        }
+      }
+    }
+  },
+  "CustomizedMealsRequest": {
+    "title": "Request For Customized Meal",
+    "form": {
+      "inputs": {
+        "one": {
+          "label": "Select Meal Type"
+        },
+        "two": {
+          "label": "Protein",
+          "placeholder": "Enter Protein"
+        },
+        "three": {
+          "label": "Fat",
+          "placeholder": "Enter Fat"
+        },
+        "four": {
+          "label": "Carbs",
+          "placeholder": "Enter Carbs"
+        }
+      }
+    }
+  },
+  "NutritionCoaching": {
+    "btnTxt": "Book Now",
+    "next": "Next",
+    "prev": "Previous",
+    "bannerTitle": "NEED NUTRITION ADVICE?",
+    "paragraphTxt": "Chat with a Registered Dietitian today for free!",
+    "title1": "Choose Appointment",
+    "title2": "Free Initial Nutrition Coaching Session",
+    "minutes": "minutes",
+    "paragraphTxt1": "Whether you're looking to set nutrition-related goals or need  help choosing the best Factor meals for you, our team of registered dietitians is here to help!",
+    "paragraphTxt2": " At the time of the coaching session, your dietitian will be calling you via phone or online meeting. Please ensure the your phone's spam settings allow for this call.",
+    "paragraphTxt3": "Please note, this service is only available to customers in the Iran.",
+    "sessionBooking": {
+      "title": "Book Instructor Session",
+      "note": "Note for instructor",
+      "placeholder": "Enter note for instructor",
+      "btn": "Book Now"
+    }
+  },
+  "Blogs": {
+    "blogsHero": {
+      "title": "Discover the GigaDiet Meals Blog",
+      "text": "Indulge in Nutrient-Rich Delights"
+    },
+    "blogsCard": {
+      "placeholder": "Search Blogs",
+      "btnText": "Submit",
+      "notFound": "Blog Not Found",
+      "nextTxt": "Next",
+      "prevTxt": "Previous"
+    }
+  },
+  "Cart": {
+    "noItem": "There are no items in this cart!!",
+    "MainMealTables": {
+      "tableTitle": "Main Meals",
+      "tableHead": {
+        "columns": {
+          "one": {
+            "label": "#"
+          },
+          "two": {
+            "label": "Image"
+          },
+          "three": {
+            "label": "Meal Name"
+          },
+          "four": {
+            "label": "Quantity"
+          },
+          "five": {
+            "label": "Price"
+          },
+          "six": {
+            "label": "Subtotal"
+          },
+          "seven": {
+            "label": "Action"
+          }
+        }
+      }
+    },
+    "OfferedMealsCartTable": {
+      "tableTitle": "Offered Meals",
+      "tableHead": {
+        "columns": {
+          "one": {
+            "label": "#"
+          },
+          "two": {
+            "label": "Image"
+          },
+          "three": {
+            "label": "Meal Name"
+          },
+          "four": {
+            "label": "Quantity"
+          },
+          "five": {
+            "label": "Price"
+          },
+          "six": {
+            "label": "Sub Total"
+          },
+          "seven": {
+            "label": "Action"
+          }
+        }
+      }
+    },
+    "summary": {
+      "title": "Summary",
+      "priceSummary": {
+        "subTotal": "Sub-Total",
+        "Discount": "Discount",
+        "Grandtotal": "Grand Total"
+      }
+    },
+    "buttons": {
+      "backBtns": {
+        "one": "Back In Weekly Menu",
+        "two": "Back In Offered Menu"
+      },
+      "proceed": "Proceed To Checkout",
+      "weeklyMenu": "Continue Weekly Menu",
+      "mainMenu": "Continue Main Menu",
+      "divider": "OR",
+      "offeredMenu": "Continue Offered Menu"
+    }
+  },
+  "Login": {
+    "backBtn": "Back",
+    "signInBtn": "Sign In",
+    "inputs": {
+      "placeholderOne": "Email or Phone Number",
+      "placeholderTwo": "Enter Your Password"
+    },
+    "links": {
+      "one": "Forget Password?",
+      "two": "Don't have an account? Create Account"
+    },
+    "socialBtn": {
+      "one": "Continue with Google",
+      "two": "Continue with Facebook"
+    },
+    "tramsAndCondition": {
+      "one": "By continuing, you agree to our",
+      "two": "User Agreement",
+      "three": "and",
+      "four": "Privacy Policy"
+    }
+  },
+  "Register": {
+    "backBtn": "Back",
+    "signUpBtn": "Sign Up",
+    "inputs": {
+      "placeholderOne": "Enter Your Phone Number",
+      "placeholderTwo": "Enter Your Email",
+      "placeholderThree": "Enter Your Password",
+      "placeholderFour": "Confirm Password"
+    },
+    "links": {
+      "one": "Already have an account? Please Login"
+    },
+    "socialBtn": {
+      "one": "Continue with Google",
+      "two": "Continue with Facebook"
+    }
+  },
+  "ResetPassword": {
+    "backBtn": "Back",
+    "title": "Reset Password",
+    "steps": {
+      "one": {
+        "title": "Step 1",
+        "description": "Enter Your Phone"
+      },
+      "two": {
+        "title": "Step 2",
+        "description": "Choose To Get OTP"
+      },
+      "three": {
+        "title": "Step 3",
+        "description": "Verify The OTP"
+      },
+      "four": {
+        "title": "Step 4",
+        "description": "Enter the new password"
+      }
+    },
+    "formSteps": {
+      "sendBtn": "Send",
+      "backBtn": "Back",
+      "resendOtp": "Resend OTP",
+      "one": {
+        "title": "Enter your phone, and we will send an OTP to reset your password.",
+        "inputPlaceholder": "Enter your phone number"
+      },
+      "two": {
+        "title": "Choose OTP Method",
+        "inputs": {
+          "one": "Phone",
+          "two": "WhatsApp"
+        }
+      },
+      "three": {
+        "title": "Enter OTP To Verify",
+        "timerTitle": "Time Remaining",
+        "resend": {
+          "title": "Did not receive code?"
+        }
+      },
+      "four": {
+        "title": "Enter Your New Password & Confirm Password",
+        "inputPlaceholderOne": "Enter your new password",
+        "inputPlaceholderTwo": "Confirm password"
+      }
+    }
+  },
+  "Checkout": {
+    "button": "Submit",
+    "title": "Billing Details",
+    "form": {
+      "label": {
+        "one": "Shipping Address",
+        "placeholderOne": "Enter your shipping address",
+        "two": "Order Notes",
+        "placeholderTwo": "Enter your special note"
+      }
+    },
+    "paymentMethods": {
+      "title": "Your Order",
+      "methods": {
+        "one": {
+          "title": "Cash On Delivery",
+          "paragraph": "Pay with cash upon delivery"
+        },
+        "two": {
+          "title": "Online Banking",
+          "paragraph": "Payments conducted through online banking platforms"
+        },
+        "three": {
+          "title": "Mobile Payments",
+          "paragraph": "Payments made using mobile devices, often through mobile wallets or apps"
+        }
+      },
+      "button": "Proceed to Place Order"
+    }
+  },
+  "Dashboard": {
+    "Header": {
+      "notifications": {
+        "title": "Notifications",
+        "markAsReadAll": "Mark As All Read",
+        "markAsRead": "Mark As Read",
+        "loadMore": "Load More"
+      },
+      "profileToggle": {
+        "signInAs": "Logged in as",
+        "profile": "Profile",
+        "logout": "Logout"
+      }
+    },
+    "Profile": {
+      "title": "Profile Information",
+      "updateBtnText": "Update Information",
+      "contactDetails": {
+        "title": "Contact Details",
+        "inputs": {
+          "number": {
+            "label": "Number",
+            "placeHolder": "Enter Number"
+          },
+          "email": {
+            "label": "Email",
+            "placeHolder": "Enter Email"
+          }
+        },
+        "verificationStatus": "Verification status",
+        "verifyBtnText": "Verify Now",
+        "inputText": "You can’t change your mobile number"
+      },
+      "updatedErrors": {
+        "district": "District is required",
+        "name": "Name is required",
+        "gender": "Gender is required",
+        "date_of_birth": "Date of birth is required",
+        "province": "Province is required"
+      },
+      "resetPassword": {
+        "title": "Reset Password",
+        "updateBtn": "Update Password",
+        "resetBtn": "Reset",
+        "inputs": {
+          "one": {
+            "label": "Old Password",
+            "placeholder": "Enter Your Old Password"
+          },
+          "two": {
+            "label": "New Password",
+            "placeholder": "Enter Your New Password"
+          },
+          "three": {
+            "label": "Confirm New Password",
+            "placeholder": "Confirm New Password"
+          }
+        },
+        "waringMsgs": {
+          "one": "New Password and Confirm New Password must match",
+          "two": "New Password and Confirm Password Matched"
+        }
+      },
+      "personalDetails": {
+        "title": "Personal Details",
+        "inputs": {
+          "name": {
+            "label": "Name",
+            "placeHolder": "Enter Name"
+          },
+          "fatherName": {
+            "label": "Father Name",
+            "placeHolder": "Enter Father Name"
+          },
+          "grandfatherName": {
+            "label": "Grandfather Name",
+            "placeHolder": "Enter Grandfather Name"
+          },
+          "dateOfBirth": {
+            "label": "Date Of Birth",
+            "placeHolder": "Enter Date Of Birth"
+          },
+          "gender": {
+            "label": "Gender",
+            "label1": "Male",
+            "label2": "female"
+          },
+          "province": {
+            "label": "Province",
+            "placeHolder": "Enter Province"
+          },
+          "district": {
+            "label": "District",
+            "placeHolder": "Enter District"
+          },
+          "locality": {
+            "label": "Locality",
+            "placeHolder": "Enter Locality"
+          },
+          "neighborhood": {
+            "label": "Neighborhood",
+            "placeHolder": "Enter Neighborhood"
+          },
+          "alley": {
+            "label": "Alley",
+            "placeHolder": "Enter Alley"
+          },
+          "houseNumber": {
+            "label": "House Number",
+            "placeHolder": "Enter House Number"
+          }
+        },
+        "verificationStatus": "Verification status",
+        "verifyBtnText": "Verify Now"
+      },
+      "verificationStatus": {
+        "one": "Verified",
+        "two": "Not Verified"
+      }
+    },
+    "MyOrders": {
+      "title": "My Orders",
+      "showPerPage": "Show Per Page",
+      "ordersForm": "Orders Form",
+      "ordersEnd": "Orders Form",
+      "notFound": "No Data Found",
+      "prevBtn": "Previous",
+      "nextBtn": "Next",
+      "paymentStatus": {
+        "one": "Paid",
+        "two": "Not Paid"
+      },
+      "orderStatus": {
+        "one": "Pending",
+        "two": "Confirm",
+        "three": "Rejected"
+      },
+      "deliveryStatus": {
+        "one": "Pending",
+        "two": "Shipped",
+        "three": "Delivered"
+      },
+      "table": {
+        "tableHead": {
+          "one": "Order ID",
+          "two": "Payment Status",
+          "three": "Order Status",
+          "four": "Delivery Status",
+          "five": "Order Placed At"
+        }
+      }
+    },
+    "ManageAllUser": {
+      "title": "User Management",
+      "showPerPage": "Show per page",
+      "actionAlerts": {
+        "disableUser": {
+          "title": "Are you sure?",
+          "text": "You want to disabled to user account..?",
+          "confirmButtonText": "Yes, disable the account!",
+          "cancelButtonText": "Cancel",
+          "result": "Disable!"
+        },
+        "enableUser": {
+          "title": "Are you sure?",
+          "text": "You want to enable to user account..?",
+          "confirmButtonText": "Yes, enable the account!",
+          "cancelButtonText": "Cancel",
+          "result": "Enable!"
+        }
+      },
+      "showPerPageOptions": {
+        "perPageOne": "20 Per Page",
+        "perPageTwo": "30 Per Page",
+        "perPageThree": "50 Per Page",
+        "perPageFour": "100 Per Page"
+      },
+      "search": {
+        "title": "Search",
+        "placeholder": "Enter search keyword"
+      },
+      "tableHead": {
+        "one": "Name",
+        "two": "Role",
+        "three": "Gender",
+        "four": "Phone",
+        "five": "Email",
+        "six": "Province",
+        "seven": "District",
+        "eight": "Verified",
+        "nine": "Action"
+      },
+      "pagination": {
+        "prev": "Previous",
+        "next": "Next"
+      }
+    },
+    "ManageWeeklyMeals": {
+      "AddWeeklyMeals": {
+        "pageTitle": "Add Weekly Meal",
+        "btnTxt": "Add The Meal",
+        "alertMsg": "Please select exactly one image",
+        "inputs": {
+          "languagePreference": "Language preference",
+          "selectCategory": {
+            "label": "Select category",
+            "placeholder": "Select Meal category"
+          },
+          "setMealImages": {
+            "label": "Set meal images",
+            "placeholder": {
+              "one": "Drop the image here.(jpg, jpeg, png, gif and bmp only)",
+              "two": "You can not add more than 1 image here. (jpg, jpeg, png, gif and bmp only)",
+              "three": "Drag & drop some images here, or click to select images.(jpg, jpeg, png, gif and bmp only)"
+            },
+            "previewImages": "Preview images"
+          },
+          "mealName": {
+            "label": "Meal name",
+            "placeholder": "Enter Meal Name"
+          },
+          "mealBadge": {
+            "label": "Meal badge",
+            "placeholder": "Enter Meal Badge(e.g, Healthy, High Protein and etc)"
+          },
+          "mealTags": {
+            "label": "Meal tags",
+            "placeholder": "Enter tags"
+          },
+          "proteinAmount": {
+            "label": "Protein amount",
+            "placeholder": "Enter Protein amount in number(e.g, 30)"
+          },
+          "fatAmount": {
+            "label": "Fat amount",
+            "placeholder": "Enter Fat amount in number(e.g, 30)"
+          },
+          "carbsAmount": {
+            "label": "Carbs amount",
+            "placeholder": "Enter Carbs amount in number(e.g, 30)"
+          },
+          "caloriesAmount": {
+            "label": "Calories amount",
+            "placeholder": "Calories"
+          },
+          "nutritionFactsImage": {
+            "label": "Nutrition facts image",
+            "placeholder": {
+              "one": "Drop the image here.(jpg, jpeg, png, gif and bmp only).(jpg, jpeg, png, gif and bmp only)",
+              "two": "Drag & drop an image here, or click to select an image.(jpg, jpeg, png, gif and bmp only)"
+            },
+            "previewImage": "Preview image"
+          },
+          "ingredients": {
+            "label": "Ingredients",
+            "placeholder": "Enter Meals Ingredients"
+          },
+          "heatingInstruction": {
+            "label": "Heating instruction",
+            "placeholder": "Enter Meals Heating Instruction"
+          },
+          "enterMealAvailability": {
+            "label": "Enter meal availability",
+            "placeholder": "Pick Availability Week",
+            "available": "This Meal will available from",
+            "unavailable": "This Meal will unavailable from"
+          },
+          "visibleToUser": {
+            "label": "Visible to user"
+          }
+        }
+      },
+      "RunningWeeklyMeals": {
+        "pageTitle": "Running Weekly Meals",
+        "notFound": "Running Weekly Meals Not Found",
+        "actionAlerts": {
+          "deleteRunningMeal": {
+            "title": "Are you sure?",
+            "text": "You won't be able to revert this!",
+            "confirmButtonText": "Yes, remove it!",
+            "cancelButtonText": "Cancel",
+            "result": "Removed!"
+          }
+        },
+        "inputs": {
+          "languagePreference": "Language preference",
+          "selectPreference": {
+            "label": "Select preference",
+            "placeholder": "Select preference"
+          }
+        },
+        "showPerPage": {
+          "title": "Show per page",
+          "options": {
+            "perPageOne": "20 Per Page",
+            "perPageTwo": "30 Per Page",
+            "perPageThree": "50 Per Page",
+            "perPageFour": "100 Per Page"
+          }
+        },
+        "search": {
+          "title": "Search",
+          "placeholder": "Search with meal name"
+        },
+        "tableHead": {
+          "labelOne": "Image",
+          "labelTwo": "Meal Name",
+          "labelThree": "Category",
+          "labelFour": "Available From",
+          "labelFive": "Unavailable From",
+          "labelSix": "Actions"
+        },
+        "pagination": {
+          "prev": "Previous",
+          "next": "Next"
+        }
+      },
+      "UpcomingWeeklyMeals": {
+        "pageTitle": "Upcoming Weekly Meals",
+        "notFound": "Upcoming Weekly Meals Not Found",
+        "actionAlerts": {
+          "AvailableFrom": {
+            "title": "Opps...!",
+            "text": "Available From date can't be any previous date of next week's Monday."
+          },
+          "UnavailableFrom": {
+            "title": "Opps...!",
+            "text": "Unavailable From date can't be any previous date of next week's Monday."
+          }
+        },
+        "DeleteUpcomingMeal": {
+          "title": "Are you sure?",
+          "text": "You won't be able to revert this!",
+          "confirmButtonText": "Yes, remove it!",
+          "cancelButtonText": "Cancel",
+          "result": "Removed!"
+        },
+        "inputs": {
+          "languagePreference": "Language preference",
+          "selectPreference": {
+            "label": "Select preference",
+            "placeholder": "Select preference"
+          },
+          "datesFilter": {
+            "available": {
+              "title": "Available From"
+            },
+            "unavailable": {
+              "title": "Unavailable From"
+            }
+          }
+        },
+        "showPerPage": {
+          "title": "Show per page",
+          "options": {
+            "perPageOne": "20 Per Page",
+            "perPageTwo": "30 Per Page",
+            "perPageThree": "50 Per Page",
+            "perPageFour": "100 Per Page"
+          }
+        },
+        "search": {
+          "title": "Search",
+          "placeholder": "Search with meal name"
+        },
+        "tableHead": {
+          "labelOne": "Image",
+          "labelTwo": "Meal Name",
+          "labelThree": "Category",
+          "labelFour": "Available From",
+          "labelFive": "Unavailable From",
+          "labelSix": "Actions"
+        },
+        "pagination": {
+          "prev": "Previous",
+          "next": "Next"
+        }
+      },
+      "ExpiredWeeklyMeals": {
+        "pageTitle": "Expired Weekly Meals",
+        "notFound": "Expired Weekly Meals Not Found",
+        "actionAlerts": {
+          "UnavailableFrom": {
+            "title": "Opps...!",
+            "text": "Available from date cannot be the running week's Monday or any future date."
+          },
+          "UnavailableEnd": {
+            "title": "Opps...!",
+            "text": "Unavailable end date cannot be the running week's Monday or any future date."
+          },
+          "DeleteExpiredMeal": {
+            "title": "Are you sure?",
+            "text": "You won't be able to revert this!",
+            "confirmButtonText": "Yes, remove it!",
+            "cancelButtonText": "Cancel",
+            "result": "Removed!"
+          }
+        },
+        "inputs": {
+          "languagePreference": "Language preference",
+          "selectPreference": {
+            "label": "Select preference",
+            "placeholder": "Select preference"
+          },
+          "datesFilter": {
+            "available": {
+              "title": "Available From"
+            },
+            "unavailable": {
+              "title": "Unavailable From"
+            }
+          }
+        },
+        "showPerPage": {
+          "title": "Show per page",
+          "options": {
+            "perPageOne": "20 Per Page",
+            "perPageTwo": "30 Per Page",
+            "perPageThree": "50 Per Page",
+            "perPageFour": "100 Per Page"
+          }
+        },
+        "search": {
+          "title": "Search",
+          "placeholder": "Search with meal name"
+        },
+        "tableHead": {
+          "labelOne": "Image",
+          "labelTwo": "Meal Name",
+          "labelThree": "Category",
+          "labelFour": "Available From",
+          "labelFive": "Unavailable From",
+          "labelSix": "Actions"
+        },
+        "pagination": {
+          "prev": "Previous",
+          "next": "Next"
+        }
+      }
+    },
+    "ManageMainMeals": {
+      "AddMainMeals": {
+        "pageTitle": "Add Main Meal",
+        "btnTxt": "Add The Meal",
+        "alert": {
+          "one": "Please select exactly one image",
+          "two": "Please select only one image for Nutrition Facts"
+        },
+        "inputs": {
+          "languagePreference": "Language preference",
+          "selectPreference": {
+            "label": "Select preference",
+            "placeholder": "Select preference"
+          },
+          "typeOfMeals": {
+            "label": "Type of meals",
+            "placeholder": "Select Meal Type"
+          },
+          "setMealImages": {
+            "label": "Set meal images",
+            "placeholder": {
+              "one": "Drop the images here.(jpg, jpeg, png, gif and bmp only)",
+              "two": "You can not add more than 1 image here. (jpg, jpeg, png, gif and bmp only)",
+              "three": "Drag & drop some images here, or click to select images.(jpg, jpeg, png, gif and bmp only)"
+            },
+            "previewImages": "Preview images"
+          },
+          "mealName": {
+            "label": "Meal name",
+            "placeholder": "Enter Meal Name"
+          },
+          "mealBadge": {
+            "label": "Meal badge",
+            "placeholder": "Enter Meal Badge(e.g, Healthy, High Protein and etc)"
+          },
+          "mealTags": {
+            "label": "Meal tags",
+            "placeholder": "Enter tags"
+          },
+          "proteinAmount": {
+            "label": "Protein amount",
+            "placeholder": "Enter Protein amount in number(e.g, 30)"
+          },
+          "fatAmount": {
+            "label": "Fat amount",
+            "placeholder": "Enter Fat amount in number(e.g, 30)"
+          },
+          "carbsAmount": {
+            "label": "Carbs amount",
+            "placeholder": "Enter Carbs amount in number(e.g, 30)"
+          },
+          "caloriesAmount": {
+            "label": "Calories amount",
+            "placeholder": "Calories"
+          },
+          "nutritionFactsImage": {
+            "label": "Nutrition facts image",
+            "placeholder": {
+              "one": "Drop the images here.(jpg, jpeg, png, gif and bmp only)",
+              "two": "Drag & drop an image here, or click to select an image.(jpg, jpeg, png, gif and bmp only)"
+            },
+            "previewImage": "Preview image"
+          },
+          "ingredients": {
+            "label": "Ingredients",
+            "placeholder": "Enter Meals Ingredients"
+          },
+          "heatingInstruction": {
+            "label": "Heating instruction",
+            "placeholder": "Enter Meals Heating Instruction"
+          },
+          "oldPrice": {
+            "label": "Old price",
+            "placeholder": "Enter Product Old Price(Optional)"
+          },
+          "regularPrice": {
+            "label": "Regular price",
+            "placeholder": "Enter Regular Price"
+          },
+          "visibleToUser": {
+            "label": "Visible to user"
+          }
+        }
+      },
+      "AllMainMeals": {
+        "pageTitle": "All Main Meals",
+        "notFound": "Meals Not Found",
+        "tableInputs": {
+          "languagePreference": "Language preference"
+        },
+        "showPerPage": {
+          "title": "Show per page",
+          "options": {
+            "perPageOne": "20 Per Page",
+            "perPageTwo": "30 Per Page",
+            "perPageThree": "50 Per Page",
+            "perPageFour": "100 Per Page"
+          }
+        },
+        "search": {
+          "title": "Search",
+          "placeholder": "Search with meal name"
+        },
+        "table": {
+          "tableHead": {
+            "labelOne": "Image",
+            "labelTwo": "Meal Name",
+            "labelThree": "Preference",
+            "labelFour": "Meal Type",
+            "labelFive": "Actions"
+          }
+        },
+        "deleteMealAlert": {
+          "title": "Are you sure?",
+          "text": "You won't be able to revert this!",
+          "confirmButtonText": "Yes, remove it!",
+          "cancelButtonText": "Cancel"
+        },
+        "alert": {
+          "one": "Please select exactly one image",
+          "two": "Please select only one image for Nutrition Facts"
+        },
+        "inputs": {
+          "editMainMealsTitle": "Edit Main Meals",
+          "languagePreference": "Language preference",
+          "selectPreference": {
+            "label": "Select preference",
+            "placeholder": "Select preference"
+          },
+          "typeOfMeals": {
+            "label": "Type of meals",
+            "placeholder": "Select Meal Type"
+          },
+          "setMealImages": {
+            "label": "Set meal images",
+            "placeholder": {
+              "one": "Drop the images here.(jpg, jpeg, png, gif and bmp only)",
+              "two": "You can not add more than 1 image here. (jpg, jpeg, png, gif and bmp only)",
+              "three": "Drag & drop some images here, or click to select images.(jpg, jpeg, png, gif and bmp only)"
+            },
+            "previewImages": "Preview images"
+          },
+          "mealName": {
+            "label": "Meal name",
+            "placeholder": "Enter Meal Name"
+          },
+          "mealBadge": {
+            "label": "Meal badge",
+            "placeholder": "Enter Meal Badge(e.g, Healthy, High Protein and etc)"
+          },
+          "mealTags": {
+            "label": "Meal tags",
+            "placeholder": "Enter tags"
+          },
+          "proteinAmount": {
+            "label": "Protein amount",
+            "placeholder": "Enter Protein amount in number(e.g, 30)"
+          },
+          "fatAmount": {
+            "label": "Fat amount",
+            "placeholder": "Enter Fat amount in number(e.g, 30)"
+          },
+          "carbsAmount": {
+            "label": "Carbs amount",
+            "placeholder": "Enter Carbs amount in number(e.g, 30)"
+          },
+          "caloriesAmount": {
+            "label": "Calories amount",
+            "placeholder": "Calories"
+          },
+          "nutritionFactsImage": {
+            "label": "Nutrition facts image",
+            "placeholder": {
+              "one": "Drop the images here.(jpg, jpeg, png, gif and bmp only)",
+              "two": "Drag & drop an image here, or click to select an image.(jpg, jpeg, png, gif and bmp only)"
+            },
+            "previewImage": "Preview image"
+          },
+          "ingredients": {
+            "label": "Ingredients",
+            "placeholder": "Enter Meals Ingredients"
+          },
+          "heatingInstruction": {
+            "label": "Heating instruction",
+            "placeholder": "Enter Meals Heating Instruction"
+          },
+          "enterMealAvailability": {
+            "label": "Enter meal availability",
+            "placeholder": "Pick Availability Week",
+            "available": "This Meal will available from",
+            "unavailable": "This Meal will unavailable from"
+          },
+          "oldPrice": {
+            "label": "Old price",
+            "placeholder": "Enter Product Old Price(Optional)"
+          },
+          "regularPrice": {
+            "label": "Regular price",
+            "placeholder": "Enter Regular Price"
+          },
+          "visibleToUser": {
+            "label": "Visible to user"
+          },
+          "updateBtn": "Update"
+        },
+        "pagination": {
+          "prev": "Previous",
+          "next": "Next"
+        }
+      }
+    },
+    "ManageOfferedMeals": {
+      "AddOfferedMeals": {
+        "pageTitle": "Add Offered Meal Package",
+        "pageTitle2": "Add Meal To The Package",
+        "btnTxt1": "Add The Meal",
+        "btnTxt2": "Submit",
+        "removeBtn": "Remove",
+        "tabBtn": {
+          "one": "Add Offered Meal Package",
+          "two": "Add Meal To The Package"
+        },
+        "alert": {
+          "one": "Please select only one image for Offered meal package",
+          "two": "Please select exactly one image",
+          "three": "Please select only one image for Nutrition Facts"
+        },
+        "inputs": {
+          "languagePreference": "Language preference",
+          "packageImages": {
+            "label": "Package images",
+            "placeholder": {
+              "one": "Select the image here ...(jpg, jpeg, png, gif and bmp only)",
+              "two": "Drag & drop an image here, or click to select an image.(jpg, jpeg, png, gif and bmp only)"
+            },
+            "previewImage": "Preview image"
+          },
+          "packageName": {
+            "label": "Package name",
+            "placeholder": "Enter Package name"
+          },
+          "tags": {
+            "label": "Tags",
+            "placeholder": "Enter tags"
+          },
+          "price": {
+            "label": "Price",
+            "placeholder": "Enter Price"
+          },
+          "visibleToUser": {
+            "label": "Visible to user"
+          },
+          "image": {
+            "label": "Image",
+            "placeholder": {
+              "one": "Add the image here ...(jpg, jpeg, png, gif and bmp only)",
+              "two": "Drag & drop an image here, or click to select an image.(jpg, jpeg, png, gif and bmp only)"
+            },
+            "previewImage": "Preview image"
+          },
+          "nutritionFactsImage": {
+            "label": "Nutrition Facts Image",
+            "placeholder": {
+              "one": "Drop the image here ...(jpg, jpeg, png, gif and bmp only)",
+              "two": "Drag & drop an image here, or click to select an image.(jpg, jpeg, png, gif and bmp only)"
+            },
+            "previewImage": "Preview image"
+          },
+          "selectMealPackage": {
+            "label": "Select meal package",
+            "placeholder": "Select meal package"
+          },
+          "mealName": {
+            "label": "Meal name",
+            "placeholder": "Enter Meal Name"
+          },
+          "proteinAmount": {
+            "label": "Protein amount",
+            "placeholder": "Enter Protein amount in number(e.g, 30)"
+          },
+          "fatAmount": {
+            "label": "Fat amount",
+            "placeholder": "Enter Fat amount in number(e.g, 30)"
+          },
+          "carbsAmount": {
+            "label": "Carbs amount",
+            "placeholder": "Enter Carbs amount in number(e.g, 30)"
+          },
+          "caloriesAmount": {
+            "label": "Calories amount",
+            "placeholder": "Calories"
+          },
+          "ingredients": {
+            "label": "Ingredients",
+            "placeholder": "Enter Meals Ingredients"
+          },
+          "heatingInstruction": {
+            "label": "Heating instruction",
+            "placeholder": "Enter Meals Heating Instruction"
+          },
+          "offeredMeals": "Offered Meal"
+        }
+      },
+      "AllOfferedMeals": {
+        "pageTitle": "Manage Offered Meals",
+        "notFound": "No Meals Found",
+        "languagePreference": "Language preference",
+        "deleteAlertMsg": {
+          "title": "Are you sure?",
+          "text": "You won't be able to revert this!",
+          "confirmButtonText": "Yes, remove it!",
+          "cancelButtonText": "Cancel",
+          "result": "Removed!"
+        },
+        "showPerPage": {
+          "title": "Show per page",
+          "options": {
+            "perPageOne": "20 Per Page",
+            "perPageTwo": "30 Per Page",
+            "perPageThree": "50 Per Page",
+            "perPageFour": "100 Per Page"
+          }
+        },
+        "search": {
+          "title": "Search",
+          "placeholder": "Search with meal name"
+        },
+        "table": {
+          "tableHead": {
+            "labelOne": "Image",
+            "labelTwo": "Package Name",
+            "labelThree": "Category",
+            "labelFour": "Actions"
+          }
+        },
+        "pagination": {
+          "prev": "Previous",
+          "next": "Next"
+        }
+      }
+    },
+    "ManageCustomizedMeals": {
+      "AddCustomizedMeals": {
+        "pageTitle": "Add Customized Meals",
+        "alert": "Please select exactly one image",
+        "btn": "Add Meal",
+        "inputs": {
+          "languagePreference": "Language preference",
+          "image": {
+            "label": "Image",
+            "placeholder": {
+              "one": "Drop the image here",
+              "two": "You can not add more than one image here",
+              "three": "Drag & drop some image here, or click to select image"
+            },
+            "previewImages": "Preview Images"
+          },
+          "mealTags": {
+            "label": "Meal tags",
+            "placeholder": "Enter Meal Tags"
+          },
+          "mealName": {
+            "label": "Meal Name",
+            "placeholder": "Enter meal name"
+          },
+          "selectDiet": {
+            "label": "Select Diet",
+            "options": {
+              "one": "Keto Diet",
+              "two": "Clean Diet"
+            }
+          },
+          "protein": {
+            "label": "Protein",
+            "placeholder": "Enter Protein(Number)"
+          },
+          "fadd": {
+            "label": "Fadd",
+            "placeholder": "Enter Fadd(Number)"
+          },
+          "carbs": {
+            "label": "Carbs",
+            "placeholder": "Enter Carbs(Number)"
+          },
+          "prp": {
+            "label": "Prp",
+            "placeholder": "Enter Prp(Number)"
+          },
+          "prc": {
+            "label": "Prc",
+            "placeholder": "Enter Prc(Number)"
+          },
+          "prf": {
+            "label": "Prf",
+            "placeholder": "Enter Prf(Number)"
+          },
+          "mf": {
+            "label": "MF",
+            "placeholder": "Enter MF(Number)"
+          },
+          "sf": {
+            "label": "SF",
+            "placeholder": "Enter SF(Number)"
+          },
+          "of": {
+            "label": "OF",
+            "placeholder": "Enter OF(Number)"
+          },
+          "fmf": {
+            "label": "FMF",
+            "placeholder": "Enter FMF(Number)"
+          },
+          "ingredients": {
+            "label": "Ingredients",
+            "placeholder": "Enter Ingredients"
+          },
+          "heatingInstruction": {
+            "label": "Heating Instruction",
+            "placeholder": "Enter Heating Instruction"
+          },
+          "visibleToUser": "Visible to user"
+        }
+      },
+      "AllCustomizedMeals": {
+        "pageTitle": "Add Customized Meals",
+        "notFound": "Meals Not Found",
+        "inputs": {
+          "languagePreference": "Language preference",
+          "deleteAlertMsg": {
+            "title": "Are you sure?",
+            "text": "You won't be able to revert this!",
+            "confirmButtonText": "Yes, remove it!",
+            "cancelButtonText": "Cancel",
+            "result": "Removed!"
+          },
+          "showPerPage": {
+            "title": "Show per page",
+            "options": {
+              "perPageOne": "20 Per Page",
+              "perPageTwo": "30 Per Page",
+              "perPageThree": "50 Per Page",
+              "perPageFour": "100 Per Page"
+            }
+          },
+          "search": {
+            "title": "Search",
+            "placeholder": "Search with meal name"
+          },
+          "table": {
+            "tableHead": {
+              "labelOne": "Image",
+              "labelTwo": "Meal Name",
+              "labelThree": "Diet Type",
+              "labelFour": "Actions"
+            }
+          },
+          "pagination": {
+            "prev": "Previous",
+            "next": "Next"
+          }
+        }
+      },
+      "CustomizedMealsRequest": {
+        "title": "Request For Customized Meal",
+        "tableHead": {
+          "labelOne": "Request ID",
+          "labelTwo": "Customer Name",
+          "labelThree": "Customer Phone",
+          "labelFour": "Customer Email",
+          "labelFive": "Meals Per Day",
+          "labelSix": "Meal Duration Repeat",
+          "labelSeven": "Action"
+        },
+        "notFound": "No Data Found"
+      }
+    },
+    "ManageMealPreference": {
+      "pageTitle": "Manage Meal Preference",
+      "btnTxt": "Submit",
+      "editBtnTxt": "Edit",
+      "notFound": "No Preferences Found",
+      "deleteBtnTxt": "Delete",
+      "alertMsg": {
+        "one": "Please select only one image for preference meal image",
+        "two": "Meal Preference created successfully",
+        "three": "Something went wrong!",
+        "four": "Are you sure?",
+        "five": "You want to remove to preference meal..?",
+        "six": "Yes, remove to preference meal!",
+        "seven": "Cancel",
+        "eight": "Removed!"
+      },
+      "inputs": {
+        "languagePreference": "Language preference",
+        "preferenceName": {
+          "label": "Preference name",
+          "placeholder": "Enter Preference"
+        },
+        "preferenceDescription": {
+          "label": "Description",
+          "placeholder": "Enter Preference Description"
+        },
+        "image": {
+          "label": "Preference Image",
+          "placeholder": {
+            "one": "Drop the image here ...(jpg, jpeg, png, gif and bmp only)",
+            "two": "Drag & drop an image here, or click to select an image.(jpg, jpeg, png, gif and bmp only)"
+          },
+          "previewImage": "Preview image"
+        },
+        "visibleToUser": {
+          "label": "Visible to user"
+        },
+        "editPreferenceMeals": {
+          "title": "Edit Preference Meals",
+          "btnTxt": "Submit",
+          "alertMsg": "Please select exactly one image",
+          "preferenceName": {
+            "label": "Preference name",
+            "placeholder": "Enter Preference"
+          },
+          "preferenceDescription": {
+            "label": "Description",
+            "placeholder": "Enter Preference Description"
+          },
+          "image": {
+            "label": "Preference Image",
+            "placeholder": {
+              "one": "Drop the image here ...(jpg, jpeg, png, gif and bmp only)",
+              "two": "Drag & drop an image here, or click to select an image.(jpg, jpeg, png, gif and bmp only)"
+            },
+            "previewImage": "Preview image"
+          },
+          "visibleToUser": {
+            "label": "Visible to user"
+          }
+        }
+      }
+    },
+    "ManageMealsPerDay": {
+      "pageTitle": "Manage Meals Per Day",
+      "editTitle": "Edit Meal Per Day",
+      "btnTxt": "Submit",
+      "editBtnTxt": "Edit",
+      "deleteBtnTxt": "Delete",
+      "inputs": {
+        "mealsPerDay": {
+          "label": "Meals per Day",
+          "placeholder": "Enter Numbers of Meal Per Day"
+        },
+        "visibleToUser": "Visible to user"
+      }
+    },
+    "ManageMealType": {
+      "pageTitle": "Manage Meal Type",
+      "editTitle": "Edit Meal Type",
+      "btnTxt": "Create",
+      "editBtnTxt": "Edit",
+      "deleteBtnTxt": "Delete",
+      "updateBtnTxt": "Update",
+      "alertMsg": {
+        "title": "Are you sure?",
+        "text": "You want to remove to meal type...?",
+        "confirmButtonText": "Yes, remove!",
+        "cancelButtonText": "cancel",
+        "result": "Removed!"
+      },
+      "inputs": {
+        "languagePreference": "Language preference",
+        "typeOfMeal": {
+          "label": "Type of meal",
+          "placeholder": "Enter breakfast, lunch, dinner, drinks, desert etc"
+        }
+      }
+    },
+    "ManageOrders": {
+      "notFound": "No Data Found",
+      "tabs": {
+        "name1": "Regular Orders",
+        "name2": "Customize Orders Requests"
+      },
+      "alertMsg": {
+        "PaymentStatusChange": {
+          "title": "Are you sure?",
+          "text": "You want to change the payment status? payment status can't be change after updated",
+          "confirmButtonText": "Yes, change payment status",
+          "cancelButtonText": "Cancel",
+          "result": {
+            "one": "Enabled!",
+            "two": "Opps!"
+          }
+        },
+        "OrderStatusChange": {
+          "title": "Success!"
+        },
+        "DeliveryStatusChange": {
+          "titleOne": "Success!",
+          "titleTwo": "Oops!"
+        }
+      },
+      "titleOfCustomizedMeal": "Customize Meal Requests",
+      "showPerPage": {
+        "title": "Show per page",
+        "options": {
+          "perPageOne": "20 Per Page",
+          "perPageTwo": "30 Per Page",
+          "perPageThree": "50 Per Page",
+          "perPageFour": "100 Per Page"
+        }
+      },
+      "search": {
+        "title": "Search",
+        "placeholder": "Enter search Order ID"
+      },
+      "ordersDate": {
+        "from": {
+          "title": "Orders Date From"
+        },
+        "to": {
+          "title": "Orders Date End"
+        }
+      },
+      "tableHead": {
+        "labelOne": "Order ID",
+        "labelTwo": "Customer Name",
+        "labelThree": "Customer Email",
+        "labelFour": "Delivery Address",
+        "labelFive": "Payment Status",
+        "labelSix": "Order Status",
+        "labelSeven": "Delivery Status",
+        "labelEight": "Payment Method",
+        "labelNine": "Order Placed At"
+      },
+      "order_status": {
+        "one": "Pending",
+        "two": "Confirm",
+        "three": "Rejected"
+      },
+      "delivery_status": {
+        "one": "Pending",
+        "two": "Shipped",
+        "three": "Delivered"
+      },
+      "pagination": {
+        "prev": "Previous",
+        "next": "Next"
+      }
+    },
+    "ManageDiscounts": {
+      "title": "Manage Discount",
+      "tabs": {
+        "tab1": "Main Menus Discount",
+        "tab2": "Customize Order Discount",
+        "tab3": "Offered menus Discount",
+        "tab4": "Discount in total"
+      },
+      "inputs": {
+        "discountStatus": {
+          "label": "Discount Active Status",
+          "label2": "Select discount status",
+          "active": "Active",
+          "inactive": "Inactive"
+        },
+        "discountCategory": {
+          "label": "Discount Category",
+          "label2": "Select Category",
+          "options": {
+            "one": "Main Menu",
+            "two": "Customize Order",
+            "three": "Offers",
+            "four": "Total Order"
+          }
+        },
+        "selectCategory": {
+          "label": "Select category",
+          "options": {
+            "one": "Main Menu",
+            "two": "Customize Order",
+            "three": "Offers",
+            "four": "Total Order"
+          }
+        },
+        "percentage": {
+          "label": "Discount Percentage",
+          "placeholder": "Enter Discount Percentage"
+        },
+        "maxPrice": {
+          "label": "Max Price",
+          "placeholder": "Enter Max Price"
+        },
+        "minPrice": {
+          "label": "Min Price",
+          "placeholder": "Enter Minimum Price"
+        },
+        "buttonText": "Create"
+      },
+      "card": {
+        "percentageAmount": "Percentage",
+        "minimumPrice": "Minimum Price",
+        "maximumPrice": "Maximum Price",
+        "activeStatus": "Active Status",
+        "buttonsGroup": {
+          "editButton": "Edit",
+          "deleteButton": "Delete"
+        }
+      },
+      "buttonUpdateText": "Update",
+      "modal": {
+        "title": "Edit Discount Range"
+      },
+      "swal": {
+        "title": "Are you sure?",
+        "text": "You want to remove to range..?",
+        "confirmButtonText": "Yes, remove!",
+        "removed": "Removed",
+        "cancelButtonText": "Cancel"
+      }
+    },
+    "ManageCoach": {
+      "addCoach": {
+        "pageTitle": "Add Instructor",
+        "inputs": {
+          "languagePreference": "Language preference",
+          "coachImage": {
+            "label": "Instructor image",
+            "dropPlaceholder": "Drop the image here ...(jpg, jpeg, png, gif and bmp only)",
+            "dragPlaceHolder": "Drag & drop an image here, or click to select an image.(jpg, jpeg, png, gif and bmp only)",
+            "previewImage": "Preview image"
+          },
+          "name": {
+            "label": "Instructor name",
+            "placeHolder": "Enter Instructor Name"
+          },
+          "qualification": {
+            "label": "Instructor qualification",
+            "placeHolder": "Enter Instructor Qualification"
+          },
+          "details": {
+            "label": "Instructor details",
+            "placeHolder": "Enter Instructor Details"
+          },
+          "visible": {
+            "label": "Visible to user"
+          },
+          "buttonText": "Add The Instructor"
+        }
+      },
+      "listCoach": {
+        "pageTitle": "List of All Coaches",
+        "languagePreference": "Language preference",
+        "showPerPage": {
+          "title": "Show per page",
+          "options": {
+            "perPageOne": "20 Per Page",
+            "perPageTwo": "30 Per Page",
+            "perPageThree": "50 Per Page",
+            "perPageFour": "100 Per Page"
+          }
+        },
+        "search": {
+          "title": "Search",
+          "placeholder": "Enter search keyword"
+        },
+        "tableHead": {
+          "labelOne": "Image",
+          "labelTwo": "Name",
+          "labelThree": "Qualification",
+          "labelFour": "Details",
+          "labelFive": "Action"
+        },
+        "pagination": {
+          "prev": "Previous",
+          "next": "Next"
+        },
+        "notFound": "No Data Found"
+      },
+      "updateCoach": {
+        "pageTitle": "Update Instructor",
+        "inputs": {
+          "languagePreference": "Language preference",
+          "updateImage": {
+            "label": "Instructor image",
+            "dropPlaceholder": "Drop the image here ...(jpg, jpeg, png, gif and bmp only)",
+            "dragPlaceHolder": "Drag & drop an image here, or click to select an image.(jpg, jpeg, png, gif and bmp only)",
+            "previewImage": "Preview image"
+          },
+          "updateName": {
+            "label": "Instructor name",
+            "placeHolder": "Enter Instructor Name"
+          },
+          "updateQualification": {
+            "label": "Instructor qualification",
+            "placeHolder": "Enter Instructor Qualification"
+          },
+          "updateDetails": {
+            "label": "Instructor details",
+            "placeHolder": "Enter Instructor Details"
+          },
+          "visible": {
+            "label": "Visible to user"
+          },
+          "buttonText": "Update The Instructor"
+        }
+      },
+      "swal": {
+        "title": "Are you sure?",
+        "text": "You won't be able to revert this! But you can re-add it.",
+        "confirmButtonText": "Yes, remove it!",
+        "removed": "Removed",
+        "cancelButtonText": "Cancel"
+      }
+    },
+    "ManageBanner": {
+      "editBannerTitle": "Edit Banner",
+      "update": "Update",
+      "addBanner": {
+        "pageTitle": "Add Banner",
+        "inputs": {
+          "languagePreference": "Language preference",
+          "heading": {
+            "label": "Banner heading",
+            "placeholder": "Enter Banner Heading"
+          },
+          "paragraph": {
+            "label": "Banner paragraph",
+            "placeholder": "Enter Banner paragraph"
+          },
+          "image": {
+            "label": "Banner image",
+            "dropPlaceholder": "Drop the image here ...(jpg, jpeg, png, gif and bmp only)",
+            "dragPlaceholder": "Drag & drop an image here, or click to select an image.(jpg, jpeg, png, gif and bmp only)",
+            "previewImage": "Preview image"
+          },
+          "visible": {
+            "label": "Visible to user"
+          },
+          "buttonText": "Send"
+        }
+      },
+      "listBanner": {
+        "pageTitle": "Manage Banner",
+        "languagePreference": "Language preference",
+        "showPerPage": {
+          "title": "Show per page",
+          "options": {
+            "perPageOne": "20 Per Page",
+            "perPageTwo": "30 Per Page",
+            "perPageThree": "50 Per Page",
+            "perPageFour": "100 Per Page"
+          }
+        },
+        "search": {
+          "title": "Search",
+          "placeholder": "Enter search keyword"
+        },
+        "tableHead": {
+          "labelOne": "Image",
+          "labelTwo": "Heading",
+          "labelThree": "Action"
+        },
+        "pagination": {
+          "prev": "Previous",
+          "next": "Next"
+        },
+        "notFound": "No Data Found"
+      },
+      "swal": {
+        "title": "Are you sure?",
+        "text": "You won't be able to revert this! But you can re-add it.",
+        "confirmButtonText": "Yes, remove it!",
+        "removed": "Removed",
+        "cancelButtonText": "Cancel",
+        "text2": "Your banner has been removed."
+      }
+    },
+    "ManageBlogs": {
+      "addBlog": {
+        "pageTitle": "Add Blog",
+        "languagePreference": "Language Preference",
+        "inputs": {
+          "blogImage": {
+            "label": "Blog image",
+            "dropPlaceholder": "Drop the image here ...(jpg, jpeg, png, gif and bmp only)",
+            "dragPlaceHolder": "Drag & drop an image here, or click to select an image.(jpg, jpeg, png, gif and bmp only)",
+            "previewImage": "Preview image"
+          },
+          "blogTitle": {
+            "label": "Blog title",
+            "placeHolder": "Enter Blog Title"
+          },
+          "blogDescription": {
+            "label": "Blog description",
+            "placeHolder": "Enter Blog Description"
+          },
+          "blogTags": {
+            "label": "Blog tags",
+            "placeHolder": "Enter Blog Tags"
+          },
+          "buttonText": "Add The Blog"
+        }
+      },
+      "allBlogs": {
+        "pageTitle": "List Of Blogs",
+        "languagePreference": "Language preference",
+        "showPerPage": {
+          "title": "Show per page",
+          "options": {
+            "perPageOne": "20 Per Page",
+            "perPageTwo": "30 Per Page",
+            "perPageThree": "50 Per Page",
+            "perPageFour": "100 Per Page"
+          }
+        },
+        "search": {
+          "title": "Search",
+          "placeholder": "Enter search keyword"
+        },
+        "tableHead": {
+          "labelOne": "Image",
+          "labelTwo": "Title",
+          "labelThree": "Description",
+          "labelFour": "Tags",
+          "labelFive": "Action"
+        },
+        "pagination": {
+          "prev": "Previous",
+          "next": "Next"
+        },
+        "notFound": "No Data Found"
+      },
+      "updateBlog": {
+        "title": "Update Blog",
+        "btnText": "Update The Blog"
+      }
+    },
+    "ManageNotification": {
+      "pageTitle": "Add Push Notification",
+      "inputs": {
+        "languagePreference": "Language preference",
+        "notificationName": {
+          "label": "Notification name",
+          "placeHolder": "Enter Notification Name"
+        },
+        "notificationDescription": {
+          "label": "Notification description",
+          "placeHolder": "Enter Notification Description"
+        },
+        "buttonText": "Add Notification"
+      }
+    },
+    "ManageSession": {
+      "title": "Manage Session",
+      "languagePreference": "Language preference",
+      "showPerPage": {
+        "title": "Show per page",
+        "options": {
+          "perPageOne": "20 Per Page",
+          "perPageTwo": "30 Per Page",
+          "perPageThree": "50 Per Page",
+          "perPageFour": "100 Per Page"
+        }
+      },
+      "search": {
+        "title": "Search",
+        "placeholder": "Enter search keyword"
+      },
+      "tableHead": {
+        "labelOne": "Instructor Name",
+        "labelTwo": "Note",
+        "labelThree": "Status"
+      },
+      "notFound": "No Data Found"
+    },
+    "ManageFAQ": {
+      "pageTitle": "Add FAQ",
+      "pageTitle2": "Manage ALL FAQ",
+      "pageTitle3": "Update FAQ",
+      "title": "Title",
+      "placeHolder": "Enter title",
+      "languagePreference": "Language Preference",
+      "description": "Description",
+      "tableHead": {
+        "labelOne": "Title",
+        "labelTwo": "Description",
+        "labelThree": "Actions"
+      },
+      "notFound": "Data Not Found",
+      "btnText": "Add",
+      "btnText2": "Update"
+    },
+    "ManagePrivacyPolicy": {
+      "pageTitle": "Add Privacy & Policy",
+      "languagePreference": "Language Preference",
+      "description": "Description",
+      "btnText": "Submit"
+    },
+    "ManageTramsAndCondition": {
+      "pageTitle": "Add Privacy & Policy",
+      "languagePreference": "Language Preference",
+      "description": "Description",
+      "btnText": "Submit",
+      "btnText2": "Update"
+    }
+  },
+  "FAQ": {
+    "title": "FAQ"
+  },
+  "TramsAndCondition": {
+    "title": "Terms And Conditions"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy"
+  },
+  "NotFound": {
+    "title": "Page not found!",
+    "text": "The page you are looking for cannot be found!",
+    "homeBtnText": "Go Back To Home",
+    "backBtnText": "Previous Page"
+  },
+  "AccessDeniedPage": {
+    "heading": "Access Denied!",
+    "description": "You do not have the required access level to view this page!",
+    "homeBtnText": "Go Back To Home",
+    "backBtnText": "Previous Page"
+  }
+}

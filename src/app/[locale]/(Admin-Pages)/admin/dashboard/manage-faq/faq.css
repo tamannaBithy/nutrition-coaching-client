@@ -1,0 +1,308 @@
+form .blog_img_field .image_drop_zone {
+  border: 1px dashed var(--dark-green--);
+  margin-top: 5px;
+}
+
+form .blog_img_field .image_drop_zone p {
+  color: var(--gray-light--);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+form .blog_title_fields label,
+form .blog_img_field label,
+form .blog_description_field label,
+form .blog_tags_field label,
+form .show_per_page_section label {
+  color: var(--gray-light--);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+form .blog_title_fields input,
+form .blog_description_field textarea {
+  border: 1px solid var(--dark-green--);
+  margin-top: 5px;
+}
+
+form .blog_title_fields input::placeholder,
+form .blog_description_field textarea::placeholder,
+form .rti--container input::placeholder {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--gray-light--);
+}
+
+form .add_blog_btn input {
+  background-color: var(--primary--);
+  color: #fff;
+  border: 0 !important;
+  outline: 0 !important;
+  padding: 5px 15px;
+  border-radius: 5px;
+  max-width: 200px;
+  width: 100% !important;
+}
+
+form .add_blog_btn input:hover {
+  background-color: var(--dark-green--);
+  color: #fff;
+  transition: all 0.5s ease-in-out;
+}
+
+form .form-control:focus {
+  box-shadow: none;
+  outline: 0;
+  border-color: var(--dark-green--);
+}
+
+form .rti--container {
+  margin-top: 5px;
+  padding: 6px 15px;
+  --rti-main: var(--dark-green--);
+  border-color: var(--dark-green--);
+}
+
+form .rti--container,
+form .rti--container .rti--input {
+  width: 100%;
+}
+
+.rti--container:focus-within {
+  box-shadow: none;
+  border-color: var(--dark-green--);
+}
+
+form .form-select {
+  border-color: var(--dark-green--);
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+form .form-select:focus {
+  box-shadow: none;
+  outline: 0;
+  border-color: var(--dark-green--);
+}
+
+.toolbar_container {
+  display: flex;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  justify-content: space-between;
+  align-items: flex-start;
+  border-top-left-radius: 0.375rem;
+  border-top-right-radius: 0.375rem;
+  border: 1px solid #374151;
+  width: 100%;
+}
+
+.toolbar_container .toolbar_item {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
+
+.toolbar_item_btn {
+  border: none;
+  background-color: transparent;
+  width: 35px;
+  height: 35px;
+}
+.active_b {
+  background-color: #0369a1 !important;
+  color: white;
+  border-radius: 6px;
+}
+.editor {
+  border-bottom: 1px solid #374151;
+  border-right: 1px solid #374151;
+  border-left: 1px solid #374151;
+}
+@media (min-width: 1024px) {
+  .toolbar_container .toolbar_item {
+    width: 83.333333%;
+  }
+}
+
+.add-blog-container {
+  background-color: var(--dash-bg--);
+  padding: 15px 25px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.add_blog_title h2 {
+  color: var(--primary--);
+  font-weight: 700;
+  font-size: 32px;
+}
+.active_b {
+  background-color: red;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  color: #ffffff;
+}
+
+.editBlogModal .modal-dialog {
+  max-width: 800px !important;
+}
+
+.edit_coach_title h2 {
+  color: var(--primary--);
+  font-weight: 700;
+  font-size: 32px !important;
+}
+
+.show_per_page_section p,
+.search_area_section p {
+  color: var(--dark-green--);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.form-select:focus {
+  box-shadow: none;
+  border-color: var(--primary--);
+}
+
+.form-select {
+  cursor: pointer;
+  color: var(--primary-gray--);
+  border: 1px solid var(--dark-green--) !important;
+}
+
+form .form-control:focus {
+  box-shadow: none;
+  border-color: var(--primary--);
+}
+
+form .from-control {
+  margin-right: 4px;
+  text-align: right;
+  border-radius: 5px;
+}
+
+form input::placeholder {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--gray-light--);
+}
+
+form .search_btn {
+  background-color: var(--primary--);
+  color: #fff;
+  border: 0 !important;
+  outline: 0 !important;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+
+form .search_btn:hover {
+  background-color: var(--dark-green--);
+  color: #fff;
+  transition: all 0.5s ease-in-out;
+}
+
+table thead tr td {
+  color: var(--secondary--);
+  font-size: 22px;
+  font-weight: 700;
+}
+
+table tbody tr td {
+  /* direction: rtl; */
+  color: var(--gray-light--);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.view_btn,
+.edit_btn,
+.delete_btn {
+  border: 1px solid var(--dark-green--);
+  outline: none;
+  padding: 5px 10px;
+}
+
+.blog_tooltip {
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+}
+.view_btn {
+  background-color: var(--dark-green--);
+}
+
+.edit_btn {
+  background-color: var(--primary--);
+}
+
+.delete_btn {
+  background-color: red;
+}
+
+.pagination .prev_btn {
+  margin-right: 3px !important;
+}
+
+.pagination .next_btn {
+  margin-left: 3px !important;
+}
+
+.pagination .next_btn .page-link,
+.pagination .prev_btn .page-link {
+  border-color: var(--primary--);
+  background-color: var(--primary--);
+  color: #ffffff !important;
+  border-radius: 5px !important;
+  width: 100px !important;
+  height: 38px;
+}
+
+.pagination .next_btn .page-link:hover,
+.pagination .prev_btn .page-link:hover {
+  border-color: var(--dark-green--);
+  background-color: var(--dark-green--);
+  transition: all 0.5s ease-in-out;
+}
+
+.pagination .next_btn .page-link:focus,
+.pagination .prev_btn .page-link:focus,
+.pagination .page-item .page-link:focus {
+  box-shadow: none;
+}
+
+.pagination .next_btn.disabled .page-link,
+.pagination .prev_btn.disabled .page-link {
+  border-color: var(--primary--);
+  background-color: var(--light-green--);
+  color: #ffffff;
+}
+
+.pagination .page-item .page-link {
+  margin: 0px 4px;
+  border-radius: 50%;
+  width: 35px;
+  height: 38px;
+  color: var(--dark-green--);
+  border-color: var(--primary--);
+  text-align: center;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: var(--dark-green--);
+  color: #ffffff;
+}
+
+@media (max-width: 600px) {
+  .show_per_page_section {
+    width: 100%;
+  }
+}

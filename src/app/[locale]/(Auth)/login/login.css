@@ -1,0 +1,18 @@
+.login_container {
+  position: relative;
+}
+
+.login_container .back_btn {
+  position: absolute;
+  left: 2%;
+  top: 2%;
+}
+.login_container .back_btn a {
+  color: #092635;
+  font-weight: 600;
+}
+
+.left_side_logIn {
+  max-width: 486px;
+  width: 100%;
+}

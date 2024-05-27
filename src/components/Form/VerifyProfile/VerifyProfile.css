@@ -1,0 +1,55 @@
+.choose_otp_txt {
+  font-size: 18px;
+  color: var(--gray-light--);
+}
+
+.form-control {
+  border: 1px solid var(--secondary--);
+  padding: 8px 12px;
+}
+
+.form-control:focus {
+  border-color: var(--primary-gray--);
+  box-shadow: none !important;
+}
+
+.form-check-input:checked {
+  background-color: var(--secondary--);
+  border-color: var(--secondary--);
+  outline: none !important;
+}
+
+.form-check-input {
+  cursor: pointer;
+  box-shadow: none;
+}
+
+.form-check-label {
+  display: block;
+  color: var(--secondary--);
+  font-weight: 600;
+}
+
+.prev-btn {
+  padding: 5px 20px;
+  background-color: var(--dark-green--);
+  color: #fff;
+}
+
+.next_btn {
+  padding: 5px 20px;
+  background-color: var(--secondary--);
+  color: #fff;
+}
+
+.inputStyle {
+  width: 2rem !important;
+  height: 3rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.countdown-text p span {
+  color: var(--dark-green--) !important;
+}

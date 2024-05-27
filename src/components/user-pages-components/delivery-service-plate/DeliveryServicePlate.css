@@ -1,0 +1,44 @@
+.deliveryServicePlate {
+  background: linear-gradient(
+      0deg,
+      rgba(21, 21, 21, 0.7) 0%,
+      rgba(21, 21, 21, 0.7) 100%
+    ),
+    url(/assets/banner.jpg), lightgray 50% / cover no-repeat;
+  min-height: 70vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-attachment: fixed;
+}
+
+.deliveryServicePlate .servicePlate {
+  max-width: 800px;
+  min-height: 250px;
+  height: 100%;
+  width: 100%;
+  background: white;
+  color: var(--secondary--);
+  border-radius: 8px;
+  margin: 0px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.deliveryServicePlate .servicePlate .content {
+  padding: 0px 80px;
+}
+.deliveryServicePlate .servicePlate .content h3 {
+  font-size: 34px;
+  font-weight: 700;
+  color: var(--secondary--);
+  margin-bottom: 20px;
+}
+.deliveryServicePlate .servicePlate .content p {
+  color: var(--gray-light--);
+}

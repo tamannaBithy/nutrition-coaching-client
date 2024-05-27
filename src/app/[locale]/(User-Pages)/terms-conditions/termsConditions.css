@@ -1,0 +1,25 @@
+.page_container_user .title h2 {
+  color: var(--primary--);
+  font-weight: 600;
+  line-height: 50px;
+}
+.page_container_user .title2 h3 {
+  color: #232936;
+  text-align: left;
+  font-size: 20px;
+  font-weight: 400;
+}
+.page_container_user .content-area {
+  max-width: 900px;
+  margin: auto;
+}
+.page_container_user .single_items .content-title {
+  font-size: 18px;
+  color: #282b35;
+}
+
+.page_container_user .single_items span {
+  font-size: 18px;
+  color: #282b35;
+  font-weight: 400;
+}

@@ -1,0 +1,41 @@
+.editPreferenceMeal .modal-dialog {
+  max-width: 600px !important;
+}
+.preference_img {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+.preference_meal_card {
+  background-color: #fff;
+  width: 100%;
+  height: 200px;
+  position: relative;
+}
+
+.preference_name h6 {
+  color: var(--dark-green--);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.preference_meal_card .preference_settings {
+  position: absolute;
+  top: 4%;
+  right: 5%;
+  cursor: pointer;
+}
+
+.preference_meal_card .preference_settings button {
+  border: 0 !important;
+  background-color: transparent !important;
+}
+
+.dropstart .dropdown-toggle::before {
+  content: none !important;
+}
+
+.dropdown-menu li .prefer_edit_btn,
+.dropdown-menu li .prefer_delete_btn {
+  color: var(--dark-green--);
+}

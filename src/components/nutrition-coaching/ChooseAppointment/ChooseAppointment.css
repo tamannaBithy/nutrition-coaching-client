@@ -1,0 +1,178 @@
+.choose_appointment_section {
+  padding-top: 120px;
+}
+.bookInstructorModal {
+  max-width: 600px;
+  width: 100%;
+}
+.bookInstructorModal .modal-title {
+  font-size: 26px;
+  font-weight: 600;
+  color: var(--primary--);
+}
+
+.appointment_title_section {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 15px;
+}
+
+.appointment_title_section h6 {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--primary--);
+}
+
+.appointment_title_section span {
+  font-size: 20px;
+  font-weight: 600;
+  color: #ffffff;
+  background-color: var(--primary--);
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.appointment_txt_section,
+.nutrition_coach_section {
+  border: 1px solid #c4c4c4;
+}
+
+.appointment_txt_section h6 {
+  font-weight: 600;
+  color: var(--primary-gray--);
+  margin-bottom: 0;
+  line-height: 20px;
+}
+
+.appointment_txt_section p {
+  font-weight: 400;
+  color: var(--gray-light--);
+  font-size: 15px;
+}
+
+.coach_info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.coach_info .coach_name_details {
+  font-weight: 500;
+  color: var(--secondary--);
+}
+
+.coach_info .coach_booking_btn button {
+  background: var(--secondary--);
+  color: var(--secondary-gray--);
+  padding: 5px 10px;
+}
+
+.coach_txt {
+  color: var(--gray-light--);
+  font-size: 15px;
+}
+
+.pagination .prev_btn {
+  margin-right: 3px !important;
+}
+
+.pagination .next_btn {
+  margin-left: 3px !important;
+}
+
+.pagination .next_btn .page-link,
+.pagination .prev_btn .page-link {
+  border-color: var(--primary--);
+  background-color: var(--primary--);
+  color: #ffffff !important;
+  border-radius: 5px !important;
+  width: 100px !important;
+  height: 38px;
+}
+
+.pagination .next_btn .page-link:hover,
+.pagination .prev_btn .page-link:hover {
+  border-color: var(--dark-green--);
+  background-color: var(--dark-green--);
+  transition: all 0.5s ease-in-out;
+}
+
+.pagination .next_btn .page-link:focus,
+.pagination .prev_btn .page-link:focus,
+.pagination .page-item .page-link:focus {
+  box-shadow: none !important;
+}
+
+.pagination .next_btn.disabled .page-link,
+.pagination .prev_btn.disabled .page-link {
+  border-color: var(--primary--);
+  background-color: var(--light-green--);
+  color: #ffffff;
+}
+
+.pagination .page-item .page-link {
+  margin: 0px 4px;
+  border-radius: 50%;
+  width: 35px;
+  height: 38px;
+  color: var(--dark-green--);
+  border-color: var(--primary--);
+  text-align: center;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: var(--dark-green--);
+  color: #ffffff;
+}
+
+form .blog_title_fields label,
+form .blog_img_field label,
+form .blog_description_field label,
+form .blog_tags_field label,
+form .show_per_page_section label {
+  color: var(--gray-light--);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+form .blog_title_fields input,
+form .blog_description_field textarea {
+  border: 1px solid var(--dark-green--);
+  margin-top: 5px;
+}
+
+form .blog_title_fields input::placeholder,
+form .blog_description_field textarea::placeholder,
+form .rti--container input::placeholder {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--gray-light--);
+}
+
+form .add_blog_btn input {
+  background-color: var(--primary--);
+  color: #fff;
+  border: 0 !important;
+  outline: 0 !important;
+  padding: 5px 15px;
+  border-radius: 5px;
+  max-width: 200px;
+  width: 100% !important;
+}
+
+form .add_blog_btn input:hover {
+  background-color: var(--dark-green--);
+  color: #fff;
+  transition: all 0.5s ease-in-out;
+}
+
+form .form-control:focus {
+  box-shadow: none;
+  outline: 0;
+  border-color: var(--dark-green--);
+}
