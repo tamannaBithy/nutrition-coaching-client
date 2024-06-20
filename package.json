@@ -42,7 +42,7 @@
     "rsuite": "^5.57.0",
     "slick-carousel": "^1.8.1",
     "socket.io-client": "^4.7.5",
-    "sweetalert2": "^11.10.7"
+    "sweetalert2": "^11.6.13"
   },
   "devDependencies": {
     "eslint": "^8",

@@ -87,7 +87,7 @@ export const apiSlice = createApi({
     "TermsAndConditions",
   ],
   baseQuery: fetchBaseQuery({
-    baseUrl: "http://localhost:8000/api/v1",
+    baseUrl: "https://nutrition-coaching-server.onrender.com/api/v1",
     prepareHeaders: async (headers, { getState, endpoint }) => {
       const token = localStorage.getItem("accessToken");
       if (token) {

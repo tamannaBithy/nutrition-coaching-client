@@ -9,11 +9,10 @@ import "react-toastify/dist/ReactToastify.css";
 import ReduxWrapper from "../../../redux/ReduxWrapper";
 import ShowNotifications from "../../hooks/notifications/ShowNotifications";
 
-// The font family for testing purposes
+// Define the font families
 const poppins = Poppins({
   weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
   style: ["normal", "italic"],
-  variable: "--font-poppins--",
   subsets: ["latin"],
   display: "swap",
 });
@@ -21,7 +20,6 @@ const poppins = Poppins({
 const roboto = Roboto({
   weight: ["100", "300", "400", "500", "700", "900"],
   style: ["normal", "italic"],
-  variable: "--font-roboto--",
   subsets: ["latin"],
   display: "swap",
 });
@@ -39,10 +37,11 @@ export default function RootLayout({ children, params }) {
     <Provider>
       <html lang={params.locale}>
         <head>
-          <link rel='manifest' href={"/manifest.json"} />
+          <link rel="manifest" href="/manifest.json" />
         </head>
         <body
-          className={`${poppins.className || ""} ${roboto.className || ""}`}>
+          className={`${poppins.className || ""} ${roboto.className || ""}`}
+        >
           <ReduxWrapper>
             <ToastContainer />
             <ShowNotifications />
