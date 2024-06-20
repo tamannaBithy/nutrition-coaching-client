@@ -36,8 +36,10 @@ const authMiddleware = withAuth(
         req?.nextauth?.token?.role !== "admin" &&
         adminPagesRegex.test(req?.nextUrl?.pathname)
       ) {
+        console.log("Redirecting to /denied due to insufficient permissions");
         return NextResponse.redirect(new URL("/denied", req.url));
       } else {
+        console.log("Proceeding with intlMiddleware");
         return intlMiddleware(req);
       }
     } catch (error) {
@@ -61,6 +63,8 @@ const authMiddleware = withAuth(
 // Main middleware function
 export default async function middleware(req) {
   try {
+    console.log("Middleware invoked for:", req.nextUrl.pathname);
+
     const publicPathnameRegex = new RegExp(
       `^(/(${locales.join("|")}))?(${publicPages
         .flatMap((p) => (p === "/" ? ["", "/"] : [p]))
@@ -71,11 +75,15 @@ export default async function middleware(req) {
 
     // Process internationalization middleware first
     const intlResponse = await intlMiddleware(req);
+    console.log("intlMiddleware response:", intlResponse);
 
     if (isPublicPage) {
+      console.log("Public page detected:", req.nextUrl.pathname);
       return intlResponse;
     } else {
-      return (await authMiddleware(req)) || intlResponse;
+      const authResponse = await authMiddleware(req);
+      console.log("authMiddleware response:", authResponse);
+      return authResponse || intlResponse;
     }
   } catch (error) {
     console.error("Error in middleware:", error);
