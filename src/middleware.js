@@ -3,7 +3,6 @@ import createIntlMiddleware from "next-intl/middleware";
 import { NextResponse } from "next/server";
 import { locales } from "./navigation";
 
-// Public pages array
 const publicPages = [
   "/",
   "/weekly-menu",
@@ -15,42 +14,29 @@ const publicPages = [
   "/reset-password",
 ];
 
-// Admin pages regular expression pattern
-const adminPagesPattern = `^(/(${locales.join(
-  "|"
-)}))?(/admin|/admin/|/admin/:path*)$`;
-const adminPagesRegex = new RegExp(adminPagesPattern, "i");
-
-// Initialize internationalization middleware
 const intlMiddleware = createIntlMiddleware({
   locales,
   defaultLocale: "en",
 });
 
-// Initialize authentication middleware
 const authMiddleware = withAuth(
   (req) => {
-    try {
-      // Role-based authentication
-      if (
-        req?.nextauth?.token?.role !== "admin" &&
-        adminPagesRegex.test(req?.nextUrl?.pathname)
-      ) {
-        return NextResponse.redirect(new URL("/denied", req.url));
-      } else {
-        return intlMiddleware(req);
-      }
-    } catch (error) {
-      console.error("Error in authMiddleware:", error);
-      return NextResponse.json(
-        { error: "Internal Server Error" },
-        { status: 500 }
-      );
+    const pathname = req.nextUrl.pathname;
+    const token = req.nextauth?.token;
+
+    if (!token?.role) {
+      return NextResponse.redirect(new URL("/login", req.url));
     }
+
+    if (token.role !== "admin" && /^\/admin($|\/)/i.test(pathname)) {
+      return NextResponse.redirect(new URL("/denied", req.url));
+    }
+
+    return intlMiddleware(req);
   },
   {
     callbacks: {
-      authorized: ({ token }) => token !== null,
+      authorized: ({ token }) => !!token,
     },
     pages: {
       signIn: "/login",
@@ -58,36 +44,19 @@ const authMiddleware = withAuth(
   }
 );
 
-// Main middleware function
-export default async function middleware(req) {
-  try {
-    const publicPathnameRegex = new RegExp(
-      `^(/(${locales.join("|")}))?(${publicPages
-        .flatMap((p) => (p === "/" ? ["", "/"] : [p]))
-        .join("|")})/?$`,
-      "i"
-    );
-    const isPublicPage = publicPathnameRegex.test(req.nextUrl.pathname);
+export default function middleware(req) {
+  const pathname = req.nextUrl.pathname;
+  const isPublicPage = publicPages.some(
+    (page) => pathname === page || pathname.startsWith(`${page}/`)
+  );
 
-    // Process internationalization middleware first
-    const intlResponse = await intlMiddleware(req);
-
-    if (isPublicPage) {
-      return intlResponse;
-    } else {
-      return (await authMiddleware(req)) || intlResponse;
-    }
-  } catch (error) {
-    console.error("Error in middleware:", error);
-    return NextResponse.json(
-      { error: "Internal Server Error" },
-      { status: 500 }
-    );
+  if (isPublicPage) {
+    return intlMiddleware(req);
   }
+
+  return authMiddleware(req);
 }
 
-// Configuration for the middleware
 export const config = {
-  // Match only internationalized pathnames, excluding API routes and static assets
   matcher: ["/", "/(en|ar)/:path*", "/((?!api|_next|.*\\..*).*)"],
 };

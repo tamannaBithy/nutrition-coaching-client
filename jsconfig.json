@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
+    "baseUrl": ".", // Ensures that paths are resolved from the project root
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"] // Sets up the alias
     }
-  }
+  },
+  "include": ["src"] // Include all files in src directory
 }
